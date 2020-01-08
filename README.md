@@ -4,15 +4,15 @@ Repository for the next #30DayMapChallenge, happening in November 2020.
 
 ## Topics
 
-TBA
+Topics for 2020 will be released 1st of October 2020. Until then you can propose categories on Twitter or by opening an issue here. 
 
 ## Data
 
-TBA
+Links to open datasets will be added here. 
 
 ## Tools
 
-TBA
+Links to tools and tutorials will be added here. 
 
 ## Other resources
 
