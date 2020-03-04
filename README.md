@@ -8,12 +8,25 @@ Topics for 2020 will be released 1st of October 2020. Until then you can propose
 
 ## Data
 
-Links to open datasets will be added here. 
+[Natural Earth Data](https://www.naturalearthdata.com/)
+Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
+
+[Free GIS Data](https://freegisdata.rtwilson.com/)
+
+
+[A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
 ## Tools
 
-Links to tools and tutorials will be added here. 
+[QGIS](https://www.qgis.org/en/site/)
 
-## Other resources
+## Tutorials and more
 
-TBA
+[University of Helsinki GeoPython course](https://geo-python.github.io/site/)
+
+[Introduction to PyQGIS by Anita Graser](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+
+## #30DayMapChallenge 2019
+
+[Jo Wood & #30DayMapChallenge repo](https://github.com/jwoLondon/30dayMapChallenge)
+
