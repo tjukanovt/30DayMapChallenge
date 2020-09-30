@@ -6,22 +6,22 @@
 ## Daily social mapping project in November 2020
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community. 
 
-The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, There are no restrictions on the tools, technologies and the data you use in your maps. Doing less than 30 is also fine. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. 
+The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies and the data you use in your maps. Doing less than 30 is also fine (and actually doing all 30 is really hard!). 
 
 ### Code of conduct
 No matter if you are a GIS expert or never made a map, everyone is welcome to participate,. But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don’t steal content from others. 
-- Give credit to the original data source whenever possible.
+- Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
 - **Don’t be an asshole**.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). 
 
-## Themes
+## Themes 📆
 
 *Topics for 2020 will be released 1st of October 2020. Until then you can propose categories on [Twitter](https://twitter.com/tjukanov) or by opening an issue here.* 
 
-| Day | Date       | Topic | Details |
+| Day | Date       | Theme| Details |
 | --- | ---------- | ----- | ------- |
 | 1   | `01-11-2020` |       |         |
 | 2   | `02-11-2020` |       |         |
@@ -54,7 +54,7 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 | 29  | `29-11-2020` |       |         |
 | 30  | `30-11-2020` |       |         |
 
-## Data
+## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
@@ -70,9 +70,9 @@ You can use **what ever data you want.** But here are a few sources which could 
 	- Interesting datasets from around the world.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
-## Tools
+## Tools 🔨🔧
 
-Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. That doesn't mean that **the challenge can be done with any kind of software** (or even without any software). 
+Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. That doesn't mean that **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps. 
 
  - [QGIS](https://www.qgis.org/en/site/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps. 
@@ -82,6 +82,8 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Not really a GIS tool, but can be used to create some stunning 3D visualizations
  - [Blender](https://www.blender.org/)
 	 - Free and open source 3D creation suite. Check out the BlenderGIS extension. 
+ - [R packages for geospatial](https://www.r-project.org/)
+	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples. 
  - [Mapshaper](https://mapshaper.org)
 	 - Useful for geospatial data processing in the browser such as file format conversion, map projection, feature simplification, filtering, clipping, merging etc. Can also be run [locally from the command line](https://github.com/mbloch/mapshaper).
  - [Vega-Lite](https://vega.github.io/vega-lite/) 
@@ -94,7 +96,7 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Reactive notebook environment for generation of visualization and cartographic output embedded in a textual narrative. Focus is on using [d3](https://d3js.org) for specifying visual output.
 
 
-## Tutorials and more helpful resources
+## Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
 [![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
 
@@ -109,13 +111,14 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 - [Aurelien Chaumet collected a great resource about all the maps to Tableau](https://public.tableau.com/profile/aurelien.chaumet?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes)
 - [Jo Wood & #30DayMapChallenge repo](https://github.com/jwoLondon/30dayMapChallenge)
 - [Massive collection by Bob Rudis with maps created with R](https://rud.is/books/30-day-map-challenge/)
-- [Blog with a collection by Evelyn Uuemaa](https://blog.ut.ee/30-maps-of-estonia-in-30-days/)
+- [More maps with R by Cédric Scherer](https://github.com/z3tt/30daymapchallenge)
+- [Blog with a great map collection by Evelyn Uuemaa](https://blog.ut.ee/30-maps-of-estonia-in-30-days/)
 - [Awesome collection by Maarten Lambrecht](https://www.maartenlambrechts.com/2019/11/01/my-30daymapchallenge.html)
 - [Stunning mapping mostly in the third dimension by Craig Taylor](https://mapzilla.co.uk/work/30daymapchallenge)
 - [Beautiful works by Fedir Gontsa](https://www.behance.net/gallery/88864239/My-30DayMapChallenge-19)
 - [Great blog and beautiful maps by Heikki Vesanto](https://gisforthought.com/30-day-map-challenge-2019/)
 - [My own website with few samples](https://tjukanov.org/30daymapchallenge) 
 
-Want to have your collection included? Make a PR or send me a link!
+*Want to have your collection included? Make a PR or send me a link!*
 
 
