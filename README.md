@@ -95,10 +95,12 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 
 
 ## Tutorials and more helpful resources
-If you want to make maps with QGIS, this is a great starting point:
+If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
 [![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
 
+- [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
+- [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
 - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
 ## #30DayMapChallenge 2019
@@ -111,6 +113,7 @@ If you want to make maps with QGIS, this is a great starting point:
 - [Awesome collection by Maarten Lambrecht](https://www.maartenlambrechts.com/2019/11/01/my-30daymapchallenge.html)
 - [Stunning mapping mostly in the third dimension by Craig Taylor](https://mapzilla.co.uk/work/30daymapchallenge)
 - [Beautiful works by Fedir Gontsa](https://www.behance.net/gallery/88864239/My-30DayMapChallenge-19)
+- [Great blog and beautiful maps by Heikki Vesanto](https://gisforthought.com/30-day-map-challenge-2019/)
 - [My own website with few samples](https://tjukanov.org/30daymapchallenge) 
 
 Want to have your collection included? Make a PR or send me a link!
