@@ -1,43 +1,53 @@
-# #30DayMapChallenge 
 
-The official repository for #30DayMapChallenge, happening in November 2020.
+# #30DayMapChallenge 🌎🌏🌎
+
+*[image here]*
+
+The official repository for #30DayMapChallenge, happening in November 2020. Challenge is happening all over the Internet, mostly on Twitter. 
+
+Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). 
+
+Code of conduct:
+- All maps have to be your original work. Don’t steal content. 
+- The challenge is all about creativity, openness and the joy of beautiful maps and cartography. 
+- Don’t be an asshole.
 
 ## Topics
 
 *Topics for 2020 will be released 1st of October 2020. Until then you can propose categories on [Twitter](https://twitter.com/tjukanov) or by opening an issue here.* 
 
-| Day | Topic | Details | Date       |
-| --- | ----- | ------- | ---------- |
-| 1   |       |         | 1.11.2020  |
-| 2   |       |         | 2.11.2020  |
-| 3   |       |         | 3.11.2020  |
-| 4   |       |         | 4.11.2020  |
-| 5   |       |         | 5.11.2020  |
-| 6   |       |         | 6.11.2020  |
-| 7   |       |         | 7.11.2020  |
-| 8   |       |         | 8.11.2020  |
-| 9   |       |         | 9.11.2020  |
-| 10  |       |         | 10.11.2020 |
-| 11  |       |         | 11.11.2020 |
-| 12  |       |         | 12.11.2020 |
-| 13  |       |         | 13.11.2020 |
-| 14  |       |         | 14.11.2020 |
-| 15  |       |         | 15.11.2020 |
-| 16  |       |         | 16.11.2020 |
-| 17  |       |         | 17.11.2020 |
-| 18  |       |         | 18.11.2020 |
-| 19  |       |         | 19.11.2020 |
-| 20  |       |         | 20.11.2020 |
-| 21  |       |         | 21.11.2020 |
-| 22  |       |         | 22.11.2020 |
-| 23  |       |         | 23.11.2020 |
-| 24  |       |         | 24.11.2020 |
-| 25  |       |         | 25.11.2020 |
-| 26  |       |         | 26.11.2020 |
-| 27  |       |         | 27.11.2020 |
-| 28  |       |         | 28.11.2020 |
-| 29  |       |         | 29.11.2020 |
-| 30  |       |         | 30.11.2020 |
+| Day | Date       | Topic | Details |
+| --- | ---------- | ----- | ------- |
+| 1   | `01-11-2020` |       |         |
+| 2   | `02-11-2020` |       |         |
+| 3   | `03-11-2020` |       |         |
+| 4   | `04-11-2020` |       |         |
+| 5   | `05-11-2020` |       |         |
+| 6   | `06-11-2020` |       |         |
+| 7   | `07-11-2020` |       |         |
+| 8   | `08-11-2020` |       |         |
+| 9   | `09-11-2020` |       |         |
+| 10  | `10-11-2020` |       |         |
+| 11  | `11-11-2020` |       |         |
+| 12  | `12-11-2020` |       |         |
+| 13  | `13-11-2020` |       |         |
+| 14  | `14-11-2020` |       |         |
+| 15  | `15-11-2020` |       |         |
+| 16  | `16-11-2020` |       |         |
+| 17  | `17-11-2020` |       |         |
+| 18  | `18-11-2020` |       |         |
+| 19  | `19-11-2020` |       |         |
+| 20  | `20-11-2020` |       |         |
+| 21  | `21-11-2020` |       |         |
+| 22  | `22-11-2020` |       |         |
+| 23  | `23-11-2020` |       |         |
+| 24  | `24-11-2020` |       |         |
+| 25  | `25-11-2020` |       |         |
+| 26  | `26-11-2020` |       |         |
+| 27  | `27-11-2020` |       |         |
+| 28  | `28-11-2020` |       |         |
+| 29  | `29-11-2020` |       |         |
+| 30  | `30-11-2020` |       |         |
 
 ## Data
 
@@ -60,6 +70,8 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
  - [QGIS](https://www.qgis.org/en/site/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps. 
  - [Kepler](https://kepler.gl/)
+ - [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
+ - [Blender](https://www.blender.org/)
  - [Mapshaper](https://mapshaper.org)
 	 - Useful for geospatial data processing in the browser such as file format conversion, map projection, feature simplification, filtering, clipping, merging etc. Can also be run [locally from the command line](https://github.com/mbloch/mapshaper).
  - [Vega-Lite](https://vega.github.io/vega-lite/) 
@@ -86,5 +98,4 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 
 [Jo Wood & #30DayMapChallenge repo](https://github.com/jwoLondon/30dayMapChallenge)
 
-## Code of Conduct
 
