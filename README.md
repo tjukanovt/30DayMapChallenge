@@ -68,6 +68,12 @@ You can use **what ever data you want.** But here are a few sources which could 
 	- Ordnance Survey Open Data for Great Britain. Includes general topographic map data at a range of scales; useful thematic data such as greenspace, terrain, roads and rivers; postcode and place name georeferencing.
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 	- Interesting datasets from around the world.
+- [LINZ Data Service](https://data.linz.govt.nz/)
+	- New Zealand land and sea data available for free under a Creative Commons licence via download or OGC APIs.
+- [LINZ NZ Aerial Basemap](https://basemaps.linz.govt.nz/)
+	- Current aerial imagery for New Zealand available under a Creative Commons licence via WMTS or XYZ tile services.
+- [Open Topography](https://opentopography.org/)
+	- Lidar point cloud and DEM data.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
 ## Tools 🔨🔧
