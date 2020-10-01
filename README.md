@@ -69,9 +69,9 @@ You can use **what ever data you want.** But here are a few sources which could 
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 	- Interesting datasets from around the world.
 - [LINZ Data Service](https://data.linz.govt.nz/)
-	- New Zealand land and sea data available for free as download or via OGC APIs under a Creative Commons licence.
+	- New Zealand land and sea data available for free under a Creative Commons licence via download or OGC APIs.
 - [LINZ NZ Aerial Basemap](https://basemaps.linz.govt.nz/)
-	- Current aerial imagery for New Zealand available via WMTS or XYZ tile services under a Creative Commons licence.
+	- Current aerial imagery for New Zealand available under a Creative Commons licence via WMTS or XYZ tile services.
 - [Open Topography](https://opentopography.org/)
 	- Lidar point cloud and DEM data.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
