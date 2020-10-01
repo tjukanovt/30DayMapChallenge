@@ -1,65 +1,59 @@
 
+
 # #30DayMapChallenge 🌎🌏🌎
 
-*[image here]*
+![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
 
 ## Daily social mapping project in November 2020
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community. 
 
-The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies and the data you use in your maps. Doing less than 30 is also fine (and actually doing all 30 is really hard!). 
+The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies and the data you use in your maps. Doing less than 30 is also fine (and actually doing all 30 is really hard!). See the *code of conduct* at the bottom of the page.
 
-### Code of conduct
-No matter if you are a GIS expert or never made a map, everyone is welcome to participate,. But keep in mind a few things:
-- All maps you publish have to be **your original work**. Don’t steal content from others. 
-- Give **credit to the original data source** whenever possible.
-- The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
-- **Don’t be an asshole**.
-
-Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). 
+Happy mapping!
 
 ## Themes 📆
 
 *Topics for 2020 will be released 1st of October 2020. Until then you can propose categories on [Twitter](https://twitter.com/tjukanov) or by opening an issue here.* 
 
-| Day | Date       | Theme| Details |
-| --- | ---------- | ----- | ------- |
-| 1   | `01-11-2020` |       |         |
-| 2   | `02-11-2020` |       |         |
-| 3   | `03-11-2020` |       |         |
-| 4   | `04-11-2020` |       |         |
-| 5   | `05-11-2020` |       |         |
-| 6   | `06-11-2020` |       |         |
-| 7   | `07-11-2020` |       |         |
-| 8   | `08-11-2020` |       |         |
-| 9   | `09-11-2020` |       |         |
-| 10  | `10-11-2020` |       |         |
-| 11  | `11-11-2020` |       |         |
-| 12  | `12-11-2020` |       |         |
-| 13  | `13-11-2020` |       |         |
-| 14  | `14-11-2020` |       |         |
-| 15  | `15-11-2020` |       |         |
-| 16  | `16-11-2020` |       |         |
-| 17  | `17-11-2020` |       |         |
-| 18  | `18-11-2020` |       |         |
-| 19  | `19-11-2020` |       |         |
-| 20  | `20-11-2020` |       |         |
-| 21  | `21-11-2020` |       |         |
-| 22  | `22-11-2020` |       |         |
-| 23  | `23-11-2020` |       |         |
-| 24  | `24-11-2020` |       |         |
-| 25  | `25-11-2020` |       |         |
-| 26  | `26-11-2020` |       |         |
-| 27  | `27-11-2020` |       |         |
-| 28  | `28-11-2020` |       |         |
-| 29  | `29-11-2020` |       |         |
-| 30  | `30-11-2020` |       |         |
+| **Day** | **Date**   | **Theme**                          | **Details**                                                                                                                                                                                                                                                                                                                                   |
+| ------- | ---------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | `01-11-2020` | **Points**                         | A map with points                                                                                                                                                                                                                                                                                                                             |
+| 2       | `02-11-2020` | **Lines**                          | A map with lines                                                                                                                                                                                                                                                                                                                              |
+| 3       | `03-11-2020` | **Polygons**                       | A map with polygons                                                                                                                                                                                                                                                                                                                           |
+| 4       | `04-11-2020` | **Hexagons**                       | A map with hexagons                                                                                                                                                                                                                                                                                                                           |
+| 5       | `05-11-2020` | **Blue**                           | A map with red colour or a map about something red                                                                                                                                                                                                                                                                                            |
+| 6       | `06-11-2020` | **Red**                            | A map with blue colour or a map about something blue                                                                                                                                                                                                                                                                                          |
+| 7       | `07-11-2020` | **Green**                          | A map with green colour or a map about something green                                                                                                                                                                                                                                                                                        |
+| 8       | `08-11-2020` | **Yellow**                         | A map with yellow colour or a map about something yellow                                                                                                                                                                                                                                                                                      |
+| 9       | `09-11-2020` | **Monochrome**                     | A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably). |
+| 10      | `10-11-2020` | **Grid**                           | Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form.                                                                                                                                                                                                                                                   |
+| 11      | `11-11-2020` | **3D**                             | The magnificent third dimension! Visualize something in 3D                                                                                                                                                                                                                                                                                    |
+| 12      | `12-11-2020` | **Map not made with GIS software** | Can be anything from hand-drawn to a map made with excel or ASCII. So get out your pen and paper or go crazy.                                                                                                                                                                                                                                 |
+| 13      | `13-11-2020` | **Raster**                         | Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels                                                                                                                                                                                                                        |
+| 14      | `14-11-2020` | **Climate change**                 | Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this.                                                                                                                                                                                                              |
+| 15      | `15-11-2020` | **Connections**                    | Connections between something.                                                                                                                                                                                                                                                                                                                |
+| 16      | `16-11-2020` | **Island(s)**                      | Islands tend to look quite beautiful on maps. Could be also something else than physical islands.                                                                                                                                                                                                                                             |
+| 17      | `17-11-2020` | **Historical map**                 | Historical data, historical map style or something else.                                                                                                                                                                                                                                                                                      |
+| 18      | `18-11-2020` | **Landuse**                        | How land is used, within a city, region, country or continent? How has it changed?                                                                                                                                                                                                                                                            |
+| 19      | `19-11-2020` | **NULL**                           | Missing data. We all hate that, right? How to map something that is missing?                                                                                                                                                                                                                                                                  |
+| 20      | `20-11-2020` | **Population**                     | That is you and me. A classic theme for thematic maps.                                                                                                                                                                                                                                                                                        |
+| 21      | `21-11-2020` | **Water**                          | Oceans, lakes, rivers or something completely different.                                                                                                                                                                                                                                                                                      |
+| 22      | `22-11-2020` | **Movement**                       | Visualizing movement can be done with a static map or with an animation. I [have written a blog post](https://www.gispo.fi/en/open-software/geogiffery-in-2020-with-qgis-temporal-controller/)recently on how to make a nimations with QGIS                                                                                                   |
+| 23      | `23-11-2020` | **Boundaries**                     | Boundaries are all around us. Some of them are visible and some of them are in our heads.                                                                                                                                                                                                                                                     |
+| 24      | `24-11-2020` | **Elevation**                      | Sweet hillshades, beautiful contours, high mountains or low valleys.                                                                                                                                                                                                                                                                          |
+| 25      | `25-11-2020` | **COVID-19**                       | It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)for some tips .                                                                                                        |
+| 26      | `26-11-2020` | **Map with a new tool**            | As the whole challenge is much about learning and experimenting, this day is dedicated to exploring new tools.                                                                                                                                                                                                                                |
+| 27      | `27-11-2020` | **Big or small data**              | What is meaningful big spatial data? What kind of spatial data is small but interesting?                                                                                                                                                                                                                                                      |
+| 28      | `28-11-2020` | **Non-geographic map**             | Topological maps, maps about planets, microscopic bacteria mapped or maybe even something weirder.                                                                                                                                                                                                                                            |
+| 29      | `29-11-2020` | **Globe**                          | The world isn’t flat, so with this map you can emphase the roundness of our planet. You can use e.g. [this QGIS plugin.](https://github.com/GispoCoding/GlobeBuilder)                                                                                                                                                                         |
+| 30      | `30-11-2020` | **A map**                          | No rules. You've made it this far, so do what you want. Just make a map.                                                                                                                                                                                                                                                                                                  |
 
 ## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
-	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages.
+	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/) .
 - [Natural Earth Data](https://www.naturalearthdata.com/) 
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
@@ -127,4 +121,11 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 
 *Want to have your collection included? Make a PR or send me a link!*
 
+## Code of conduct
+No matter if you are a GIS expert or never made a map, everyone is welcome to participate,. But keep in mind a few things:
+- All maps you publish have to be **your original work**. Don’t steal content from others. 
+- Give **credit to the original data source** whenever possible.
+- The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
+- **Don’t be an asshole**.
 
+Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). 
