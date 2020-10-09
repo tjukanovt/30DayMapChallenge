@@ -15,6 +15,8 @@ Happy mapping!
 
 *Topics for 2020 will be released 1st of October 2020. Until then you can propose categories on [Twitter](https://twitter.com/tjukanov) or by opening an issue here.* 
 
+*The following list of themes is also awailable as a [calendar ical file](https://github.com/tjukanovt/30DayMapChallenge/blob/master/themes.ical).*
+
 | **Day** | **Date**   | **Theme**                          | **Details**                                                                                                                                                                                                                                                                                                                                   |
 | ------- | ---------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | `01-11-2020` | **Points**                         | A map with points                                                                                                                                                                                                                                                                                                                             |

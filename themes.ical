@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tjukanovt//30DayMapChallenge//EN
+ATTENDEE:MAILTO:do-not@send-email.xyz
+X-WR-CALNAME:30DayMapChallenge
+BEGIN:VEVENT
+SUMMARY:Points
+DTSTART;VALUE=DATE:20201101
+UID:437da@30DayMapChallenge
+DESCRIPTION:A map with points
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lines
+DTSTART;VALUE=DATE:20201102
+UID:b26a2@30DayMapChallenge
+DESCRIPTION:A map with lines
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polygons
+DTSTART;VALUE=DATE:20201103
+UID:e8c64@30DayMapChallenge
+DESCRIPTION:A map with polygons
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexagons
+DTSTART;VALUE=DATE:20201104
+UID:1def3@30DayMapChallenge
+DESCRIPTION:A map with hexagons
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue
+DTSTART;VALUE=DATE:20201105
+UID:238ef@30DayMapChallenge
+DESCRIPTION:A map with blue colour or a map about something blue
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red
+DTSTART;VALUE=DATE:20201106
+UID:692b6@30DayMapChallenge
+DESCRIPTION:A map with red colour or a map about something red
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green
+DTSTART;VALUE=DATE:20201107
+UID:9d4de@30DayMapChallenge
+DESCRIPTION:A map with green colour or a map about something green
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yellow
+DTSTART;VALUE=DATE:20201108
+UID:88b6f@30DayMapChallenge
+DESCRIPTION:A map with yellow colour or a map about something yellow
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monochrome
+DTSTART;VALUE=DATE:20201109
+UID:53f11@30DayMapChallenge
+DESCRIPTION:A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grid
+DTSTART;VALUE=DATE:20201110
+UID:8fb8e@30DayMapChallenge
+DESCRIPTION:Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D
+DTSTART;VALUE=DATE:20201111
+UID:dee0b@30DayMapChallenge
+DESCRIPTION:The magnificent third dimension! Visualize something in 3D
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map not made with GIS software
+DTSTART;VALUE=DATE:20201112
+UID:398ae@30DayMapChallenge
+DESCRIPTION:Can be anything from hand-drawn to a map made with excel or ASCII. So get out your pen and paper or go crazy.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raster
+DTSTART;VALUE=DATE:20201113
+UID:268a7@30DayMapChallenge
+DESCRIPTION:Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate change
+DTSTART;VALUE=DATE:20201114
+UID:54a8c@30DayMapChallenge
+DESCRIPTION:Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connections
+DTSTART;VALUE=DATE:20201115
+UID:687ab@30DayMapChallenge
+DESCRIPTION:Connections between something.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Island(s)
+DTSTART;VALUE=DATE:20201116
+UID:261b2@30DayMapChallenge
+DESCRIPTION:Islands tend to look quite beautiful on maps. Could be also something else than physical islands.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historical map
+DTSTART;VALUE=DATE:20201117
+UID:1a550@30DayMapChallenge
+DESCRIPTION:Historical data, historical map style or something else.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landuse
+DTSTART;VALUE=DATE:20201118
+UID:267e7@30DayMapChallenge
+DESCRIPTION:How land is used, within a city, region, country or continent? How has it changed?
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NULL
+DTSTART;VALUE=DATE:20201119
+UID:b77c9@30DayMapChallenge
+DESCRIPTION:Missing data. We all hate that, right? How to map something that is missing?
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Population
+DTSTART;VALUE=DATE:20201120
+UID:41901@30DayMapChallenge
+DESCRIPTION:That is you and me. A classic theme for thematic maps.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water
+DTSTART;VALUE=DATE:20201121
+UID:7266a@30DayMapChallenge
+DESCRIPTION:Oceans, lakes, rivers or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movement
+DTSTART;VALUE=DATE:20201122
+UID:ee259@30DayMapChallenge
+DESCRIPTION:Visualizing movement can be done with a static map or with an animation. I [have written a blog post](https://www.gispo.fi/en/open-software/geogiffery-in-2020-with-qgis-temporal-controller/)recently on how to make a nimations with QGIS
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boundaries
+DTSTART;VALUE=DATE:20201123
+UID:20869@30DayMapChallenge
+DESCRIPTION:Boundaries are all around us. Some of them are visible and some of them are in our heads.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elevation
+DTSTART;VALUE=DATE:20201124
+UID:84b17@30DayMapChallenge
+DESCRIPTION:Sweet hillshades, beautiful contours, high mountains or low valleys.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COVID-19
+DTSTART;VALUE=DATE:20201125
+UID:8998d@30DayMapChallenge
+DESCRIPTION:It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)for some tips .
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map with a new tool
+DTSTART;VALUE=DATE:20201126
+UID:26d73@30DayMapChallenge
+DESCRIPTION:As the whole challenge is much about learning and experimenting, this day is dedicated to exploring new tools.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big or small data
+DTSTART;VALUE=DATE:20201127
+UID:dba1a@30DayMapChallenge
+DESCRIPTION:What is meaningful big spatial data? What kind of spatial data is small but interesting?
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-geographic map
+DTSTART;VALUE=DATE:20201128
+UID:449f9@30DayMapChallenge
+DESCRIPTION:Topological maps, maps about planets, microscopic bacteria mapped or maybe even something weirder.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Globe
+DTSTART;VALUE=DATE:20201129
+UID:3ca7a@30DayMapChallenge
+DESCRIPTION:The world isn’t flat, so with this map you can emphase the roundness of our planet. You can use e.g. [this QGIS plugin.](https://github.com/GispoCoding/GlobeBuilder)
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A map
+DTSTART;VALUE=DATE:20201130
+UID:aa990@30DayMapChallenge
+DESCRIPTION:No rules. You've made it this far, so do what you want. Just make a map.
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T200000Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+END:VCALENDAR
