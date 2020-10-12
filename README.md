@@ -1,5 +1,6 @@
 
 
+
 # #30DayMapChallenge 🌎🌏🌎
 
 ![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
@@ -106,6 +107,9 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
 - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
 - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
+
+## Maps, stats and results
+Want to know how many maps were posted for the challenge? How many cartographers took part? Or just want to admire the results but don't want to browse through the hashtag on Twitter? Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results. 
 
 ## #30DayMapChallenge 2019
 
