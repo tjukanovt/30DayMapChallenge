@@ -1,6 +1,6 @@
 # #30DayMapChallenge 🌎🌏🌎
 
-![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
+
 
 ## Daily social mapping project in November 2021
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community. 
