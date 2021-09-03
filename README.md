@@ -1,3 +1,4 @@
+
 # #30DayMapChallenge 🌎🌏🌎
 
 
@@ -77,7 +78,24 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 Want to know how many maps were posted for the challenge? How many cartographers took part? Or just want to admire the results but don't want to browse through the hashtag on Twitter? Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results. 
 
 ## #30DayMapChallenge 2020
+*Want to have your maps included? Make a PR or send me a link!*
 
+ - [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats
+   and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
+ - [David Friggens did another collection also this   
+   year](https://david.frigge.nz/30DayMapChallenge2020/)
+ - [Maps by Marco Minghini](https://github.com/MarcoMinghini/30DayMapChallenge-2020) 
+ - [Maps by Kate Berg](https://storymaps.arcgis.com/stories/ed9246cfadbf46a2a1c4175dba8515f1)
+ - [Maps by Aurelien Chaumet](https://aurelienchaumet.github.io/realisations/30daymapchallenge/)
+ - [Maps by Owen Powell](https://owenpowell.wordpress.com/30-day-map-challenge-2020/)
+ - [Maps by Andrew Zolnai](https://storymaps.arcgis.com/stories/1a08dd0efbf149a0948c04c93a277b29)
+ - [Maps by Ariel Kadouri](https://arielsartistry.com/2020/11/01/30daymapchallenge-2020/index.html)
+ - [Maps by Tiago Sousa](https://www.behance.net/gallery/108772495/30DayMapChallenge-2020)
+ - [Maps by Richard Vogg](https://github.com/richardvogg/30DayMapChallenge)
+ - [Maps by Steph Orellana Bello](https://github.com/sporella/30daymap)
+ - [Maps by Valentín Sastre](https://valentinmaps.org/)
+ - [Maps by Fedir Gontsa](https://www.behance.net/gallery/108818317/My-30DayMapChallenge-20)
+ - [Maps by @tomodraco](https://hicsuntdra.co/blog/twitter-30daymapchallenge-2020/) 
 
 ## #30DayMapChallenge 2019
 
@@ -92,8 +110,6 @@ Want to know how many maps were posted for the challenge? How many cartographers
 - [Beautiful works by Fedir Gontsa](https://www.behance.net/gallery/88864239/My-30DayMapChallenge-19)
 - [Great blog and beautiful maps by Heikki Vesanto](https://gisforthought.com/30-day-map-challenge-2019/)
 - [My own website with few samples](https://tjukanov.org/30daymapchallenge) 
-
-*Want to have your collection included? Make a PR or send me a link!*
 
 ## Code of conduct
 No matter if you are a GIS expert or never made a map, everyone is welcome to participate,. But keep in mind a few things:
