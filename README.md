@@ -38,6 +38,7 @@ You can use **what ever data you want.** But here are a few sources which could 
 - [Open Topography](https://opentopography.org/)
 	- Lidar point cloud and DEM data.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
+- [GIS data repositories spreadsheet by Karen Payne](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit#gid=47)
 
 ## Tools 🔨🔧
 
@@ -68,22 +69,22 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 ## Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
 [![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
-
 - [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
 - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
 - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
 ## Maps, stats and results
-Want to know how many maps were posted for the challenge? How many cartographers took part? Or just want to admire the results but don't want to browse through the hashtag on Twitter? Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results. 
+In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms.
+
+[#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
+
+Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results. 
 
 ## #30DayMapChallenge 2020
 *Want to have your maps included? Make a PR or send me a link!*
 
- - [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats
-   and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
- - [David Friggens did another collection also this   
-   year](https://david.frigge.nz/30DayMapChallenge2020/)
+ - [David Friggens did another collection also for the 2020 challenge](https://david.frigge.nz/30DayMapChallenge2020/)
  - [Maps by Marco Minghini](https://github.com/MarcoMinghini/30DayMapChallenge-2020) 
  - [Maps by Kate Berg](https://storymaps.arcgis.com/stories/ed9246cfadbf46a2a1c4175dba8515f1)
  - [Maps by Aurelien Chaumet](https://aurelienchaumet.github.io/realisations/30daymapchallenge/)
@@ -96,8 +97,13 @@ Want to know how many maps were posted for the challenge? How many cartographers
  - [Maps by Valentín Sastre](https://valentinmaps.org/)
  - [Maps by Fedir Gontsa](https://www.behance.net/gallery/108818317/My-30DayMapChallenge-20)
  - [Maps by @tomodraco](https://hicsuntdra.co/blog/twitter-30daymapchallenge-2020/) 
+ - [Maps by @samwise_v](https://carto81maps.wordpress.com/30daymapchallenge-2020/)
+ - [Maps by Evelyn Uuemaa](https://kevelyn1.github.io/30DayMapChallenge2020/)
+ - [Maps by @_anirudhgovind](https://github.com/anirudhgovind/30DayMapChallenge)
+ - [Maps on Instagram with the #30DayMapChallenge hashtag](https://www.instagram.com/explore/tags/30daymapchallenge/)
 
 ## #30DayMapChallenge 2019
+*Here are just a few examples of beautiful cartocollections from the first ever #30DayMapChallenge.*
 
 - [Great collection of all the maps from 2019 by David Friggens](https://david.frigge.nz/30DayMapChallenge/index.html)
 - [Aurelien Chaumet collected a great resource about all the maps to Tableau](https://public.tableau.com/profile/aurelien.chaumet?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes)
@@ -112,7 +118,9 @@ Want to know how many maps were posted for the challenge? How many cartographers
 - [My own website with few samples](https://tjukanov.org/30daymapchallenge) 
 
 ## Code of conduct
-No matter if you are a GIS expert or never made a map, everyone is welcome to participate,. But keep in mind a few things:
+No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate, 
+
+But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don’t steal content from others. 
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
