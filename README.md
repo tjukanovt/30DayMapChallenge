@@ -135,8 +135,11 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
  - [Maps by @samwise_v](https://carto81maps.wordpress.com/30daymapchallenge-2020/)
  - [Maps by Evelyn Uuemaa](https://kevelyn1.github.io/30DayMapChallenge2020/)
  - [Maps by @_anirudhgovind](https://github.com/anirudhgovind/30DayMapChallenge)
+ - [Maps by Kontur](https://twitter.com/KonturInc/status/1322841058934489089)
+ - [Maps by Odile Plattard](https://odileplattard.wordpress.com/2021/03/04/30-day-map-challenge-2020/)
  - [Maps with Jupyter Notebooks by Alexander Kmoch](https://github.com/allixender/30MapChallenge2020)
  - [Maps on Instagram with the #30DayMapChallenge hashtag](https://www.instagram.com/explore/tags/30daymapchallenge/)
+
 
 ## #30DayMapChallenge 2019
 *Here are just a few examples of beautiful cartocollections from the first ever #30DayMapChallenge.*
