@@ -32,8 +32,6 @@ START = "<!-- TABLE START -->"
 
 END = "<!-- TABLE END -->"
 
-TODAY = datetime.now()
-
 def _event(line: str, now: str) -> str:
 
     columns = [column.strip(" \t*`") for column in line.split('|')[1:-1]]
