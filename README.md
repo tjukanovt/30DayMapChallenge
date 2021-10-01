@@ -15,6 +15,8 @@ Happy mapping!
 
 *Daily challenges for 2021. As a new feature this year, three data challenges are introduced. On those days participant are encouraged to work on a common dataset. Find details on each category below.*
 
+*To stay up to date, you can download the daily themes to your calendar as [an ical file](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/themes.ical)*
+
 <!-- TABLE START -->
 
 | **Day** | **Date**   | **Theme**                          | **Details**                                                                                                                                                                                                                                                                                                                                   |
