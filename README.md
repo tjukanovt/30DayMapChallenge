@@ -5,7 +5,7 @@
 ![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/30dmpc_2021.png)
 
 ## Daily social mapping project in November 2021
-The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community. 
+The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community.
 
 The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (*doing all 30 is really hard!*). See the *Code of Conduct* at the bottom of the page.
 
@@ -13,7 +13,9 @@ Happy mapping!
 
 ## Themes 📆
 
-*Daily challenges for 2021. As a new feature this year, three data challenges are introduced. On those days participant are encouraged to work on a common dataset. Find details on each category below.* 
+*Daily challenges for 2021. As a new feature this year, three data challenges are introduced. On those days participant are encouraged to work on a common dataset. Find details on each category below.*
+
+<!-- TABLE START -->
 
 | **Day** | **Date**   | **Theme**                          | **Details**                                                                                                                                                                                                                                                                                                                                   |
 | ------- | ---------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,13 +50,15 @@ Happy mapping!
 | 29      | `29-11-2021` | **NULL**                          |    `   `                                                                                                                                                                        |
 | 30      | `30-11-2021` | **Metamapping day**                          | Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself                                                                                                                                                                                                                                                                                           |
 
+<!-- TABLE END -->
+
 ## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/) .
-- [Natural Earth Data](https://www.naturalearthdata.com/) 
+- [Natural Earth Data](https://www.naturalearthdata.com/)
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
 	- The site contains a categorised list of links to over 500 sites providing freely available geographic datasets - all ready for loading into a Geographic Information System.
@@ -73,21 +77,21 @@ You can use **what ever data you want.** But here are a few sources which could 
 
 ## Tools 🔨🔧
 
-Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. That doesn't mean that **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps. 
+Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. That doesn't mean that **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps.
 
  - [QGIS](https://www.qgis.org/en/site/)
-	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps. 
+	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps.
  - [Kepler](https://kepler.gl/)
 	 - Open source geospatial analysis tool for large-scale data sets and for interactive maps.
  - [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
 	 - Not really a GIS tool, but can be used to create some stunning 3D visualizations
  - [Blender](https://www.blender.org/)
-	 - Free and open source 3D creation suite. Check out the BlenderGIS extension. 
+	 - Free and open source 3D creation suite. Check out the BlenderGIS extension.
  - [R packages for geospatial](https://www.r-project.org/)
-	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples. 
+	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples.
  - [Mapshaper](https://mapshaper.org)
 	 - Useful for geospatial data processing in the browser such as file format conversion, map projection, feature simplification, filtering, clipping, merging etc. Can also be run [locally from the command line](https://github.com/mbloch/mapshaper).
- - [Vega-Lite](https://vega.github.io/vega-lite/) 
+ - [Vega-Lite](https://vega.github.io/vega-lite/)
 	 - Declarative visualization specification including [cartographic output](https://vega.github.io/vega-lite/examples/#maps-geographic-displays). Specifications can be written directly in JSON or via program language interfaces such as [altair](https://altair-viz.github.io) (Python) and [elm-vegalite](https://package.elm-lang.org/packages/gicentre/elm-vegalite/latest/VegaLite) (Elm). See, for example, this tutorial on using [OpenStreetMap with elm-vegalite](https://github.com/gicentre/litvis/blob/master/documents/tutorials/geoTutorials/openstreetmap.md)
  - [Vega](https://vega.github.io/vega/)
 	 - More flexible but lower-level declarative visualization specification including cartographic output. Specifications can be written directly in JSON or via program language interfaces such [elm-vega](https://package.elm-lang.org/packages/gicentre/elm-vega/latest/).
@@ -110,13 +114,13 @@ In 2020 more than 1000 people posted more than 7000 maps for the challenge on di
 
 [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
 
-Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results. 
+Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results.
 
 ## #30DayMapChallenge 2020
 *Want to have your maps included? Make a PR or send me a link!*
 
  - [David Friggens did another collection also for the 2020 challenge](https://david.frigge.nz/30DayMapChallenge2020/)
- - [Maps by Marco Minghini](https://github.com/MarcoMinghini/30DayMapChallenge-2020) 
+ - [Maps by Marco Minghini](https://github.com/MarcoMinghini/30DayMapChallenge-2020)
  - [Maps by Kate Berg](https://storymaps.arcgis.com/stories/ed9246cfadbf46a2a1c4175dba8515f1)
  - [Maps by Aurelien Chaumet](https://aurelienchaumet.github.io/realisations/30daymapchallenge/)
  - [Maps by Owen Powell](https://owenpowell.wordpress.com/30-day-map-challenge-2020/)
@@ -127,7 +131,7 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
  - [Maps by Steph Orellana Bello](https://github.com/sporella/30daymap)
  - [Maps by Valentín Sastre](https://valentinmaps.org/)
  - [Maps by Fedir Gontsa](https://www.behance.net/gallery/108818317/My-30DayMapChallenge-20)
- - [Maps by @tomodraco](https://hicsuntdra.co/blog/twitter-30daymapchallenge-2020/) 
+ - [Maps by @tomodraco](https://hicsuntdra.co/blog/twitter-30daymapchallenge-2020/)
  - [Maps by @samwise_v](https://carto81maps.wordpress.com/30daymapchallenge-2020/)
  - [Maps by Evelyn Uuemaa](https://kevelyn1.github.io/30DayMapChallenge2020/)
  - [Maps by @_anirudhgovind](https://github.com/anirudhgovind/30DayMapChallenge)
@@ -147,15 +151,15 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
 - [Stunning mapping mostly in the third dimension by Craig Taylor](https://mapzilla.co.uk/work/30daymapchallenge)
 - [Beautiful works by Fedir Gontsa](https://www.behance.net/gallery/88864239/My-30DayMapChallenge-19)
 - [Great blog and beautiful maps by Heikki Vesanto](https://gisforthought.com/30-day-map-challenge-2019/)
-- [My own website with few samples](https://tjukanov.org/30daymapchallenge) 
+- [My own website with few samples](https://tjukanov.org/30daymapchallenge)
 
 ## Code of Conduct
-No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate, 
+No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate,
 
 But keep in mind a few things:
-- All maps you publish have to be **your original work**. Don’t steal content from others. 
+- All maps you publish have to be **your original work**. Don’t steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
 - **Don’t be an asshole**.
 
-Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). 
+Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
