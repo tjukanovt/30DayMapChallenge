@@ -79,7 +79,7 @@ You can use **what ever data you want.** But here are a few sources which could 
 
 ## Tools 🔨🔧
 
-Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. That doesn't mean that **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps.
+Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. Still, **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps.
 
  - [QGIS](https://www.qgis.org/en/site/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps.
