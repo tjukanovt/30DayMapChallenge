@@ -17,16 +17,16 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link:
-    - icon: fontawesome/brands/twitter
-      link:
-      name: 
-    - icon: fontawesome/brands/linkedin
-      link: 
-      name: 
-    - icon: fontawesome/solid/file-pdf
-      link: 
-      name: 
+      link: https://github.com/ambarja/30DayMapChallenge
+#    - icon: fontawesome/brands/twitter
+#      link:
+#      name: 
+#    - icon: fontawesome/brands/linkedin
+#      link: 
+#      name: 
+#    - icon: fontawesome/solid/file-pdf
+#      link: 
+#      name: 
   # analytics:
   #   provider: google
   #   property: UA-122084242-1
