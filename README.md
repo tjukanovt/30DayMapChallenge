@@ -1,17 +1,20 @@
+<h1 align="center"><b>#30DayMapChallenge 🌎🌏🌎</b></h1>
+<table>
+<p align="center">
+<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a href="https://www.rstudio.com/products/rstudio/download/#download"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a> <a href="https://inkscape.org/release/inkscape-1.1/"><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a href="https://www.python.org/downloads/"><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a> <a href="https://github.com/Asabeneh/30-Days-Of-HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://github.com/oluwakayode-a/30-Days-of-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="https://github.com/wesbos/JavaScript30"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://plotly.com/python/getting-started/"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a href="https://www.sqlite.org/download.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+</p>
+</table>
 
+<center><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/30dmpc_2021.png"></a></center>
 
-# #30DayMapChallenge 🌎🌏🌎
-
-![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/30dmpc_2021.png)
-
-## Daily social mapping project in November 2021
+## 🔵 Daily social mapping project in November 2021
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community.
 
 The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag `#30DayMapChallenge`, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (*doing all 30 is really hard!*). See the *Code of Conduct* at the bottom of the page.
 
 Happy mapping!
 
-## Themes 📆
+## 🔵 Themes 📆
 
 *Daily challenges for 2021. As a new feature this year, three data challenges are introduced. On those days participant are encouraged to work on a common dataset. Find details on each category below.*
 
@@ -54,7 +57,7 @@ Happy mapping!
 
 <!-- TABLE END -->
 
-## Data 🗺
+## 🔵 Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
@@ -77,7 +80,7 @@ You can use **what ever data you want.** But here are a few sources which could 
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [GIS data repositories spreadsheet by Karen Payne](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit#gid=47)
 
-## Tools 🔨🔧
+## 🔵 Tools 🔨🔧
 
 Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. Still, **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps.
 
@@ -103,7 +106,7 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Reactive notebook environment for generation of visualization and cartographic output embedded in a textual narrative. Focus is on using [d3](https://d3js.org) for specifying visual output.
 
 
-## Tutorials + helpful resources 📚
+## 🔵 Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
 [![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
 - [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
@@ -111,14 +114,14 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
 - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
-## Maps, stats and results
+## 🔵 Maps, stats and results
 In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms.
 
 [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
 
 Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) by David Friggens and give your contribution there. The aim there is to create an interactive gallery of the results.
 
-## #30DayMapChallenge 2020
+## 🔵 #30DayMapChallenge 2020
 *Want to have your maps included? Make a PR or send me a link!*
 
  - [David Friggens did another collection also for the 2020 challenge](https://david.frigge.nz/30DayMapChallenge2020/)
@@ -143,7 +146,7 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
  - [Maps on Instagram with the #30DayMapChallenge hashtag](https://www.instagram.com/explore/tags/30daymapchallenge/)
 
 
-## #30DayMapChallenge 2019
+## 🔵 #30DayMapChallenge 2019
 *Here are just a few examples of beautiful cartocollections from the first ever #30DayMapChallenge.*
 
 - [Great collection of all the maps from 2019 by David Friggens](https://david.frigge.nz/30DayMapChallenge/index.html)
@@ -158,7 +161,7 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
 - [Great blog and beautiful maps by Heikki Vesanto](https://gisforthought.com/30-day-map-challenge-2019/)
 - [My own website with few samples](https://tjukanov.org/30daymapchallenge)
 
-## Code of Conduct
+## 🔵 Code of Conduct
 No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate,
 
 But keep in mind a few things:

@@ -48,7 +48,7 @@ theme:
     - search.suggest
   palette:
     - scheme: default
-      primary: green
+      primary: blue
       accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
