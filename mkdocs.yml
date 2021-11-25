@@ -17,16 +17,16 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: #
+      link:
     - icon: fontawesome/brands/twitter
-      link: #
-      name: #
+      link:
+      name: 
     - icon: fontawesome/brands/linkedin
-      link: #
-      name: #
+      link: 
+      name: 
     - icon: fontawesome/solid/file-pdf
-      link: #
-      name: #
+      link: 
+      name: 
   # analytics:
   #   provider: google
   #   property: UA-122084242-1
