@@ -17,16 +17,16 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: https://github.com/qgispe
+      link: #
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/qgispe
-      name: Grupo Oficial de Usuarios QGIS Perú
+      link: #
+      name: #
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/qgispe/
-      name: Grupo Oficial de Usuarios QGIS Perú
+      link: #
+      name: #
     - icon: fontawesome/solid/file-pdf
-      link: https://github.com/qgispe/30DayMapChallengeQGISPERU/raw/main/docs/30DCMQGISPE.pdf
-      name: Descargar archivo PDF (0.74 mb)
+      link: #
+      name: #
   # analytics:
   #   provider: google
   #   property: UA-122084242-1
@@ -48,7 +48,7 @@ theme:
     - search.suggest
   palette:
     - scheme: default
-      primary: blue
+      primary: deep blue
       accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
@@ -145,4 +145,3 @@ extra_css:
 ## Page tree
 nav:
     - Home: README.md
-    - Statistics: index.md
