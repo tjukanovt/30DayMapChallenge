@@ -101,7 +101,7 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Literate Visualization notebook environment optimised for specifying visualizations and documenting the design process. While not specific to cartography, can be a useful environment for exploring cartographic design.
  - [Observable](https://observablehq.com)
 	 - Reactive notebook environment for generation of visualization and cartographic output embedded in a textual narrative. Focus is on using [d3](https://d3js.org) for specifying visual output.
-
+ - [Generic Mapping Tools](https://docs.generic-mapping-tools.org/dev/gallery.html)
 
 ## Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
