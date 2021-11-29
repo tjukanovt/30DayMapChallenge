@@ -146,7 +146,6 @@ extra_css:
 nav:
     - Home: index.md
     - Publics map: 
-        - Day01: day01_Points.md
-        - Day02: day01_Points.md
-    - Statistic: day01_Points.md
+       - Day01: day01_Points.md
+       - Day02: day01_Points.md
 
