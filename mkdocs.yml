@@ -65,7 +65,7 @@ theme:
   favicon: imgs/favicon.ico
   icon:
     #  logo: fontawesome/solid/book-reader
-  logo: imgs/logo_white.png
+  logo: imgs/30DMC_Tag_.svg
 plugins:
 - search
 - mkdocstrings
