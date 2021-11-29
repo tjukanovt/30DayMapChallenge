@@ -5,7 +5,7 @@
 </p>
 </table>
 
-<center><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/30dmpc_2021.png"></a></center>
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/30dmpc_2021.png"></a></div>
 
 ## 🔵 Daily social mapping project in November 2021
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community.
