@@ -1,0 +1,275 @@
+/* Active tab bold & color */
+/*@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");*/
+@import url("https://fontlibrary.org/face/trueno");
+
+/* Cambia il carattere dei menu */
+.md-typeset h1,
+.md-tabs,
+.md-header-nav__topic,
+.md-sidebar, 
+.md-ellipsis, 
+.md-source__icon+,
+.md-source__repository {
+  font-family: "TruenoLight", /*Oswald,*/ sans-serif;
+  /* text-transform: uppercase!important;  */
+ text-transform:  none!important; 
+  font-weight: bold;
+}
+
+.md-source__icon+,
+.md-source__repository {
+  font-family: "TruenoLight", /*Oswald,*/ sans-serif;
+  font-weight: bold;
+}
+
+.md-typeset h1, .md-tabs, .md-header-nav__topic, .md-sidebar, .md-ellipsis {
+    font-family: "TruenoLight", /*Oswald,*/ sans-serif;
+    /* text-transform: uppercase!important;  */
+    font-weight: bold;
+	text-align: left!important;
+}
+.md-typeset h1, .md-typeset h2 {
+    /*font-weight: 300;*/
+    letter-spacing: -.01em;
+	font-size: 1.5em;
+}
+
+.md-tabs__link {
+    font-size: .75rem !important;
+}
+.md-tabs__link--active {
+    font-weight: bold !important;
+    color: var(--md-accent-fg-color);
+}
+.md-tabs__link:hover {
+    color: var(--md-accent-fg-color);
+}
+
+
+/* navigation bar active color*/
+.md-nav__item .md-nav__link--active {
+    font-weight: bold !important;
+    color: var(--md-accent-fg-color);
+}
+.md-nav__item .md-nav__link--active {
+    font-weight: bold !important;
+    font-size: .75rem !important;
+    color: var(--md-accent-fg-color);
+}
+
+/* frontpage elements */
+.tx-hero h1 {
+    font-size: 2.41rem !important;
+}
+a.md-button.md-button--primary {
+    background-color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+    color: #ffffff;
+}
+a.md-button.md-button--primary:hover {
+    color: #000000;
+}
+a.md-button.md-button:hover {
+    color: #000000;
+}
+
+
+/*Table styling*/
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 0px solid #cccccc;
+      text-align: centre;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 0px solid #cccccc;
+      text-align: centre;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+	  
+/*Intestazione tabella*/	  
+.md-typeset table:not([class]) th {
+    background-color: rgb(240 230 74 / 75%)!important; 
+    color: rgb(0 0 0 / 87%)!important; }
+/* gbvitrano*/
+/*Tabbed extension css*/
+.tabbed-set {
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+}
+.tabbed-set .highlight {
+  background: #ddd;
+}
+.tabbed-set .tabbed-content {
+  display: none;
+  order: 99;
+  width: 100%;
+}
+.tabbed-set label {
+  width: auto;
+  margin: 0 0.5em;
+  padding: 0.25em;
+  font-size: 120%;
+  cursor: pointer;
+}
+.tabbed-set input {
+  position: absolute;
+  opacity: 0;
+}
+.tabbed-set input:nth-child(n+1) {
+  color: #333333;
+}
+.tabbed-set input:nth-child(n+1):checked + label {
+    color: #FF5252;
+}
+.tabbed-set input:nth-child(n+1):checked + label + .tabbed-content {
+    display: block;
+}
+
+
+/* Admonition settings option*/
+.md-typeset .admonition.settings, .md-typeset details.settings {
+    border-left: .22rem solid #448aff;
+}
+.md-typeset .admonition.settings>.admonition-title, .md-typeset details.settings>.admonition-title, .md-typeset details.settings>summary {
+    border-bottom: .1rem solid rgba(236, 243, 255), .1);
+    background-color: rgba(236, 243, 255), .1);
+}
+.md-typeset .admonition.settings>.admonition-title:before, .md-typeset details.settings>.admonition-title:before, .md-typeset details.settings>summary:before {
+    color: #448aff;
+    content: "settings"}
+
+
+/* Site width etc.*/
+.md-grid {
+    /*max-width: 64rem !important;*/
+	max-width: 100% !important;
+}
+
+
+/* mkdocstrings styling
+/* Indentation. */
+div.doc-contents:not(.first) {
+  padding-left: 25px;
+  border-left: 4px solid rgba(230, 230, 230);
+  margin-bottom: 80px;
+}
+
+
+/* logo personalizzato*/
+.md-header__button.md-logo img, .md-header__button.md-logo svg {height: 2.5rem!important;    width: 12rem!important; padding-right: 3rem!important; box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
+
+/* logo personalizzato mobile*/
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {fill: currentColor; display: block; height: 2.5rem!important; width: 12rem !important;padding-right: 3rem; box-shadow: none !important;  border: none !important; border-radius: none !important; moz-border-radius: none !important; -webkit-border-radius: none !important;   background-color: transparent !important;}
+
+/*mod. colore primario deep orange*/
+[data-md-color-primary=deep-orange] {--md-primary-fg-color: #f18d36!important; --md-primary-fg-color--dark: #f18d36!important;}
+
+/*mod. colore accent green*/	
+[data-md-color-accent=green] { --md-accent-fg-color: #589632!important; }
+
+/*mod. colore footer prev/next*/
+/*:root>* {--md-footer-bg-color: rgb(241 141 54 / 100%)!important; }*/
+
+/*mod. altezza footer prev/next*/
+.md-footer__link {padding-bottom: .1rem!important; padding-top: .4rem!important; }
+
+/*base icona home*/
+.svg-inline--fa.fa-stack-2x { width: 1em!important;}
+
+/*menu mobile home home*/
+@media screen and (max-width: 76.1875em)
+.md-nav--primary .md-nav__title~.md-nav__list {
+    background-color: var(--md-default-bg-color);
+    box-shadow: 0 .05rem 0 var(--md-default-fg-color--lightest) inset;
+    overflow-y: auto;
+    -ms-scroll-snap-type: y mandatory;
+    scroll-snap-type: y mandatory;
+    touch-action: pan-y;
+    text-align: left!important;
+}
+	.md-nav__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left!important;
+}
+/* Sfondo QGIS
+.md-main { background-image:url(../imgs/qsfondo_800.png)!important; background-repeat: no-repeat!important;  background-position: center center!important; background-size: 90%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background:  #efefef;}*/
+	
+/* bordo immagine*/
+img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px; -webkit-border-radius: 5px;	border: 1px solid #589632;	padding: 1px;background-color: #fff;}
+	
+/* immagine no bordo/ no ombra */
+.immagonobox {	max-width: 100%!important;    height: auto!important;	box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}		
+
+ /*sposta più in alto il back to top in mobile se è installata la condivisione social; */
+ @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}}
+
+.hr-hfc {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);  width: 100%; margin: 20px 0;}	
+	
+  /*Clip resize; */
+.clip_resize {height: 100% /*width: 100%;  border-radius: 5px;  -moz-border-radius: 5px;  -webkit-border-radius: 5px;border: 1px solid #ccc;background-color:#fff; padding:1px; box-shadow: 0 2px 5px rgba(0,0,0,0.2) */} 
+
+.rst-versions.rst-badge .rst-current-version {display: none!important; }
+
+
+/* icona social */
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.75rem;
+  width: 1.75rem;
+  background-color: #5896329e;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.1rem;
+  margin-right: 0.3rem;}
+
+.social-icons .social-icon:last-child {
+  margin-right: 0;}
+
+.social-icons .social-icon:hover {
+  background-color: #f18d36;}
+  
+ /* scrollbar*/
+
+::-webkit-scrollbar {
+    width: 7px;
+	height:7px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 10px rgba(255,255,255,0.9); 
+    border-radius: 0px;
+}
+ 
+::-webkit-scrollbar-thumb:vertical {
+height: 50px;
+background-color: rgba(0,0,0,0.2);
+border: 1px solid rgba(0,0,0,0.2);
+-webkit-border-radius: 6px;
+max-height:100px;
+}  
+ 
+ 
+/* rettangolo info stampa pdf */  
+#print-site-banner {border-color: #ff0000!important; border-radius: 10px!important; }
+	
+ /*no pubblicità */
+ [data-ea-publisher].loaded, [data-ea-type].loaded {display: none!important; }	
