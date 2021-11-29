@@ -146,6 +146,36 @@ extra_css:
 nav:
     - Home: index.md
     - Publics map: 
-       - Day01: day01_Points.md
-       - Day02: day01_Points.md
-
+       - Day 01: day01_Points.md
+       - Day 02: day02_Lines.md
+       - Day 03: day03_Polygons.md
+       - Day 04: day04_Hexagons.md
+       - Day 05: day05_Datachallenge_1.md
+       - Day 06: day06_Red.md
+       - Day 07: day07_Green.md
+       - Day 08: day08_Blue.md
+       - Day 09: day09_Monochrome.md
+       - Day 10: day10_Raster.md
+       - Day 11: day11_3D.md
+       - Day 12: day12_Population.md
+       - Day 13: day13_Datachallenge_2.md
+       - Day 14: day14_Map_with_a_new_tool.md
+       - Day 15: day15_Map_made_without_using_a_computer.md
+       - Day 16: day16_Urban&rural.md
+       - Day 17: day17_Land.md
+       - Day 18: day18_Water.md
+       - Day 19: day19_Island(s).md
+       - Day 20: day20_Movement.md
+       - Day 21: day21_Elevation.md
+       - Day 22: day22_Boundaries.md
+       - Day 23: day23_Datachallenge_3.md
+       - Day 24: day24_Historical_map.md
+       - Day 25: day25_Interactive_map.md
+       - Day 26: day26_Choropleth_map.md
+       - Day 27: day27_Heatmap.md
+       - Day 28: day28_The_Earth_is_not_flat.md
+       
+       
+       
+       
+       
