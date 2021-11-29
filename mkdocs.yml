@@ -145,3 +145,35 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
+    - Days: 
+	    - Day01: ./2021/day01_Points.md
+	    - Day02: ./2021/day01_Points.md
+	    - Day03: ./2021/day01_Points.md
+	    - Day04: ./2021/day01_Points.md
+	    - Day05: ./2021/day01_Points.md
+	    - Day06: ./2021/day01_Points.md
+	    - Day07: ./2021/day01_Points.md
+	    - Day08: ./2021/day01_Points.md
+	    - Day09: ./2021/day01_Points.md
+	    - Day10: ./2021/day01_Points.md
+	    - Day11: ./2021/day01_Points.md
+	    - Day12: ./2021/day01_Points.md
+	    - Day13: ./2021/day01_Points.md
+	    - Day14: ./2021/day01_Points.md
+	    - Day15: ./2021/day01_Points.md
+	    - Day16: ./2021/day01_Points.md
+	    - Day17: ./2021/day01_Points.md
+	    - Day18: ./2021/day01_Points.md
+	    - Day19: ./2021/day01_Points.md
+	    - Day20: ./2021/day01_Points.md
+	    - Day21: ./2021/day01_Points.md
+	    - Day22: ./2021/day01_Points.md
+	    - Day23: ./2021/day01_Points.md
+	    - Day24: ./2021/day01_Points.md
+	    - Day25: ./2021/day01_Points.md
+	    - Day26: ./2021/day01_Points.md
+	    - Day27: ./2021/day01_Points.md
+	    - Day28: ./2021/day01_Points.md
+	    - Day29: ./2021/day01_Points.md
+	    - Day30: ./2021/day01_Points.md
+     - Statistic: ./2021/day01_Points.md
