@@ -1,0 +1,183 @@
+## Project information
+site_name: 30DaysMapChallenge
+site_url: https://tjukanovt.github.io/30DayMapChallenge
+site_description: The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag "#30DayMapChallenge", You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (doing all 30 is really hard!). See the Code of Conduct at the bottom of the page.
+
+site_author: https://ambarja.github.io/
+## Repository
+repo_name: 30DaysMapChallenge
+repo_url: https://github.com/tjukanovt/30DayMapChallenge
+edit_uri: edit/main/docs/ #disables edit button
+
+# Copyright
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+
+## Social Media
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/solid/home
+      link: https://github.com/tjukanovt/30DayMapChallenge
+#    - icon: fontawesome/brands/twitter
+#      link:
+#      name: 
+#    - icon: fontawesome/brands/linkedin
+#      link: 
+#      name: 
+#    - icon: fontawesome/solid/file-pdf
+#      link: 
+#      name: 
+  # analytics:
+  #   provider: google
+  #   property: UA-122084242-1
+
+# Configuration
+theme:
+  name: material
+  #custom_dir: docs/overrides/
+  static_templates:
+    - 404.html
+  language: en
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: deep blue
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    text: Lato
+    code: Roboto Mono
+  favicon: imgs/favicon.ico
+  icon:
+    #  logo: fontawesome/solid/book-reader
+  logo: imgs/30DMC_Tag_.svg
+plugins:
+- search
+- mkdocstrings
+- autolinks
+- macros
+# - img2fig
+- print-site:
+    add_to_navigation: false
+    print_page_title: 'Imprimir el documento en pdf'
+    add_print_site_banner: true
+    print_site_banner_template: "docs/pdf/banner.tpl"
+    # Table of contents
+    add_table_of_contents: true
+    toc_title: 'Mapathon aimed at sharing various thematic maps for every day of the month.'
+    toc_depth: 6
+    # Content-related
+    add_full_urls: true
+    enumerate_headings: true
+    enumerate_figures: true
+    add_cover_page: true
+    cover_page_template: "docs/pdf/cover_page.tpl"
+    path_to_pdf: "3ODCMQGISPE.pdf"
+    exclude:
+
+- rss:
+    abstract_chars_count: 160
+    date_from_meta:
+        as_creation: "date"
+        as_update: false
+        datetime_format: "%d-%m-%Y"
+    # datetime_format: "%Y-%m-%d"
+    feed_ttl: 1440
+    length: 20
+    pretty_print: false
+    match_path: ".*"
+    url_parameters:
+        utm_source: "documentation"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+
+markdown_extensions:
+- toc:
+        permalink: ↵
+- meta
+- mkdocs-click
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.critic:
+      mode: view
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.smartsymbols
+- admonition
+- pymdownx.details
+- pymdownx.tasklist:
+      clickable_checkbox: true
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+- attr_list
+- def_list
+- abbr
+- pymdownx.snippets
+- footnotes
+
+## Custom theme additions
+extra_javascript:
+   - stylesheets/extra.js
+
+extra_css:
+   - stylesheets/gbextra.css
+
+## Page tree
+nav:
+    - Home: index.md
+    - Publics map: 
+       - Day 01-Point: day01_Points.md
+       - Day 02-Lines: day02_Lines.md
+       - Day 03-Polygons: day03_Polygons.md
+       - Day 04-Hexagons: day04_Hexagons.md
+       - Day 05-Data challenge 1: day05_Datachallenge_1.md
+       - Day 06-Red: day06_Red.md
+       - Day 07-Green: day07_Green.md
+       - Day 08-Blue: day08_Blue.md
+       - Day 09-Monochrome: day09_Monochrome.md
+       - Day 10-Raster: day10_Raster.md
+       - Day 11-3D: day11_3D.md
+       - Day 12-Population: day12_Population.md
+       - Day 13-Data challenge 2: day13_Datachallenge_2.md
+       - Day 14-Without tool: day14_Map_with_a_new_tool.md
+       - Day 15-Without computer: day15_Map_made_without_using_a_computer.md
+       - Day 16-Urban%Rural: day16_Urban&rural.md
+       - Day 17-Land: day17_Land.md
+       - Day 18-Water: day18_Water.md
+       - Day 19-Island(s): day19_Island(s).md
+       - Day 20-Movement: day20_Movement.md
+       - Day 21-Elevation: day21_Elevation.md
+       - Day 22-Boundaries: day22_Boundaries.md
+       - Day 23-Data challenge 3: day23_Datachallenge_3.md
+       - Day 24-Historical map: day24_Historical_map.md
+       - Day 25-Intercative map: day25_Interactive_map.md
+       - Day 26-Choropleth: day26_Choropleth_map.md
+       - Day 27-Heatmap: day27_Heatmap.md
+       - Day 28-The Earth is not flat: day28_The_Earth_is_not_flat.md
+       - Day 29-NULL: day29_NULL.md
+       
+    - Statistic: Statistic.md 
+
+       
+       
+       
