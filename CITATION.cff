@@ -6,8 +6,8 @@ cff-version: 1.2.0
 message: "If you use this repository like reference, please cite it as below."
 title: "30DayMapChallenge"
 authors:
-- family-names: Topi
-  given-names: Tjukanov 
+- family-names: Tjukanov
+  given-names: Topi 
 #version: 1.00
 date-released: 2021-09-01
 url: "https://github.com/tjukanovt/30DayMapChallenge"
