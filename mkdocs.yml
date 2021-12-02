@@ -132,7 +132,7 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
-    - Most popular maps in 2020: 
+    - Most popular maps in 2021: 
        - Day 01-Point: day01_Points.md
        - Day 02-Lines: day02_Lines.md
        - Day 03-Polygons: day03_Polygons.md
