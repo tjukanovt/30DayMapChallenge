@@ -1,4 +1,3 @@
-<h1 align="center"><b>#30DayMapChallenge 🌎🌏🌎</b></h1>
 ## 🔵 Daily social mapping project happening every November
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community.
 
