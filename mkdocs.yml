@@ -10,7 +10,7 @@ repo_url: https://github.com/tjukanovt/30DayMapChallenge
 #edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Created by <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -33,7 +33,7 @@ extra:
 
 # Configuration
 theme:
-  name: material
+  name: minima
   #custom_dir: docs/overrides/
   static_templates:
     - 404.html
@@ -43,9 +43,6 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
-    - search.highlight
-    - search.share
-    - search.suggest
   palette:
     - scheme: default
       primary: deep blue
@@ -58,7 +55,6 @@ theme:
     #  logo: fontawesome/solid/book-reader
   logo: imgs/30DMC_Tag_.svg
 plugins:
-- search
 - mkdocstrings
 - autolinks
 - macros
