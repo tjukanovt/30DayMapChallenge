@@ -50,15 +50,6 @@ theme:
     - scheme: default
       primary: deep blue
       accent: deep orange
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
-      primary: deep orange
-      accent: green
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
   font:
     text: Lato
     code: Roboto Mono
@@ -74,7 +65,7 @@ plugins:
 # - img2fig
 - print-site:
     add_to_navigation: false
-    print_page_title: 'Imprimir el documento en pdf'
+    print_page_title: 'Print site as pdf'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
@@ -87,7 +78,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "3ODCMQGISPE.pdf"
+    path_to_pdf: "30daymapchallenge.pdf"
     exclude:
 
 - rss:
@@ -145,7 +136,7 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
-    - Publics map: 
+    - Most popular maps in 2020: 
        - Day 01-Point: day01_Points.md
        - Day 02-Lines: day02_Lines.md
        - Day 03-Polygons: day03_Polygons.md
@@ -177,7 +168,7 @@ nav:
        - Day 29-NULL: day29_NULL.md
        - Day 30-Metamapping: day30_Metamapping_day.md
        
-    - Statistic: Statistic.md 
+    - Statistics: Statistic.md 
 
        
        
