@@ -148,7 +148,7 @@ nav:
        - Day 13-Data challenge 2: day13_Datachallenge_2.md
        - Day 14-New tool: day14_Map_with_a_new_tool.md
        - Day 15-Without computer: day15_Map_made_without_using_a_computer.md
-       - Day 16-Urban%Rural: day16_Urban&rural.md
+       - Day 16-Urban/Rural: day16_Urban&rural.md
        - Day 17-Land: day17_Land.md
        - Day 18-Water: day18_Water.md
        - Day 19-Island(s): day19_Island(s).md
@@ -163,8 +163,40 @@ nav:
        - Day 28-The Earth is not flat: day28_The_Earth_is_not_flat.md
        - Day 29-NULL: day29_NULL.md
        - Day 30-Metamapping: day30_Metamapping_day.md
+    
+    - Most popular maps in 2020: 
+       - Day 01-Point: archive/2020/day1.md
+       - Day 02-Lines: archive/2020/day2.md
+       - Day 03-Polygons: archive/2020/day3.md
+       - Day 04-Hexagons: archive/2020/day4.md
+       - Day 05-Blue: archive/2020/day05_Blue.md
+       - Day 06-Red: archive/2020/day06_Red.md
+       - Day 07-Green: archive/2020/day07_Green.md
+       - Day 08-Yellow: archive/2020/day08_Yellow.md
+       - Day 09-Monochrome: archive/2020/day09_Monochrome.md
+       - Day 10-Grid: archive/2020/day10_Grid.md
+       - Day 11-3D: archive/2020/day11_3D.md
+       - Day 12-Without GIS: archive/2020/day12_Map_not_made_with_GIS_software.md
+       - Day 13-Raster: archive/2020/day13_Raster.md
+       - Day 14-Climate change: archive/2020/day14_Climate change.md
+       - Day 15-Connections: archive/2020/day15_Connections.md
+       - Day 16-Island(s): archive/2020/day16_Island(s).md
+       - Day 17-Historical map: archive/2020/day17_Historical map.md
+       - Day 18-Landuse: archive/2020/day18_Landuse.md
+       - Day 19-NULL: archive/2020/day19_NULL.md
+       - Day 20-Population: archive/2020/day20_Population.md
+       - Day 21-Water: archive/2020/day21_Water.md
+       - Day 22-Movement: archive/2020/day22_Movement.md
+       - Day 23-Boundaries: archive/2020/day23_Boundaries.md
+       - Day 24-Elevation: archive/2020/day24_Elevation.md
+       - Day 25-COVID-19: archive/2020/day25_COVID-19.md
+       - Day 26-Map with a new tool: archive/2020/day26_Map with a new tool.md
+       - Day 27-Big or small data: archive/2020/day27_Big or small data.md
+       - Day 28-Non-geographic map: archive/2020/day28_Non-geographic map.md
+       - Day 29-Globe: archive/2020/day29_Globe.md
+       - Day 30-A map: archive/2020/day30_A map.md
        
-    - Statistics: Statistic.md 
+    - 2021 Statistics: Statistic.md 
 
        
        
