@@ -1,9 +1,4 @@
-
 <h1 align="center"><b>#30DayMapChallenge 🌎🌏🌎</b></h1>
-<table>
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
-</table>
-
 ## 🔵 Daily social mapping project happening every November
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community.
 
@@ -178,3 +173,6 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 ## 🔵 Merchandise
 
 [Get your official #30DayMapChallenge stickers from Redbubble.](https://www.redbubble.com/people/MapChallenge/shop) 
+<table>
+<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
+</table>
