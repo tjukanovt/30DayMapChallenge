@@ -39,10 +39,10 @@ theme:
     - 404.html
   language: en
   features:
-    - navigation.top
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
+    - toc.integrate
   palette:
     - scheme: default
       primary: deep blue
