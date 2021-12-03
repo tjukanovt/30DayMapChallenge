@@ -1,4 +1,4 @@
-#### Top favorited post for day 17 `#30DayMapChallenge (Historical map)`
+#### Top favorited post for day 17
 | media                                                                                        | user                                           |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnAfFQbXMAMCqUQ.jpg)                                          | **[@neocartocnrs](https://t.co/FvAIySYuJV)**   |        52 |        208 |

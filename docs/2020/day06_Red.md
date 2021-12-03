@@ -1,4 +1,4 @@
-## Top favorited post for day 06 `#30mapchallenges (Red)`
+#### Top favorited post for day 06
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@ShijiaWendy](https://t.co/XcK0HoI25E)**    |         7 |        141 | ![](http://pbs.twimg.com/media/EmKJrMrVMAIFCjH.jpg)                                          |

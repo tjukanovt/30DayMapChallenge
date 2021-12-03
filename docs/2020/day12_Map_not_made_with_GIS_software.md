@@ -1,4 +1,4 @@
-#### Top favorited post for day 12 `#30DayMapChallenge (Map not made with GIS software)`
+#### Top favorited post for day 12
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@lacxrx](https://t.co/MeBAnjiPNh)**         |       143 |        754 | ![](http://pbs.twimg.com/media/EmmcsaOXMAEcw7F.jpg)                                          |

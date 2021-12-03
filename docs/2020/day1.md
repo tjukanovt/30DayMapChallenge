@@ -1,4 +1,4 @@
-#### Top favorited post for day 1 `#30mapchallenges (Points)` 
+#### Top favorited post for day 1
 |      | user                                           |   retweet |   favorite | media                                                                                        |
 |------|------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | 1382 | **[@Juanizio_C](https://t.co/7NtevAqkNd)**     |       274 |        497 | ![](http://pbs.twimg.com/media/Elv5tUaW0AA4CT-.jpg)                                          |
@@ -17,7 +17,7 @@
 | 1381 | **[@hannahdormido](https://t.co/SMzEgsChaF)**  |         8 |        116 | ![](http://pbs.twimg.com/media/Elv6DeVXEAIS1YS.jpg)                                          |
 | 1421 | **[@dr_xeo](https://t.co/iedlP7Lhox)**         |        24 |        105 | ![](http://pbs.twimg.com/media/ElvhtlNXIAANwdV.jpg)                                          |
 
-#### Late Entry: Top favorited post for day 1 `#30mapchallenges (Points)` 
+#### Late Entry: Top favorited post for day 1` 
 |    | user                                            |   retweet |   favorite | media                                               |
 |----|-------------------------------------------------|-----------|------------|-----------------------------------------------------|
 | 42 | **[@darenw](https://t.co/rZ2gtbJmI4)**          |         4 |         95 | ![](http://pbs.twimg.com/media/Elyc4d4XUAEs09h.jpg) |

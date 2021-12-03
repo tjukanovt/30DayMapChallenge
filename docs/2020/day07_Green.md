@@ -1,4 +1,4 @@
-#### Top favorited post for day 07 `#30mapchallenges (Green)`
+#### Top favorited post for day 07
 | user                                            |   retweet |   favorite | media                                                           |
 |-------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
 | **[@tjukanov](https://t.co/H2GKzR7SL2)**        |        89 |        388 | ![](http://pbs.twimg.com/media/EmIJOdWWoAEv28R.jpg)             |

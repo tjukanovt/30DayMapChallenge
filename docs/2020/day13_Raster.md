@@ -1,4 +1,4 @@
-#### Top favorited post for day 13 `#30DayMapChallenge (Raster)`
+#### Top favorited post for day 13
 | media                                                           | user                                           |   retweet |   favorite |
 |-----------------------------------------------------------------|------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EmtkCU-XIAU7wHd.jpg)             | **[@Helenmckmck](https://t.co/X4SzSipFnn)**    |        28 |        253 |

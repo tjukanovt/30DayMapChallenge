@@ -1,4 +1,4 @@
-#### Top favorited post for day 08 `#30mapchallenges (Yellow)`
+#### Top favorited post for day 08
 | user                                           |   retweet |   favorite | media                                                           |
 |------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
 | **[@rajbhagatt](https://t.co/ZZ4JtYYcQN)**     |        57 |        425 | ![](http://pbs.twimg.com/media/EmT4eMxU8AAseGS.jpg)             |

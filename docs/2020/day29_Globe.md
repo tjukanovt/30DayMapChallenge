@@ -1,4 +1,4 @@
-#### Top favorited post for day 29 `#30DayMapChallenge (Globe)`
+#### Top favorited post for day 29
 | media                                                                                        | user                                                                             |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1332995217448906752/pu/img/FlEHgmZqa2FJrMRi.jpg) | **[@dataisawesomeo](https://twitter.com/twitter/statuses/1332995325766864896)**  |        17 |        209 |

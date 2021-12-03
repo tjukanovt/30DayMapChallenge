@@ -1,4 +1,4 @@
-#### Top favorited post for day 4 `#30mapchallenges (Hexagons)` 
+#### Top favorited post for day 4 
 | user                                            |   retweet |   favorite | media                                                                                        |
 |-------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@rajbhagatt](https://t.co/DU5EDua1NX)**      |        21 |        152 | ![](http://pbs.twimg.com/media/El_Lj7uVgAAUooh.jpg)                                          |

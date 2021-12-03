@@ -1,4 +1,4 @@
-#### Top favorited post for day 16 `#30DayMapChallenge (Island(s))`
+#### Top favorited post for day 16
 | media                                                                                        | user                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|-------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/Em9KLdrVEAAMxEY.jpg)                                          | **[@rajbhagatt](https://t.co/q4aOa1Tkf3)**      |        23 |        154 |

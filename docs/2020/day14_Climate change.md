@@ -1,4 +1,4 @@
-#### Top favorited post for day 14 `#30DayMapChallenge (Climate change)`
+#### Top favorited post for day 14
 | media                                                                                        | user                                         |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|----------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EmyvNZhW8AIgMXC.jpg)                                          | **[@CRVanPollard](https://t.co/QfFwxets6k)** |        30 |        165 |

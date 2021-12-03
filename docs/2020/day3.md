@@ -1,4 +1,4 @@
-#### Top favorited post for day 3 `#30mapchallenges (Polygons)` 
+#### Top favorited post for day 3
 |     | user                                          |   retweet |   favorite | media                                                                                        |
 |-----|-----------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | 571 | **[@tjukanov](https://t.co/uLN9PJeg1k)**      |        21 |        239 | ![](http://pbs.twimg.com/media/El4Qv6tW0AEoreL.jpg)                                          |

@@ -1,4 +1,4 @@
-#### Top favorited post for day 25 `#30DayMapChallenge (COVID-19)`
+#### Top favorited post for day 25
 | media                                                                                        | user                                                                             |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/Enry2qPXIAEN9-x.jpg)                                          | **[@helenmakesmaps](https://twitter.com/twitter/statuses/1331643738607771648)**  |        16 |        130 |

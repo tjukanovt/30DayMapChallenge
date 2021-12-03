@@ -1,4 +1,4 @@
-#### Top favorited post for day 22 `#30DayMapChallenge (Movement)`
+#### Top favorited post for day 22
 | media                                                                                        | user                                                                             |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1330414077445812228/pu/img/LaiGhdSp7MTbdhMJ.jpg) | **[@JonasNelson19](https://twitter.com/twitter/statuses/1330414822131982342)**   |        42 |        245 |

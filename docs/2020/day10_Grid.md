@@ -1,4 +1,4 @@
-#### Top favorited post for day 10 `#30DayMapChallenge (Grid)`
+#### Top favorited post for day 10
 | user                                           |   retweet |   favorite | media                                                           |
 |------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
 | **[@tjukanov](https://t.co/ZlsGkCKlHW)**       |        16 |         96 | ![](http://pbs.twimg.com/tweet_video_thumb/EmcULMoXEAA21Gi.jpg) |
