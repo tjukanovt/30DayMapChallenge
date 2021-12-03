@@ -1,4 +1,6 @@
-#### Top favorited post for day 19 `#30DayMapChallenge (Island(s))`
+# Island(s)
+
+#### Top favorited post for day 19
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/ext_tw_video_thumb/1461832308709863429/pu/img/ymTK2AQ5y0WuEDNG.jpg) | **[@AndriyYaremenko](https://twitter.com/AndriyYaremenko/status/1461832341089927170)** |              28 |          292 |

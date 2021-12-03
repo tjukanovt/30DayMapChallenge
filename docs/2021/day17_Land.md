@@ -1,4 +1,6 @@
-#### Top favorited post for day 17 `#30DayMapChallenge (Land)`
+# Land
+
+#### Top favorited post for day 17
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEbHBiuXEAYDSlg.jpg)                                          | **[@BlakeRobMills](https://twitter.com/BlakeRobMills/status/1461074670539657221)**   |              48 |          262 |

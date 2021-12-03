@@ -1,4 +1,6 @@
-#### Top favorited post for day 10 `#30DayMapChallenge (Raster)`
+# Raster
+
+#### Top favorited post for day 10
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FD2eIGlXIA0dTbS.png)                                          | **[@geokaramanis](https://twitter.com/geokaramanis/status/1458495769217060878)**       |              65 |          413 |

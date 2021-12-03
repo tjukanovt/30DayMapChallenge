@@ -1,4 +1,6 @@
-#### Top favorited post for day 07 `#30DayMapChallenge (Green)`
+# Green
+
+#### Top favorited post for day 07
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/ext_tw_video_thumb/1457437287017586689/pu/img/-tUSbkycmi17dPG9.jpg) | **[@shinysci](https://twitter.com/shinysci/status/1457437390516129799)**             |              46 |          194 |

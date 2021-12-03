@@ -1,4 +1,6 @@
-#### Top favorited post for day 08 `#30DayMapChallenge (Blue)`
+# Blue
+
+#### Top favorited post for day 08
 | media                                                            | user                                                                                 |   retweet_count |   like_count |
 |------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDiLqMMWYAYdHV2.jpg)             | **[@michjonescr](https://twitter.com/michjonescr/status/1457747491705688065)**       |              61 |          657 |

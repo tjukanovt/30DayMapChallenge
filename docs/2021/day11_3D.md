@@ -1,4 +1,6 @@
-#### Top favorited post for day 11 `#30DayMapChallenge (3D)`
+# 3D
+
+#### Top favorited post for day 11
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FD6fZvFXIAYDwUM.jpg)                                          | **[@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1458778835693056006)** |             165 |         1299 |

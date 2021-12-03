@@ -1,4 +1,6 @@
-#### Top favorited post for day 21 `#30DayMapChallenge (Elevation)`
+# Elevation
+
+#### Top favorited post for day 21
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEv11XQXsAsydKc.jpg)                                          | **[@GeospatialJ](https://twitter.com/GeospatialJ/status/1462532808979750915)**         |              36 |          516 |

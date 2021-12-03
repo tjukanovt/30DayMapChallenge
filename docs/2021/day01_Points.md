@@ -1,6 +1,6 @@
 # Points
 
-#### Top favorited post for day 01 `#30DayMapChallenge (Points)`
+#### Top favorited post for day 01
 | media                                                            | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDHntHTVEAAGUdY.jpg)             | **[@cruizch](https://twitter.com/cruizch/status/1455199110315720704)**                 |             117 |          689 |

@@ -1,4 +1,6 @@
-#### Top favorited post for day 06 `#30DayMapChallenge (Red)`
+# Red
+
+#### Top favorited post for day 06`
 | media                                                | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDi8xriVQAIsIv5.jpg) | **[@geo_coe](https://twitter.com/geo_coe/status/1457123260865286148)**                 |             100 |          738 |

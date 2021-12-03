@@ -1,4 +1,6 @@
-#### Top favorited post for day 04 `#30DayMapChallenge (Hexagons)`
+# Hexagons
+
+#### Top favorited post for day 04
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDWB_2-acAEhZi-.jpg)                                          | **[@ShinagawaJP](https://twitter.com/ShinagawaJP/status/1456229761366179843)**       |            6145 |        14609 |

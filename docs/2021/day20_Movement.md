@@ -1,4 +1,6 @@
-#### Top favorited post for day 20 `#30DayMapChallenge (Movement)`
+# Movement
+
+#### Top favorited post for day 20
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEolejqXIAQCOqn.jpg)                                          | **[@DiasporaDan](https://twitter.com/DiasporaDan/status/1462022239319171077)**         |              56 |          382 |

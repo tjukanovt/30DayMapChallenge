@@ -1,4 +1,6 @@
-#### Top favorited post for day 28 `#30DayMapChallenge (The Earth is not flat)`
+# The Earth is not flat
+
+#### Top favorited post for day 28
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/ext_tw_video_thumb/1464874158198824960/pu/img/G8QR52KLu9Fj0QN1.jpg) | **[@neilrkaye](https://twitter.com/neilrkaye/status/1464874387698552832)**             |             213 |          584 |

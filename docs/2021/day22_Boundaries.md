@@ -1,4 +1,4 @@
-#### Top favorited post for day 22 `#30DayMapChallenge (Boundaries)`
+#### Top favorited post for day 22
 | media                                                                                         | user                                                                               |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/ext_tw_video_thumb/1462875499340967944/pu/img/pGEbi-lImJxpZ9uQ.jpg) | **[@Jill_hubley](https://twitter.com/Jill_hubley/status/1462875547860713478)**     |              58 |          338 |

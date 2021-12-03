@@ -1,4 +1,6 @@
-#### Top favorited post for day 26 `#30DayMapChallenge (Choropleth map)`
+# Choropleth map
+
+#### Top favorited post for day 26
 | media                                                | user                                                                                 |   retweet_count |   like_count |
 |------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FFJUMitWQAATWaB.png) | **[@geokaramanis](https://twitter.com/geokaramanis/status/1464326533233975297)**     |              46 |          358 |

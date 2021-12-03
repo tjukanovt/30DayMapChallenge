@@ -1,4 +1,6 @@
-#### Top favorited post for day 14 `#30DayMapChallenge (Map with a new tool)`
+# Map with a new tool
+
+#### Top favorited post for day 14
 | media                                                            | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEL-yRjXsAMImVX.jpg)             | **[@hurricanevicky](https://twitter.com/hurricanevicky/status/1460009374022254600)**   |               7 |          119 |

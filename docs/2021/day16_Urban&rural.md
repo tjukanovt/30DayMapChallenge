@@ -1,4 +1,6 @@
-#### Top favorited post for day 16 `#30DayMapChallenge (Urban/rural)`
+# Urban/rural
+
+#### Top favorited post for day 16
 | media                                                            | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEU2bmTXwAgTCpc.jpg)             | **[@simellamojavier](https://twitter.com/simellamojavier/status/1460633504505544708)** |             185 |          618 |

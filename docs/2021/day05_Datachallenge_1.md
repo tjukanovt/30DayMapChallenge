@@ -1,4 +1,6 @@
-#### Top favorited post for day 05 `#30DayMapChallenge (Data challenge 1: OpenStreetMap)`
+# Data Challenge 1: OpenStreetMap
+
+#### Top favorited post for day 05
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDZHLNiVgAITb29.jpg)                                          | **[@_glenningram](https://twitter.com/_glenningram/status/1456430891761233925)**       |             124 |          812 |
