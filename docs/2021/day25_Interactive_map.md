@@ -1,6 +1,5 @@
 # Interactive map
 
-#### Top favorited post for day 25
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FE_5PLgXIAgc3fx.jpg)                                          | **[@gontsa](https://twitter.com/gontsa/status/1463663664951697412)**                   |              54 |          228 |

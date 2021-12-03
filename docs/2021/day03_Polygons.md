@@ -1,6 +1,5 @@
 # Polygons
 
-#### Top favorited post for day 03
 | media                                                            | user                                                                                 |   retweet_count |   like_count |
 |------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDOoCwfWQAYYdoZ.jpg)             | **[@BlakeRobMills](https://twitter.com/BlakeRobMills/status/1455691876091170820)**   |              90 |          508 |

@@ -1,6 +1,5 @@
 # Landuse
 
-#### Top favorited post for day 18
 | media                                                           | user                                            |   retweet |   favorite |
 |-----------------------------------------------------------------|-------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EmYmI7XWMAA-DZP.jpg)             | **[@JulesGrandin](https://t.co/bnNo75YafK)**    |        52 |        214 |

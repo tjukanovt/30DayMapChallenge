@@ -1,6 +1,5 @@
 # Map made without using a computer
 
-#### Top favorited post for day 15
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEPj4bfXwAcyX-n.jpg)                                          | **[@ishiba](https://twitter.com/ishiba/status/1460262439765872645)**                   |              84 |          365 |

@@ -1,6 +1,5 @@
 # A Map
 
-#### Top favorited post for day 30
 | media                                                           | user                                                                            |   retweet |   favorite |
 |-----------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EoGRIm8XMAM7rUH.jpg)             | **[@dickoah](https://twitter.com/twitter/statuses/1333506738386038784)**        |        35 |        204 |

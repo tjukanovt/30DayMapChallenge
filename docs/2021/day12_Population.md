@@ -1,6 +1,5 @@
 # Population
 
-#### Top favorited post for day 12
 | media                                                | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEAu3o4XEAUaRhs.jpg) | **[@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1459218139619774470)**   |              89 |          623 |

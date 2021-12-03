@@ -1,6 +1,5 @@
 # Big or small data
 
-#### Top favorited post for day 27
 | media                                                                                        | user                                                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1332254853062647809/pu/img/QZr-OMqyha4HIa3p.jpg) | **[@owenjpowell](https://twitter.com/twitter/statuses/1332254965197369344)**    |        26 |        163 |

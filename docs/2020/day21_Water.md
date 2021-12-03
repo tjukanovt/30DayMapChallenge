@@ -1,6 +1,5 @@
 # Water
 
-#### Top favorited post for day 21
 | media                                                                                        | user                                                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnVcwSsXUAIeGVJ.jpg)                                          | **[@dr_xeo](https://twitter.com/twitter/statuses/1330071950635511809)**         |        44 |        262 |

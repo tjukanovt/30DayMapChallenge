@@ -1,6 +1,5 @@
 # Non-geographic map
 
-#### Top favorited post for day 28
 | media                                                                                        | user                                                                             |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/En6ycsoXMAAppQm.jpg)                                          | **[@tjukanov](https://twitter.com/twitter/statuses/1332698975925833733)**        |        45 |        246 |

@@ -1,6 +1,5 @@
 # Points
 
-#### Top favorited post for day 1
 |      | user                                           |   retweet |   favorite | media                                                                                        |
 |------|------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | 1382 | **[@Juanizio_C](https://t.co/7NtevAqkNd)**     |       274 |        497 | ![](http://pbs.twimg.com/media/Elv5tUaW0AA4CT-.jpg)                                          |
@@ -18,13 +17,3 @@
 | 1369 | **[@project4_4](https://t.co/ut1yABaL2l)**     |        19 |        117 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1322934085115850757/pu/img/yaMi-1QvkQl0doLS.jpg) |
 | 1381 | **[@hannahdormido](https://t.co/SMzEgsChaF)**  |         8 |        116 | ![](http://pbs.twimg.com/media/Elv6DeVXEAIS1YS.jpg)                                          |
 | 1421 | **[@dr_xeo](https://t.co/iedlP7Lhox)**         |        24 |        105 | ![](http://pbs.twimg.com/media/ElvhtlNXIAANwdV.jpg)                                          |
-
-#### Late Entry: Top favorited post for day 1` 
-|    | user                                            |   retweet |   favorite | media                                               |
-|----|-------------------------------------------------|-----------|------------|-----------------------------------------------------|
-| 42 | **[@darenw](https://t.co/rZ2gtbJmI4)**          |         4 |         95 | ![](http://pbs.twimg.com/media/Elyc4d4XUAEs09h.jpg) |
-| 50 | **[@gonzalotalavera](https://t.co/I6UNoGYVOx)** |        22 |         60 | ![](http://pbs.twimg.com/media/ElyMGZFWkAA7Fx2.jpg) |
-| 53 | **[@PratapVardhan](https://t.co/WTT8WM17qy)**   |         4 |         43 | ![](http://pbs.twimg.com/media/Elx5722WkAEOOMf.jpg) |
-|  2 | **[@tomasral](https://t.co/khysneCwjM))**       |         5 |         35 | ![](http://pbs.twimg.com/media/El2FR9gXUAAU3Uf.jpg) |
-| 54 | **[@BZgeo](https://t.co/LavH2067O2)**           |         3 |         26 | ![](http://pbs.twimg.com/media/Elx0-fPXIAc9JGJ.png) |
-

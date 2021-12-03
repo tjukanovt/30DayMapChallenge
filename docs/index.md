@@ -32,3 +32,6 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 
 <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
 <script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'mapchallenge', 2, 2).renderIframe();</script>
+
+## 🔵 About me
+My name is Topi Tjukanov and I started the challenge in 2019 on Twitter. You can find more information about me and a contact form from my [personal website.](https://tjukanov.org/)

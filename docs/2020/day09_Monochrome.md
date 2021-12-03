@@ -1,6 +1,5 @@
 # Monochrome
 
-#### Top favorited post for day 09
 | user                                           |   retweet |   favorite | media                                               |
 |------------------------------------------------|-----------|------------|-----------------------------------------------------|
 | **[@rajbhagatt](https://t.co/o7RzU2X45o)**     |        14 |        156 | ![](http://pbs.twimg.com/media/EmZNF7TVkAgxCIz.jpg) |

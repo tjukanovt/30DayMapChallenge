@@ -1,6 +1,5 @@
 # Data challenge 2: Natural Earth
 
-#### Top favorited post for day 13
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FD5ZGScX0Dwc1Zj.jpg)                                          | **[@ksituan](https://twitter.com/ksituan/status/1459547602710577153)**               |              43 |          210 |

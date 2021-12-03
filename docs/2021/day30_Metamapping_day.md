@@ -1,6 +1,5 @@
 # Metamapping day
 
-#### Top favorited post for day 30 `#30DayMapChallenge (Metamapping day)`
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FFc2sGMVgAcVJri.png)                                          | **[@helenmakesmaps](https://twitter.com/helenmakesmaps/status/1465701094567268360)** |              17 |          299 |

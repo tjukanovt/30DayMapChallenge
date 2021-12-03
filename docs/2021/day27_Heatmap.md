@@ -1,6 +1,5 @@
 # Heatmap
 
-#### Top favorited post for day 27
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FFM5E9sWQAYRFEd.jpg)                                          | **[@FranParejaLopez](https://twitter.com/FranParejaLopez/status/1464579968193736706)** |             498 |         1499 |

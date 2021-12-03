@@ -1,6 +1,5 @@
 # Blue
 
-#### Top favorited post for day 05
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@ChekosWH](https://t.co/C5hHKUs4C9)**       |        13 |        131 | ![](http://pbs.twimg.com/media/EmBjEshU8AE0gNp.jpg)                                          |

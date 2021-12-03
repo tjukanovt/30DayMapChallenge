@@ -1,6 +1,5 @@
 # Monochrome
 
-#### Top favorited post for day 09
 | media                                                | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDv88gwagAA4UaJ.jpg) | **[@ShinagawaJP](https://twitter.com/ShinagawaJP/status/1458041768604168202)**         |             396 |         1293 |

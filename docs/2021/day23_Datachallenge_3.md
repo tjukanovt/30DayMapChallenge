@@ -1,6 +1,5 @@
 # Data challenge 3: GHSL Global Human Settlement Layer
 
-#### Top favorited post for day 23
 | media                                                | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FEzBjmpX0AEAWpS.jpg) | **[@nello394](https://twitter.com/nello394/status/1463058738554699777)**               |             112 |          702 |

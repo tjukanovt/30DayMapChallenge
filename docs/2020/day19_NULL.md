@@ -1,6 +1,5 @@
 # NULL
 
-#### Top favorited post for day 19
 | media                                                           | user                                           |   retweet |   favorite |
 |-----------------------------------------------------------------|------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnBodPeW8AAg6ia.jpg)             | **[@tjukanov](https://t.co/9htMJ80eXL)**       |        27 |        259 |

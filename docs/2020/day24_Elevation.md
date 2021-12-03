@@ -1,6 +1,5 @@
 # Elevation
 
-#### Top favorited post for day 24
 | media                                                                                        | user                                                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1331158657296424960/pu/img/dnQ6FUbp4zFNCKji.jpg) | **[@pheeelicks](https://twitter.com/twitter/statuses/1331159219056357378)**     |        37 |        256 |

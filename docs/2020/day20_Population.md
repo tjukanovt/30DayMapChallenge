@@ -1,6 +1,5 @@
 # Population
 
-#### Top favorited post for day 20
 | media                                               | user                                           |   retweet |   favorite |
 |-----------------------------------------------------|------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnQzzKKW4AE3nKv.jpg) | **[@DiasporaDan](https://t.co/yrRrjJ6U7k)**    |        62 |        313 |

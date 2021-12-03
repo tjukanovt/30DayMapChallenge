@@ -1,6 +1,5 @@
 # NULL
 
-#### Top favorited post for day 29 `#30DayMapChallenge (NULL)`
 | media                                                                                         | user                                                                                   |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FFDdH6GWQAIGwqi.jpg)                                          | **[@nello394](https://twitter.com/nello394/status/1465244390574673922)**               |              43 |          267 |

@@ -1,6 +1,5 @@
 # Lines
 
-#### Top favorited post for day 02
 | media                                                            | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FDOaEMhUUAEPSuH.jpg)             | **[@mapoteca_mx](https://twitter.com/mapoteca_mx/status/1455676801456349190)**         |             509 |         2493 |

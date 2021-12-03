@@ -1,6 +1,5 @@
 # 3D
 
-#### Top favorited post for day 11
 | user                                            |   retweet |   favorite | media                                                           |
 |-------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
 | **[@Cchurchili](https://t.co/evrRSUUfDx)**      |        39 |        241 | ![](http://pbs.twimg.com/media/EmjSGNKU8AIDWkt.jpg)             |

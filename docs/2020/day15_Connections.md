@@ -1,6 +1,5 @@
 # Connections
 
-#### Top favorited post for day 15
 | media                                                                                        | user                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|-------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/Emy1u8tWMAIeo4w.jpg)                                          | **[@tjukanov](https://t.co/Vut2bBC5VJ)**        |       139 |        527 |

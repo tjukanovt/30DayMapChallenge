@@ -1,6 +1,5 @@
 # Boundaries
 
-#### Top favorited post for day 23
 | media                                                                                        | user                                                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnhmoCPXYAA-XIb.jpg)                                          | **[@helenmakesmaps](https://twitter.com/twitter/statuses/1330926890375393289)** |        32 |        196 |

@@ -116,9 +116,9 @@ extra_css:
 nav:
     - Home: index.md
     
-    - 2021 maps: 
+    - 2021 challenge: 
        - Portfolio collection: 2021/index.md
-       - Most popular maps on Twitter:
+       - Most-liked tweets:
            - Day 01-Point: 2021/day01_Points.md
            - Day 02-Lines: 2021/day02_Lines.md
            - Day 03-Polygons: 2021/day03_Polygons.md
@@ -150,9 +150,9 @@ nav:
            - Day 29-NULL: 2021/day29_NULL.md
            - Day 30-Metamapping: 2021/day30_Metamapping_day.md
     
-    - 2020 maps: 
+    - 2020 challenge: 
        - Portfolio collection: 2020/index.md
-       - Most popular maps on Twitter: 
+       - Most-liked tweets:
            - Day 01-Point: 2020/day1.md
            - Day 02-Lines: 2020/day2.md
            - Day 03-Polygons: 2020/day3.md
@@ -184,7 +184,7 @@ nav:
            - Day 29-Globe: 2020/day29_Globe.md
            - Day 30-A map: 2020/day30_A map.md
     
-    - 2019 maps: 
+    - 2019 challenge: 
         - Portfolio collection: 2019/index.md    
     
     - Statistics: statistics.md 

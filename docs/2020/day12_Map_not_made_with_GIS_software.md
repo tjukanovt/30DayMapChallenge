@@ -1,6 +1,5 @@
 # A Map not made with GIS
 
-#### Top favorited post for day 12
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@lacxrx](https://t.co/MeBAnjiPNh)**         |       143 |        754 | ![](http://pbs.twimg.com/media/EmmcsaOXMAEcw7F.jpg)                                          |

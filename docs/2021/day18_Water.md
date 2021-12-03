@@ -1,6 +1,5 @@
 # Water
 
-#### Top favorited post for day 18
 | media                                                                                         | user                                                                                 |   retweet_count |   like_count |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/ext_tw_video_thumb/1461336569202290691/pu/img/rCZwftqe2KLMzfo0.jpg) | **[@g_fiske](https://twitter.com/g_fiske/status/1461337657666060289)**               |             177 |          505 |

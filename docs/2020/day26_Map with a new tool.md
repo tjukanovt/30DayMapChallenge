@@ -1,6 +1,5 @@
 # A map with a new tool
 
-#### Top favorited post for day 26
 | media                                                                                        | user                                                                            |   retweet |   favorite |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
 | ![](http://pbs.twimg.com/media/EnuvwMWW4Ace5uo.jpg)                                          | **[@Kartokobri](https://twitter.com/twitter/statuses/1331851389765644288)**     |        32 |        244 |

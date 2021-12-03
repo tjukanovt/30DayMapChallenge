@@ -1,6 +1,5 @@
 # Lines
 
-#### Top favorited post for day 2
 | user                                            |   retweet |   favorite | media                                                                                        |
 |-------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
 | **[@rajbhagatt](https://t.co/LkmRQdH81P)**      |        91 |        624 | ![](http://pbs.twimg.com/media/El0q6kyU8AAHlSS.jpg)                                          |
