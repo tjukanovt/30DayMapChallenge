@@ -1,6 +1,6 @@
 # Historical map
 
-#### Top favorited post for day 24 `#30DayMapChallenge
+#### Top favorited post for day 24
 | media                                                | user                                                                                   |   retweet_count |   like_count |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
 | ![](https://pbs.twimg.com/media/FE9PZw0acAYLz1x.jpg) | **[@ShinagawaJP](https://twitter.com/ShinagawaJP/status/1463477555407704074)**         |             293 |          879 |
