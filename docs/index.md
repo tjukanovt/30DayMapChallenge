@@ -108,13 +108,13 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 ## 🔵 Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
 [![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
-- [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
-- [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
-- [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
-- [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
+ - [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
+ - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
+ - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
+ - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
 ## 🔵 Maps, stats and results
-In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms.
+In 2021 there were more than 1200 mappers and more than 9000 maps created for the challenge. In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms.
 
 [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
 
@@ -164,10 +164,10 @@ Check the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/3
 No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate,
 
 But keep in mind a few things:
-- All maps you publish have to be **your original work**. Don’t steal content from others.
-- Give **credit to the original data source** whenever possible.
-- The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
-- **Don’t be an asshole**.
+ - All maps you publish have to be **your original work**. Don’t steal content from others.
+ - Give **credit to the original data source** whenever possible.
+ - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
+ - **Don’t be an asshole**.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
 
