@@ -132,7 +132,8 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
-    - Most popular maps in 2021: 
+    
+    - 2021 challenge: 2021/index.md
        - Day 01-Point: 2021/day01_Points.md
        - Day 02-Lines: 2021/day02_Lines.md
        - Day 03-Polygons: 2021/day03_Polygons.md
@@ -164,7 +165,7 @@ nav:
        - Day 29-NULL: 2021/day29_NULL.md
        - Day 30-Metamapping: 2021/day30_Metamapping_day.md
     
-    - Most popular maps in 2020: 
+    - 2020 challenge: 2020/index.md
        - Day 01-Point: 2020/day1.md
        - Day 02-Lines: 2020/day2.md
        - Day 03-Polygons: 2020/day3.md
@@ -195,8 +196,12 @@ nav:
        - Day 28-Non-geographic map: 2020/day28_Non-geographic map.md
        - Day 29-Globe: 2020/day29_Globe.md
        - Day 30-A map: 2020/day30_A map.md
-       
-    - Statistics: Statistic.md 
+    
+    - 2019 challenge: 2029/index.md    
+    
+    - Statistics: statistics.md 
+    
+    - Heplful resources: resources.md 
 
        
        
