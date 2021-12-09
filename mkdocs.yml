@@ -50,7 +50,6 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros
-- social
 
 - rss:
     abstract_chars_count: 160
