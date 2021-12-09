@@ -10,24 +10,15 @@ repo_name: 30DayMapChallenge
 repo_url: https://github.com/tjukanovt/30DayMapChallenge
 #edit_uri: edit/main/docs/ #disables edit button
 
-# Copyright
-copyright: <a href="https://twitter.com/tjukanov" title="@tjukanov">
-
 ## Social Media
 extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
       link: https://github.com/tjukanovt/30DayMapChallenge
-#    - icon: fontawesome/brands/twitter
-#      link:
-#      name: 
-#    - icon: fontawesome/brands/linkedin
-#      link: 
-#      name: 
-#    - icon: fontawesome/solid/file-pdf
-#      link: 
-#      name: 
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/tjukanov
+
   # analytics:
   #   provider: google
   #   property: UA-122084242-1
