@@ -1,8 +1,8 @@
-## Meta
-title: 30DayMapChallenge
+## Project information
+site_name: 30DayMapChallenge
 site_url: https://30daymapchallenge.com
-og_image: https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/social_preview.png
-description: Daily mapping challenge happening every November! Open to everyone!
+site_description: Daily mapping challenge happening every November!
+site_author: https://ambarja.github.io/
 
 ## Repository
 repo_name: 30DayMapChallenge
@@ -50,6 +50,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros
+- social
 
 - rss:
     abstract_chars_count: 160
