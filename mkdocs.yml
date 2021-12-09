@@ -2,13 +2,14 @@
 site_name: 30DayMapChallenge
 site_url: https://30daymapchallenge.com
 site_description: The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag "#30DayMapChallenge", You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (doing all 30 is really hard!). See the Code of Conduct at the bottom of the page.
-
 site_author: https://ambarja.github.io/
 
 ## Repository
 repo_name: 30DayMapChallenge
 repo_url: https://github.com/tjukanovt/30DayMapChallenge
 #edit_uri: edit/main/docs/ #disables edit button
+
+og_image: images/logo/30DMC_Copr_Dark.svg
 
 ## Social Media
 extra:
