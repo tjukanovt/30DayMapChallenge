@@ -56,5 +56,6 @@ You can browse most popular tweets from the main panel or explore below individu
 | [@schochastics](https://twitter.com/schochastics)        | [http://schochastics.net/30daymapchallenge/](http://schochastics.net/30daymapchallenge/)                                                                                                                                                                              |
 | [@ubilabs](https://twitter.com/ubilabs)                  | [https://ubilabs.com/en/insights/30daymapchallenge](https://ubilabs.com/en/insights/30daymapchallenge)                                                                                                                                                                |
 | [@x00live](https://twitter.com/x00live)                  | [https://github.com/xoolive/30DayMapChallenge](https://github.com/xoolive/30DayMapChallenge)                                                                                                                                                                          |
+| [@Zaaaana_](https://twitter.com/Zaaaana_)                | [https://zaaaana.github.io/30DMC21/](https://zaaaana.github.io/30DMC21/)            |
 
 *Want to have your maps included? Make a PR or send me a link!*
