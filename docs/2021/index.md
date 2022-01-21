@@ -1,4 +1,5 @@
 
+
 # 🔵 Maps from 2021
 
 You can browse most popular tweets from the main panel or explore below individual collections.
@@ -29,6 +30,7 @@ You can browse most popular tweets from the main panel or explore below individu
 | [@VictimOfMaths](https://twitter.com/VictimOfMaths)      | [https://github.com/VictimOfMaths/30DayMapChallenge](https://github.com/VictimOfMaths/30DayMapChallenge)                                                                                                                                                              |
 | [@\_ansgar](https://twitter.com/_ansgar)                 | [https://github.com/bydata/30DayMapChallenge-2021](https://github.com/bydata/30DayMapChallenge-2021)                                                                                                                                                                  |
 | [@andrewdc\_nz](https://twitter.com/andrewdc_nz)         | [https://www.andrewdc.co.nz/2021/12/04/30daymapchallenge-2021-a-wrap-up/](https://www.andrewdc.co.nz/2021/12/04/30daymapchallenge-2021-a-wrap-up/)                                                                                                                    |
+| [@azolnai](https://twitter.com/azolnai)         | [https://storymaps.arcgis.com/stories/51c23c009677471292b1d44e1f59abf8](https://storymaps.arcgis.com/stories/51c23c009677471292b1d44e1f59abf8)                                                                                                                    |
 | [@bogind2](https://twitter.com/bogind2)                  | [https://bogind.github.io/30DayMapChallenge/day30](https://bogind.github.io/30DayMapChallenge/day30)                                                                                                                                                                  |
 | [@dakvid](https://twitter.com/dakvid)                    | [https://www.infometrics.co.nz/a-month-of-maps/](https://www.infometrics.co.nz/a-month-of-maps/)                                                                                                                                                                      |
 | [@darwinanddavis](https://twitter.com/darwinanddavis)    | [https://github.com/darwinanddavis/worldmaps](https://github.com/darwinanddavis/worldmaps)                                                                                                                                                                            |
