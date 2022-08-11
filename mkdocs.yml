@@ -47,9 +47,10 @@ theme:
     #  logo: fontawesome/solid/book-reader
   logo: imgs/30DMC_Tag_.svg
 plugins:
-- mkdocstrings
-- autolinks
-- macros
+ - search
+#- mkdocstrings
+#- autolinks
+#- macros
 
 - rss:
     abstract_chars_count: 160
