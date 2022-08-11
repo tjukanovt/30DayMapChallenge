@@ -14,7 +14,7 @@ repo_url: https://github.com/tjukanovt/30DayMapChallenge
 extra:
   manifest: "manifest.webmanifest"
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house
       link: https://github.com/tjukanovt/30DayMapChallenge
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/tjukanov
