@@ -8,7 +8,7 @@ Happy mapping!
 *Thank you for taking part in the 2021 challenge!*
 
 <table>
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png"></a></p>
+<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmpc_2021.png"></a></p>
 </table>
 
 ## 🔵 Themes 📆
