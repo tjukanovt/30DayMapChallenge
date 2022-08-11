@@ -47,7 +47,7 @@ theme:
     #  logo: fontawesome/solid/book-reader
   logo: imgs/30DMC_Tag_.svg
 plugins:
- - search
+- search
 #- mkdocstrings
 #- autolinks
 #- macros
