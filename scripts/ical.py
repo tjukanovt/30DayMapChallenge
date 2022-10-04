@@ -35,7 +35,7 @@ END = "<!-- TABLE END -->"
 def _event(line: str, now: str) -> str:
 
     columns = [column.strip(" \t*`") for column in line.split('|')[1:-1]]
-    assert len(columns) == 4
+    assert len(columns) >= 4
 
     number = int(columns[0])
     assert 1 <= number <= 30 # days in November
