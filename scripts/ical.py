@@ -63,7 +63,7 @@ def _now() -> str:
 
 def main():
 
-    with open('../README.md', mode = 'r', encoding = 'utf-8') as f:
+    with open('README.md', mode = 'r', encoding = 'utf-8') as f:
         raw = f.read()
     assert raw.count(START) == 1 and raw.count(END) == 1 # just in case ...
 
@@ -74,7 +74,7 @@ def main():
 
     out = "\n".join([HEADER, *[_event(day, now) for day in table], FOOTER])
 
-    with open('../themes.ical', mode = 'w', encoding = 'utf-8') as f:
+    with open('themes.ical', mode = 'w', encoding = 'utf-8') as f:
         f.write(out)
 
 if __name__ == '__main__':
