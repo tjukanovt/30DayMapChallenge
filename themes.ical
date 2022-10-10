@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tjukanovt//30DayMapChallenge//EN
+ATTENDEE:MAILTO:do-not@send-email.xyz
+X-WR-CALNAME:30DayMapChallenge
+BEGIN:VEVENT
+SUMMARY:Points
+DTSTART;VALUE=DATE:20221101
+UID:81601@30DayMapChallenge
+DESCRIPTION:A map with points.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lines
+DTSTART;VALUE=DATE:20221102
+UID:cec65@30DayMapChallenge
+DESCRIPTION:A map with lines.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polygons
+DTSTART;VALUE=DATE:20221103
+UID:76da4@30DayMapChallenge
+DESCRIPTION:A map with polygons.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colour Friday: Green
+DTSTART;VALUE=DATE:20221104
+UID:51223@30DayMapChallenge
+DESCRIPTION:Map containing green colour.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ukraine
+DTSTART;VALUE=DATE:20221105
+UID:6d0b3@30DayMapChallenge
+DESCRIPTION:Map about Ukraine. Слава Україні!
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network
+DTSTART;VALUE=DATE:20221106
+UID:245bf@30DayMapChallenge
+DESCRIPTION:A subway network, information network, or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raster
+DTSTART;VALUE=DATE:20221107
+UID:1a100@30DayMapChallenge
+DESCRIPTION:A day dedicated to those lovely pixels.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data: OpenStreetMap
+DTSTART;VALUE=DATE:20221108
+UID:b2066@30DayMapChallenge
+DESCRIPTION:OpenStreetMap is **the** source for geospatial data. Use OSM to map something that is interesting to you. You can access the data e.g. from [GeoFabrik](https://www.geofabrik.de/data/download.html) or some of [these](https://learnosm.org/en/osm-data/getting-data/) sources. Remember to credit '© OpenStreetMap contributors'.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Space
+DTSTART;VALUE=DATE:20221109
+UID:3e717@30DayMapChallenge
+DESCRIPTION:Space as in a boundless three-dimensional extent or as in outer space. Or something else. You choose.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A bad map
+DTSTART;VALUE=DATE:20221110
+UID:14305@30DayMapChallenge
+DESCRIPTION:Make intentionally a bad map. What makes a map bad?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colour Friday: Red
+DTSTART;VALUE=DATE:20221111
+UID:31a84@30DayMapChallenge
+DESCRIPTION:Wohoo! Friday again! Make a red map!
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scale
+DTSTART;VALUE=DATE:20221112
+UID:2ac59@30DayMapChallenge
+DESCRIPTION:In cartography scale is everything. How to make a map about scale? How to show the importance of scale?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 minute map
+DTSTART;VALUE=DATE:20221113
+UID:1f250@30DayMapChallenge
+DESCRIPTION:Some people spend hours on their maps. For day 13, set yourself a time limit of just 5 minutes and see what you can make.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexagons
+DTSTART;VALUE=DATE:20221114
+UID:06a12@30DayMapChallenge
+DESCRIPTION:A map containing hexagons.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food/drink
+DTSTART;VALUE=DATE:20221115
+UID:5de06@30DayMapChallenge
+DESCRIPTION:Where does food come from? Where people consume most coffee? Or maybe you could make a map FROM food?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minimal
+DTSTART;VALUE=DATE:20221116
+UID:8aeb7@30DayMapChallenge
+DESCRIPTION:How minimal can you go?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A map without a computer
+DTSTART;VALUE=DATE:20221117
+UID:718fc@30DayMapChallenge
+DESCRIPTION:Go outside. Pick up a pen. Do something that is not in a digital format.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colour Friday: Blue
+DTSTART;VALUE=DATE:20221118
+UID:69305@30DayMapChallenge
+DESCRIPTION:Map containing blue colour.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Globe
+DTSTART;VALUE=DATE:20221119
+UID:8144c@30DayMapChallenge
+DESCRIPTION:That round thing.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:_“My favourite…”_
+DTSTART;VALUE=DATE:20221120
+UID:2ecad@30DayMapChallenge
+DESCRIPTION:Map something you like.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data: Kontur Population Dataset
+DTSTART;VALUE=DATE:20221121
+UID:5702c@30DayMapChallenge
+DESCRIPTION:Make a map with this population dataset. Data is in H3 hexagons with population counts at 400m resolution. Fixed up fusion of GHSL, Facebook, Microsoft Buildings, Copernicus Global Land Service Land Cover, and OpenStreetMap data. You can access it You can access it [here](https://data.humdata.org/dataset/kontur-population-dataset).
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NULL
+DTSTART;VALUE=DATE:20221122
+UID:b5d28@30DayMapChallenge
+DESCRIPTION:
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movement
+DTSTART;VALUE=DATE:20221123
+UID:0e91c@30DayMapChallenge
+DESCRIPTION:Make a map about something moving. Can be humans, animals or something else. Can be animated or static.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy
+DTSTART;VALUE=DATE:20221124
+UID:25bad@30DayMapChallenge
+DESCRIPTION:An imaginary place or a fantasy style.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colour Friday: 2 colours
+DTSTART;VALUE=DATE:20221125
+UID:02863@30DayMapChallenge
+DESCRIPTION:Map containing only two colours.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Island(s)
+DTSTART;VALUE=DATE:20221126
+UID:f0770@30DayMapChallenge
+DESCRIPTION:Islands in the water, islands of innovation or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music
+DTSTART;VALUE=DATE:20221127
+UID:88268@30DayMapChallenge
+DESCRIPTION:Music (or sound). How would you map it?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D
+DTSTART;VALUE=DATE:20221128
+UID:8b3f5@30DayMapChallenge
+DESCRIPTION:The magnificent third dimension! Visualize something in 3D
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:_“Out of my comfort zone”_
+DTSTART;VALUE=DATE:20221129
+UID:e3eb6@30DayMapChallenge
+DESCRIPTION:Challenge yourself. Maybe a map using a new tool?
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remix
+DTSTART;VALUE=DATE:20221130
+UID:77800@30DayMapChallenge
+DESCRIPTION:Take a map that you've done during the month and do a new version. Or take a map you really like by someone else and do your own version.
+LAST-MODIFIED;VALUE=DATE-TIME:20221004T113502Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+END:VCALENDAR

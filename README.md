@@ -42,6 +42,9 @@ The idea is to create maps based around different themes each day of November us
 |  30 | ```30-11-2022``` | Remix                           | Take a map that you've done during the month and do a new version. Or take a map you really like by someone else and do your own version.                                                                                                                                                                                                       |   |
 
 <!-- TABLE END -->
+
+The above table is also available as an [iCal calendar file](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/themes.ical) for consumption by your favorite calendar/scheduling application.
+
 ## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
@@ -99,11 +102,11 @@ If you want to make maps with QGIS, this video is a great starting point. Check 
 - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
 ## Maps &stats
-In 2021 there were more than 1200 mappers and more than 9000 maps created for the challenge. In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms. If you want to see some maps from past challenges, browse the hashtag on [Twitter](https://twitter.com/search?q=%2330DayMapChallenge&src=typed_query) or check the official [website](https://30daymapchallenge.com/) of the challenge and browse different years. 
+In 2021 there were more than 1200 mappers and more than 9000 maps created for the challenge. In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms. If you want to see some maps from past challenges, browse the hashtag on [Twitter](https://twitter.com/search?q=%2330DayMapChallenge&src=typed_query) or check the official [website](https://30daymapchallenge.com/) of the challenge and browse different years.
 
-[#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)   
+[#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)
 
-In 2020 & 2019 David Friggens did a huge lift on the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) with metadata & interactive gallery. 
+In 2020 & 2019 David Friggens did a huge lift on the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) with metadata & interactive gallery.
 ## Code of Conduct
 No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate,
 
@@ -117,7 +120,7 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 
 ## Merchandise
 
-[Get your official #30DayMapChallenge stickers from Redbubble.](https://www.redbubble.com/people/MapChallenge/shop) 
+[Get your official #30DayMapChallenge stickers from Redbubble.](https://www.redbubble.com/people/MapChallenge/shop)
 <table>
 <p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
 </table>

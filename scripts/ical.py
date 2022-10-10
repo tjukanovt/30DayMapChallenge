@@ -2,7 +2,7 @@
 
 """
 Update ical-file from markdown table in README.md
-2020-2021 Sebastian M. Ernst <ernst@pleiszenburg.de>
+2020-2022 Sebastian M. Ernst <ernst@pleiszenburg.de>
 """
 
 from datetime import datetime
@@ -35,7 +35,7 @@ END = "<!-- TABLE END -->"
 def _event(line: str, now: str) -> str:
 
     columns = [column.strip(" \t*`") for column in line.split('|')[1:-1]]
-    assert len(columns) == 4
+    assert len(columns) >= 4
 
     number = int(columns[0])
     assert 1 <= number <= 30 # days in November
