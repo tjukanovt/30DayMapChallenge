@@ -82,6 +82,8 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Free and open source 3D creation suite. Check out the BlenderGIS extension.
  - [R packages for geospatial](https://www.r-project.org/)
 	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples.
+ - [Python packages for geospatial](https://python.org/)
+   - [geopandas](https://geopandas.org/), [xarray-spatial](https://xarray-spatial.org), [matplotlib](https://matplotlib.org/2.0.2/gallery.html), [geoplot](https://residentmario.github.io/geoplot/), [hvplot](https://hvplot.holoviz.org/reference/index.html) and [plotly](https://plotly.com/python/) to mention a few. 
  - [Mapshaper](https://mapshaper.org)
 	 - Useful for geospatial data processing in the browser such as file format conversion, map projection, feature simplification, filtering, clipping, merging etc. Can also be run [locally from the command line](https://github.com/mbloch/mapshaper).
  - [Vega-Lite](https://vega.github.io/vega-lite/)
