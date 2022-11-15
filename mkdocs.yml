@@ -31,10 +31,10 @@ theme:
     - 404.html
   language: en
   features:
-    - navigation.instant
+    - navigation.top 
     - navigation.tabs
-    - navigation.tabs.sticky
-    - toc.integrate
+    - search.suggest
+    - search.share
   palette:
     - scheme: default
       primary: deep blue

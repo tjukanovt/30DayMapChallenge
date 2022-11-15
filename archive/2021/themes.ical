@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tjukanovt//30DayMapChallenge//EN
+ATTENDEE:MAILTO:do-not@send-email.xyz
+X-WR-CALNAME:30DayMapChallenge
+BEGIN:VEVENT
+SUMMARY:Points
+DTSTART;VALUE=DATE:20211101
+UID:a8b9e@30DayMapChallenge
+DESCRIPTION:A map with points.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lines
+DTSTART;VALUE=DATE:20211102
+UID:eaafa@30DayMapChallenge
+DESCRIPTION:A map with lines.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polygons
+DTSTART;VALUE=DATE:20211103
+UID:db858@30DayMapChallenge
+DESCRIPTION:A map with polygons.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexagons
+DTSTART;VALUE=DATE:20211104
+UID:c8063@30DayMapChallenge
+DESCRIPTION:A map with hexagons.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data challenge 1: OpenStreetMap
+DTSTART;VALUE=DATE:20211105
+UID:79356@30DayMapChallenge
+DESCRIPTION:OpenStreetMap is **the** source for geospatial data. Use OSM to map something that is interesting to you. You can access the data e.g. from [GeoFabrik](https://www.geofabrik.de/data/download.html) or some of [these](https://learnosm.org/en/osm-data/getting-data/) sources. Remember to credit '© OpenStreetMap contributors'.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red
+DTSTART;VALUE=DATE:20201106
+UID:f6910@30DayMapChallenge
+DESCRIPTION:A map with red colour or a map about something red.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green
+DTSTART;VALUE=DATE:20211107
+UID:19dbb@30DayMapChallenge
+DESCRIPTION:A map with green colour or a map about something green.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue
+DTSTART;VALUE=DATE:20211108
+UID:d05f7@30DayMapChallenge
+DESCRIPTION:A map with blue colour or a map about something blue.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monochrome
+DTSTART;VALUE=DATE:20211109
+UID:00908@30DayMapChallenge
+DESCRIPTION:A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raster
+DTSTART;VALUE=DATE:20211110
+UID:c9c78@30DayMapChallenge
+DESCRIPTION:Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D
+DTSTART;VALUE=DATE:20211111
+UID:b93e4@30DayMapChallenge
+DESCRIPTION:The magnificent third dimension! Visualize something in 3D
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Population
+DTSTART;VALUE=DATE:20211112
+UID:706ef@30DayMapChallenge
+DESCRIPTION:That is you and me. Or maybe animal population from [Movebank.org](https://www.movebank.org/cms/movebank-main)? Anyhow a classic theme for thematic maps.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data challenge 2: Natural Earth
+DTSTART;VALUE=DATE:20211113
+UID:53658@30DayMapChallenge
+DESCRIPTION:Great public domain map dataset for cartography on global and national scales. You can use Natural Earth as a part of your map or as the main source. You can download the data from a few different locations, but probably the easiest access is via [GitHub](https://github.com/nvkelso/natural-earth-vector/tree/master/geojson) or the [Natural Earth homepage](https://www.naturalearthdata.com/).
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map with a new tool
+DTSTART;VALUE=DATE:20211114
+UID:215e4@30DayMapChallenge
+DESCRIPTION:As the whole #30DayMapChallenge is much about learning and experimenting, this day is dedicated to exploring new tools. See the list on this repo below or find something interesting yourself!
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Map made without using a computer
+DTSTART;VALUE=DATE:20211115
+UID:de4be@30DayMapChallenge
+DESCRIPTION:Title speaks for itself. Use pen & paper, [carrots](https://twitter.com/lacxrx/status/1326763865460367361?s=20) or something else.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban/rural
+DTSTART;VALUE=DATE:20211116
+UID:1de9c@30DayMapChallenge
+DESCRIPTION:Map an urban area or rural area. Or something that defines that place.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Land
+DTSTART;VALUE=DATE:20211117
+UID:d83db@30DayMapChallenge
+DESCRIPTION:Land, landcover, landuse... You choose.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water
+DTSTART;VALUE=DATE:20211118
+UID:765c8@30DayMapChallenge
+DESCRIPTION:Oceans, lakes, rivers or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Island(s)
+DTSTART;VALUE=DATE:20211119
+UID:495ed@30DayMapChallenge
+DESCRIPTION:Islands in the water, islands of innovation or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movement
+DTSTART;VALUE=DATE:20211120
+UID:11338@30DayMapChallenge
+DESCRIPTION:Visualizing movement can be done with a static map or with an animation. I [have written a blog post](https://www.gispo.fi/en/open-software/geogiffery-in-2020-with-qgis-temporal-controller/)recently on how to make animations with QGIS
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elevation
+DTSTART;VALUE=DATE:20211121
+UID:3ecfb@30DayMapChallenge
+DESCRIPTION:Sweet hillshades, beautiful contours, high mountains or low valleys.  DEM, DSM or something else.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boundaries
+DTSTART;VALUE=DATE:20211122
+UID:a0d43@30DayMapChallenge
+DESCRIPTION:Boundaries are all around us. Some of them are visible and some of them are in our heads.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data challenge 3: GHSL Global Human Settlement Layer
+DTSTART;VALUE=DATE:20211123
+UID:dd341@30DayMapChallenge
+DESCRIPTION:The third data challenge should be created using this great dataset by EC JRC on human population. You can find it [here](https://ghsl.jrc.ec.europa.eu/). Different resolutions and areas you can choose from.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historical map
+DTSTART;VALUE=DATE:20211124
+UID:d8482@30DayMapChallenge
+DESCRIPTION:Historical data, historical style or something else.
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interactive map
+DTSTART;VALUE=DATE:20211125
+UID:55973@30DayMapChallenge
+DESCRIPTION:What if the user wants to click, pan and explore your map? If you don't feel comfortable with programming, one easy way is to use [qgis2web](https://github.com/tomchadwin/qgis2web) plugin. Or try out for example [kepler.gl](https://kepler.gl/) or [Unfolded Studio](https://studio.unfolded.ai/home).
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Choropleth map
+DTSTART;VALUE=DATE:20211126
+UID:abf1b@30DayMapChallenge
+DESCRIPTION:A choropleth map is a type of thematic map in which a set of pre-defined areas is colored or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Choropleth_map))
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heatmap
+DTSTART;VALUE=DATE:20211127
+UID:9cd47@30DayMapChallenge
+DESCRIPTION:A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by hue or intensity, giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Heat_map))
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earth is not flat
+DTSTART;VALUE=DATE:20211128
+UID:3f7e6@30DayMapChallenge
+DESCRIPTION:The Earth isn’t flat (AFAIK), so how would you show that on a map? Maybe something creative with projections? You can use e.g. [this QGIS plugin.](https://github.com/GispoCoding/GlobeBuilder)
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NULL
+DTSTART;VALUE=DATE:20211129
+UID:55d7f@30DayMapChallenge
+DESCRIPTION:
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metamapping day
+DTSTART;VALUE=DATE:20211130
+UID:bfe4a@30DayMapChallenge
+DESCRIPTION:Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself
+LAST-MODIFIED;VALUE=DATE-TIME:20211001T103914Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+END:VCALENDAR
