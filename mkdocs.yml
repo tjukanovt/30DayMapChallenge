@@ -7,7 +7,7 @@ site_author: https://ambarja.github.io/
 ## Repository
 repo_name: 30DayMapChallenge
 repo_url: https://github.com/tjukanovt/30DayMapChallenge
-#edit_uri: edit/main/docs/ #disables edit button
+edit_uri: edit/main/docs/ #disables edit button
 
 
 ## Social Media
