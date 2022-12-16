@@ -9,6 +9,9 @@ repo_name: 30DayMapChallenge
 repo_url: https://github.com/tjukanovt/30DayMapChallenge
 edit_uri: edit/main/docs/ #disables edit button
 
+# Copyright
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Made for <b>Antony Barja| @antony_barja</b></a>
+
 ## Social Media
 extra:
   manifest: "manifest.webmanifest"
