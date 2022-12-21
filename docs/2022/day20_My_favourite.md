@@ -1,0 +1,19 @@
+#### Top favorited post for day 20 `#30DayMapChallenge (My_favourite)`
+| media                                                                                         | user                                                                                   |   retweet_count |   like_count |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|--------------|
+| ![](https://pbs.twimg.com/media/FiAJA6XakAAYYM_.jpg)                                          | **[@ShinagawaJP](https://twitter.com/ShinagawaJP/status/1594284426179092480)**         |             992 |         5307 |
+| ![](https://pbs.twimg.com/media/FiAjH1yWIAAuDUc.jpg)                                          | **[@undertheraedar](https://twitter.com/undertheraedar/status/1594313332575637507)**   |              63 |          597 |
+| ![](https://pbs.twimg.com/media/Fh_4Q7EXgAAz1vi.jpg)                                          | **[@PeterTFretwell](https://twitter.com/PeterTFretwell/status/1594265825103544320)**   |              98 |          453 |
+| ![](https://pbs.twimg.com/media/FiAk1CoXEAIcvg2.jpg)                                          | **[@researchremora](https://twitter.com/researchremora/status/1594314767165956096)**   |              70 |          406 |
+| ![](https://pbs.twimg.com/media/FiBqKvPXEAACFTo.jpg)                                          | **[@Seaniesan](https://twitter.com/Seaniesan/status/1594391038432608257)**             |              47 |          232 |
+| ![](https://pbs.twimg.com/media/FgoiOfrXoAAgamW.jpg)                                          | **[@PythonMaps](https://twitter.com/PythonMaps/status/1594376524785807360)**           |              51 |          223 |
+| ![](https://pbs.twimg.com/media/Fh-ijpyX0AAz2Ti.jpg)                                          | **[@feishuoshu](https://twitter.com/feishuoshu/status/1594172393572163585)**           |              24 |          178 |
+| ![](https://pbs.twimg.com/media/FgjK1kWWYAAvjzz.jpg)                                          | **[@JulesGrandin](https://twitter.com/JulesGrandin/status/1594229052990185473)**       |               9 |          147 |
+| ![](https://pbs.twimg.com/media/FiA5qs_WIAA67pl.jpg)                                          | **[@issa_madjid](https://twitter.com/issa_madjid/status/1594338018881585152)**         |              18 |          129 |
+| ![](https://pbs.twimg.com/ext_tw_video_thumb/1594281614124716032/pu/img/Xunt3jit8V9CLBYT.jpg) | **[@27aea577f17d4c4](https://twitter.com/27aea577f17d4c4/status/1594282399696683010)** |              11 |           99 |
+| ![](https://pbs.twimg.com/ext_tw_video_thumb/1594313717235187712/pu/img/yGDhvmCMt_g2tufV.jpg) | **[@Julian_H0ffmann](https://twitter.com/Julian_H0ffmann/status/1594313951759970304)** |               8 |           90 |
+| ![](https://pbs.twimg.com/media/FiBCMhOaMAEfw0g.jpg)                                          | **[@oh_sk](https://twitter.com/oh_sk/status/1594347054989385734)**                     |               8 |           61 |
+| ![](https://pbs.twimg.com/media/FiCk0QAWQAAuNJu.jpg)                                          | **[@XemartinLaborde](https://twitter.com/XemartinLaborde/status/1594455590977572865)** |               7 |           60 |
+| ![](https://pbs.twimg.com/media/FiB3CSEXkAEyFvt.png)                                          | **[@Njuguna1Duncan](https://twitter.com/Njuguna1Duncan/status/1594405793084116993)**   |              11 |           60 |
+| ![](https://pbs.twimg.com/media/Fh99a96XEAAsiIG.jpg)                                          | **[@XemartinLaborde](https://twitter.com/XemartinLaborde/status/1594130784985792517)** |              12 |           52 |
+ 
