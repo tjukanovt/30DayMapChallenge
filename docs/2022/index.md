@@ -46,6 +46,6 @@ You can browse most popular tweets from the main panel or explore below individu
 | [@thomasdubdub](https://twitter.com/thomasdubdub)        | [https://github.com/thomasdubdub/30DayMapChallenge2022](https://github.com/thomasdubdub/30DayMapChallenge2022)                                                                             |
 | [@toss\_cas](https://twitter.com/toss_cas)               | [https://twitter.com/toss\_cas/status/1599253654426746880](https://twitter.com/toss_cas/status/1599253654426746880)                                                                        |
 | [@XenonGT](https://twitter.com/XenonGT)                  | [https://www.behance.net/gallery/159038821/30-Day-Map-Challenge-2022](https://www.behance.net/gallery/159038821/30-Day-Map-Challenge-2022)                                                 |
-
+| [@MindOverMagma](https://twitter.com/MindOverMagma)                  | [https://euanmitchellgis.com/past-projects/2022-30daymapchallenge/](https://euanmitchellgis.com/past-projects/2022-30daymapchallenge/)                                                 |
 
 *Want to have your maps included? Make a PR or send me a link!*
