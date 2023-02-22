@@ -108,7 +108,7 @@ extra_css:
 
 ## Page tree
 nav:
-  - 2022 challege:
+  - 2022 challenge:
       - Portfolio collection: 2022/index.md
       - Most-liked tweets:
           - Day 01 - Point: 2022/day01_Points.md
