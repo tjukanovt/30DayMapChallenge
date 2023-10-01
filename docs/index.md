@@ -3,7 +3,7 @@
 ## Daily social mapping project happening every November
 The official website for #30DayMapChallenge, a daily mapmaking challenge open to everyone.
 
-![Themes for the maps. See more below.](/docs/imgs/30dmc-2023.png)
+![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2023.png)
 
 | Day | Date       | Theme            | Details                                      |
 |-----|------------|------------------|----------------------------------------------|
