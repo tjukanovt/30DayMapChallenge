@@ -1,0 +1,23 @@
+# 🔵 Maps from 2020
+*Want to have your maps included? Make a PR or send me a link!*
+
+ - [David Friggens did another collection also for the 2020 challenge](https://david.frigge.nz/30DayMapChallenge2020/)
+ - [Maps by Marco Minghini](https://github.com/MarcoMinghini/30DayMapChallenge-2020)
+ - [Maps by Kate Berg](https://storymaps.arcgis.com/stories/ed9246cfadbf46a2a1c4175dba8515f1)
+ - [Maps by Aurelien Chaumet](https://aurelienchaumet.github.io/realisations/30daymapchallenge/)
+ - [Maps by Owen Powell](https://owenpowell.wordpress.com/30-day-map-challenge-2020/)
+ - [Maps by Andrew Zolnai](https://storymaps.arcgis.com/stories/1a08dd0efbf149a0948c04c93a277b29)
+ - [Maps by Ariel Kadouri](https://arielsartistry.com/2020/11/01/30daymapchallenge-2020/index.html)
+ - [Maps by Tiago Sousa](https://www.behance.net/gallery/108772495/30DayMapChallenge-2020)
+ - [Maps by Richard Vogg](https://github.com/richardvogg/30DayMapChallenge)
+ - [Maps by Steph Orellana Bello](https://github.com/sporella/30daymap)
+ - [Maps by Valentín Sastre](https://valentinmaps.org/)
+ - [Maps by Fedir Gontsa](https://www.behance.net/gallery/108818317/My-30DayMapChallenge-20)
+ - [Maps by @tomodraco](https://hicsuntdra.co/blog/twitter-30daymapchallenge-2020/)
+ - [Maps by @samwise_v](https://carto81maps.wordpress.com/30daymapchallenge-2020/)
+ - [Maps by Evelyn Uuemaa](https://kevelyn1.github.io/30DayMapChallenge2020/)
+ - [Maps by @_anirudhgovind](https://github.com/anirudhgovind/30DayMapChallenge)
+ - [Maps by Kontur](https://twitter.com/KonturInc/status/1322841058934489089)
+ - [Maps by Odile Plattard](https://odileplattard.wordpress.com/2021/03/04/30-day-map-challenge-2020/)
+ - [Maps with Jupyter Notebooks by Alexander Kmoch](https://github.com/allixender/30MapChallenge2020)
+ - [Maps on Instagram with the #30DayMapChallenge hashtag](https://www.instagram.com/explore/tags/30daymapchallenge/)
