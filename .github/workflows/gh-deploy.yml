@@ -15,12 +15,9 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install markdown>=3.2
       - run: pip install mkdocs>=1.2.3
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-material-extensions>=1.0
       - run: pip install mkdocs-click
-      - run: pip install Pygments>=2.4
-      - run: pip install pymdown-extensions>=9.0
+      - run: pip install pymdown-extensions
       - run: pip install mkdocs-rss-plugin
       - run: mkdocs gh-deploy --force

@@ -2,6 +2,42 @@
 
 The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone.
 
+![Themes for the maps. See more below.](/images/flyers/30dmc-2023.png)
+
+| Day | Date       | Theme            | Details                                      |
+|-----|------------|------------------|----------------------------------------------|
+| 1   | 01-11-2023 | Points           | A map with points                            |
+| 2   | 02-11-2023 | Lines            | A map with lines                             |
+| 3   | 03-11-2023 | Polygons         | A map with polygons                          |
+| 4   | 04-11-2023 | A bad map        | Let's get this over with                    |
+| 5   | 05-11-2023 | Analog Map       | Non-digital maps                             |
+| 6   | 06-11-2023 | Asia             | Largest of the continents                    |
+| 7   | 07-11-2023 | Navigation       | A map that helps you to navigate            |
+| 8   | 08-11-2023 | Africa           | Second-largest and second-most populous continent |
+| 9   | 09-11-2023 | Hexagons         | 6 sides, 6 angles, and 6 vertices            |
+| 10  | 10-11-2023 | North America    | Northern part of the American continent     |
+| 11  | 11-11-2023 | Retro            | A blast from the past                        |
+| 12  | 12-11-2023 | South America    | Southern part of the American continent     |
+| 13  | 13-11-2023 | Choropleth       | Classic thematic map: a choropleth          |
+| 14  | 14-11-2023 | Europe           | The westernmost peninsulas of Eurasia       |
+| 15  | 15-11-2023 | OpenStreetMap    | The greatest of the datasets. Remember to give credit. |
+| 16  | 16-11-2023 | Oceania          | Region made up of thousands of islands throughout the Central and South Pacific |
+| 17  | 17-11-2023 | Flow             | Flow of transport, people                   |
+| 18  | 18-11-2023 | Atmosphere       | Conditions of the atmosphere can be either weather or climate |
+| 19  | 19-11-2023 | 5-minute map     | Spend no more than 5 minutes to prepare this map |
+| 20  | 20-11-2023 | Outdoors         | Map of mountains, trails, or something completely different |
+| 21  | 21-11-2023 | Raster           | Pixels, please                               |
+| 22  | 22-11-2023 | North is not always up | ⬆️                          |
+| 23  | 23-11-2023 | 3D               | The third dimension                         |
+| 24  | 24-11-2023 | Black & white    | Only two colors allowed                     |
+| 25  | 25-11-2023 | Antarctica        | A cold continent that can't be reached with Web Mercator |
+| 26  | 26-11-2023 | Minimal           | Less is more                                 |
+| 27  | 27-11-2023 | Dot               | Dot density, a single dot in space or something different |
+| 28  | 28-11-2023 | Is this a chart or a map? | In thematic maps, you can't always tell. Try to stretch the limits |
+| 29  | 29-11-2023 | Population        | A classic theme for a map                   |
+| 30  | 30-11-2023 | "My favorite.."  | You choose!                                  |
+
+
 The idea is to create maps based around different themes each day of November using the hashtag `#30DayMapChallenge`. You can prepare the maps beforehand, but the main idea is to publish maps on the dedicated days. Just include a picture of the map when you post to Twitter (or other platforms) with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine. See the *Code of Conduct* at the bottom of the page.
 
 ## Data 🗺
@@ -9,9 +45,7 @@ The idea is to create maps based around different themes each day of November us
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
-	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles  or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/).
-- [Overture Maps Foundation](https://overturemaps.org/download/) 
-	- OMF publishes global data extracts monthly which are a combination of OpenStreetMap and other open data sources.
+	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/) .
 - [Natural Earth Data](https://www.naturalearthdata.com/)
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
@@ -28,12 +62,10 @@ You can use **what ever data you want.** But here are a few sources which could 
 	- Lidar point cloud and DEM data.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [GIS data repositories spreadsheet by Karen Payne](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit#gid=47)
-- [Data is Plural](https://www.data-is-plural.com/)
-	- The best data newsletter out there with an awesome archive including also some very obscure datasets. 
 
 ## Tools 🔨🔧
 
-The challenge is open to any software, but here’s a list of popular open-source tools to consider. No programming skills are required. Or if you are a programmer, no design skills are required. 
+Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. Still, **the challenge can be done with any kind of software** (or even without any software). Programming skills are not in any way a requirement to do the maps.
 
  - [QGIS](https://www.qgis.org/en/site/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps.
@@ -61,20 +93,17 @@ The challenge is open to any software, but here’s a list of popular open-sourc
 
 ## Tutorials & Helpful Resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
-- [Steven Bernard's QGIS Introduction](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
-- [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/en/)
-- [3D Landscape Tutorial by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
-- [Basics of Mapmaking by Kenneth Field](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
+- [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
+- [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
+- [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
+- [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
 
 ## Maps & Stats
-Every year the challenge gathers thousands of mappers around the globe. As the challenge has spread across various platforms, gathering statistics has proven to be nearly impossible. 
-
-In 2021 there were more than 1200 mappers and more than 9000 maps created for the challenge. In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms. If you want to see some maps from past challenges, browse the hashtag on [X](https://twitter.com/search?q=%2330DayMapChallenge&src=typed_query) or check the official [website](https://30daymapchallenge.com/) of the challenge and browse different years.
+In 2021 there were more than 1200 mappers and more than 9000 maps created for the challenge. In 2020 more than 1000 people posted more than 7000 maps for the challenge on different platforms. If you want to see some maps from past challenges, browse the hashtag on [Twitter](https://twitter.com/search?q=%2330DayMapChallenge&src=typed_query) or check the official [website](https://30daymapchallenge.com/) of the challenge and browse different years.
 
 [#30DayMapChallenge bot by Haifeng Niu harvested comprehensive stats and maps from the challenge](https://github.com/hn303/30DayMapChallenge-Bot)
 
 In 2020 & 2019 David Friggens did a huge lift on the [30DayMapChallenge2020Metadata repository](https://github.com/dakvid/30DayMapChallenge2020Metadata) with metadata & interactive gallery.
-
 ## Code of Conduct
 No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate,
 
@@ -82,8 +111,7 @@ But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don’t steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition,
-- Be mindful in how you use AI tooling. If you generate all of your maps with generative AI tools, where's the fun? This is not a prompt engineering challenge. 
-- **Don’t be an asshole**. Don’t harass or steal from others.
+- **Don’t be an asshole**.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
 

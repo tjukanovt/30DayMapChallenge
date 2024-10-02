@@ -7,10 +7,7 @@ site_author: https://ambarja.github.io/
 ## Repository
 repo_name: 30DayMapChallenge
 repo_url: https://github.com/tjukanovt/30DayMapChallenge
-edit_uri: edit/main/docs/ #disables edit button
-
-# Copyright
-copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Developed by <b>Antony Barja| @antony_barja</b></a>
+edit_uri: edit/main/docs/ # disables edit button
 
 ## Social Media
 extra:
@@ -18,17 +15,11 @@ extra:
   social:
     - icon: fontawesome/solid/house
       link: https://github.com/tjukanovt/30DayMapChallenge
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/tjukanov
-
-  # analytics:
-  #   provider: google
-  #   property: UA-122084242-1
 
 # Configuration
 theme:
   name: material
-  #custom_dir: docs/overrides/
+  # custom_dir: docs/overrides/
   static_templates:
     - 404.html
   language: en
@@ -46,21 +37,19 @@ theme:
     code: Roboto Mono
   favicon: imgs/favicon.ico
   icon:
-    #  logo: fontawesome/solid/book-reader
-  logo: imgs/30DMC_Tag_.svg
+    logo: imgs/30DMC_Tag_.svg
+
 plugins:
   - search
-  #- mkdocstrings
-  #- autolinks
-  #- macros
-
+  # - mkdocstrings
+  # - autolinks
+  # - macros
   - rss:
       abstract_chars_count: 160
       date_from_meta:
         as_creation: "date"
-        as_update: false
+        as_update: "false"
         datetime_format: "%d-%m-%Y"
-      # datetime_format: "%Y-%m-%d"
       feed_ttl: 1440
       length: 20
       pretty_print: false
@@ -91,8 +80,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - def_list
   - abbr
@@ -108,7 +97,8 @@ extra_css:
 
 ## Page tree
 nav:
-  - 2022 challege:
+  - Archive:
+    - 2022 Challenge:
       - Portfolio collection: 2022/index.md
       - Most-liked tweets:
           - Day 01 - Point: 2022/day01_Points.md
@@ -130,10 +120,10 @@ nav:
           - Day 17 - A map without a computer: 2022/day17_A_map_without_a_computer.md
           - Day 18 - Blue: 2022/day18_Colour_Friday-Blue.md
           - Day 19 - Globe: 2022/day19_Globe.md
-          - Day 20 - My favourire ...: 2022/day20_My_favourite.md
+          - Day 20 - My favourite ...: 2022/day20_My_favourite.md
           - Day 21 - Kontur Population: 2022/day21_Data-Kontur_Population_Dataset.md
           - Day 22 - NULL: 2022/day22_NULL.md
-          - Day 23- Movement: 2022/day23_Movement.md
+          - Day 23 - Movement: 2022/day23_Movement.md
           - Day 24 - Fantasy: 2022/day24_Fantasy.md
           - Day 25 - 2 colours: 2022/day25_Colour_Friday-2_colours.md
           - Day 26 - Island(s): 2022/day26_Island(s).md
@@ -142,76 +132,76 @@ nav:
           - Day 29 - Out of my comfort zone: 2022/day29_Out_of_my_comfort_zone.md
           - Day 30 - Remix: 2022/day30_Remix.md
 
-  - 2021 challenge:
-      - Portfolio collection: 2021/index.md
-      - Most-liked tweets:
-          - Day 01-Point: 2021/day01_Points.md
-          - Day 02-Lines: 2021/day02_Lines.md
-          - Day 03-Polygons: 2021/day03_Polygons.md
-          - Day 04-Hexagons: 2021/day04_Hexagons.md
-          - Day 05-Data challenge 1: 2021/day05_Datachallenge_1.md
-          - Day 06-Red: 2021/day06_Red.md
-          - Day 07-Green: 2021/day07_Green.md
-          - Day 08-Blue: 2021/day08_Blue.md
-          - Day 09-Monochrome: 2021/day09_Monochrome.md
-          - Day 10-Raster: 2021/day10_Raster.md
-          - Day 11-3D: 2021/day11_3D.md
-          - Day 12-Population: 2021/day12_Population.md
-          - Day 13-Data challenge 2: 2021/day13_Datachallenge_2.md
-          - Day 14-New tool: 2021/day14_Map_with_a_new_tool.md
-          - Day 15-Without computer: 2021/day15_Map_made_without_using_a_computer.md
-          - Day 16-Urban/Rural: 2021/day16_Urban&rural.md
-          - Day 17-Land: 2021/day17_Land.md
-          - Day 18-Water: 2021/day18_Water.md
-          - Day 19-Island(s): 2021/day19_Island(s).md
-          - Day 20-Movement: 2021/day20_Movement.md
-          - Day 21-Elevation: 2021/day21_Elevation.md
-          - Day 22-Boundaries: 2021/day22_Boundaries.md
-          - Day 23-Data challenge 3: 2021/day23_Datachallenge_3.md
-          - Day 24-Historical map: 2021/day24_Historical_map.md
-          - Day 25-Intercative map: 2021/day25_Interactive_map.md
-          - Day 26-Choropleth: 2021/day26_Choropleth_map.md
-          - Day 27-Heatmap: 2021/day27_Heatmap.md
-          - Day 28-The Earth is not flat: 2021/day28_The_Earth_is_not_flat.md
-          - Day 29-NULL: 2021/day29_NULL.md
-          - Day 30-Metamapping: 2021/day30_Metamapping_day.md
+      - 2021 Challenge:
+          - Portfolio collection: 2021/index.md
+          - Most-liked tweets:
+              - Day 01-Point: 2021/day01_Points.md
+              - Day 02-Lines: 2021/day02_Lines.md
+              - Day 03-Polygons: 2021/day03_Polygons.md
+              - Day 04-Hexagons: 2021/day04_Hexagons.md
+              - Day 05-Data challenge 1: 2021/day05_Datachallenge_1.md
+              - Day 06-Red: 2021/day06_Red.md
+              - Day 07-Green: 2021/day07_Green.md
+              - Day 08-Blue: 2021/day08_Blue.md
+              - Day 09-Monochrome: 2021/day09_Monochrome.md
+              - Day 10-Raster: 2021/day10_Raster.md
+              - Day 11-3D: 2021/day11_3D.md
+              - Day 12-Population: 2021/day12_Population.md
+              - Day 13-Data challenge 2: 2021/day13_Datachallenge_2.md
+              - Day 14-New tool: 2021/day14_Map_with_a_new_tool.md
+              - Day 15-Without computer: 2021/day15_Map_made_without_using_a_computer.md
+              - Day 16-Urban/Rural: 2021/day16_Urban&rural.md
+              - Day 17-Land: 2021/day17_Land.md
+              - Day 18-Water: 2021/day18_Water.md
+              - Day 19-Island(s): 2021/day19_Island(s).md
+              - Day 20-Movement: 2021/day20_Movement.md
+              - Day 21-Elevation: 2021/day21_Elevation.md
+              - Day 22-Boundaries: 2021/day22_Boundaries.md
+              - Day 23-Data challenge 3: 2021/day23_Datachallenge_3.md
+              - Day 24-Historical map: 2021/day24_Historical_map.md
+              - Day 25-Interactive map: 2021/day25_Interactive_map.md
+              - Day 26-Choropleth: 2021/day26_Choropleth_map.md
+              - Day 27-Heatmap: 2021/day27_Heatmap.md
+              - Day 28-The Earth is not flat: 2021/day28_The_Earth_is_not_flat.md
+              - Day 29-NULL: 2021/day29_NULL.md
+              - Day 30-Metamapping: 2021/day30_Metamapping_day.md
+              
+      - 2020 Challenge:
+          - Portfolio collection: 2020/index.md
+          - Most-liked tweets:
+              - Day 01-Point: 2020/day1.md
+              - Day 02-Lines: 2020/day2.md
+              - Day 03-Polygons: 2020/day3.md
+              - Day 04-Hexagons: 2020/day4.md
+              - Day 05-Blue: 2020/day05_Blue.md
+              - Day 06-Red: 2020/day06_Red.md
+              - Day 07-Green: 2020/day07_Green.md
+              - Day 08-Yellow: 2020/day08_Yellow.md
+              - Day 09-Monochrome: 2020/day09_Monochrome.md
+              - Day 10-Grid: 2020/day10_Grid.md
+              - Day 11-3D: 2020/day11_3D.md
+              - Day 12-Without GIS: 2020/day12_Map_not_made_with_GIS_software.md
+              - Day 13-Raster: 2020/day13_Raster.md
+              - Day 14-Climate change: 2020/day14_Climate change.md
+              - Day 15-Connections: 2020/day15_Connections.md
+              - Day 16-Island(s): 2020/day16_Island(s).md
+              - Day 17-Historical map: 2020/day17_Historical map.md
+              - Day 18-Landuse: 2020/day18_Landuse.md
+              - Day 19-NULL: 2020/day19_NULL.md
+              - Day 20-Population: 2020/day20_Population.md
+              - Day 21-Water: 2020/day21_Water.md
+              - Day 22-Movement: 2020/day22_Movement.md
+              - Day 23-Boundaries: 2020/day23_Boundaries.md
+              - Day 24-Elevation: 2020/day24_Elevation.md
+              - Day 25-COVID-19: 2020/day25_COVID-19.md
+              - Day 26-Map with a new tool: 2020/day26_Map with a new tool.md
+              - Day 27-Big or small data: 2020/day27_Big or small data.md
+              - Day 28-Non-geographic map: 2020/day28_Non-geographic map.md
+              - Day 29-Globe: 2020/day29_Globe.md
+              - Day 30-A map: 2020/day30_A map.md
 
-  - 2020 challenge:
-      - Portfolio collection: 2020/index.md
-      - Most-liked tweets:
-          - Day 01-Point: 2020/day1.md
-          - Day 02-Lines: 2020/day2.md
-          - Day 03-Polygons: 2020/day3.md
-          - Day 04-Hexagons: 2020/day4.md
-          - Day 05-Blue: 2020/day05_Blue.md
-          - Day 06-Red: 2020/day06_Red.md
-          - Day 07-Green: 2020/day07_Green.md
-          - Day 08-Yellow: 2020/day08_Yellow.md
-          - Day 09-Monochrome: 2020/day09_Monochrome.md
-          - Day 10-Grid: 2020/day10_Grid.md
-          - Day 11-3D: 2020/day11_3D.md
-          - Day 12-Without GIS: 2020/day12_Map_not_made_with_GIS_software.md
-          - Day 13-Raster: 2020/day13_Raster.md
-          - Day 14-Climate change: 2020/day14_Climate change.md
-          - Day 15-Connections: 2020/day15_Connections.md
-          - Day 16-Island(s): 2020/day16_Island(s).md
-          - Day 17-Historical map: 2020/day17_Historical map.md
-          - Day 18-Landuse: 2020/day18_Landuse.md
-          - Day 19-NULL: 2020/day19_NULL.md
-          - Day 20-Population: 2020/day20_Population.md
-          - Day 21-Water: 2020/day21_Water.md
-          - Day 22-Movement: 2020/day22_Movement.md
-          - Day 23-Boundaries: 2020/day23_Boundaries.md
-          - Day 24-Elevation: 2020/day24_Elevation.md
-          - Day 25-COVID-19: 2020/day25_COVID-19.md
-          - Day 26-Map with a new tool: 2020/day26_Map with a new tool.md
-          - Day 27-Big or small data: 2020/day27_Big or small data.md
-          - Day 28-Non-geographic map: 2020/day28_Non-geographic map.md
-          - Day 29-Globe: 2020/day29_Globe.md
-          - Day 30-A map: 2020/day30_A map.md
-
-  - 2019 challenge:
-      - Portfolio collection: 2019/index.md
+      - 2019 Challenge:
+          - Portfolio collection: 2019/index.md
 
   - Statistics: statistics.md
 
