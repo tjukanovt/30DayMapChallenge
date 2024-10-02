@@ -37,7 +37,7 @@ theme:
     code: Roboto Mono
   favicon: imgs/favicon.ico
   icon:
-    logo: imgs/30DMC_Tag_.svg
+    logo: imgs/30DMC_logo.svg
 
 plugins:
   - search
