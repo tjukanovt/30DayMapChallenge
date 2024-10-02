@@ -28,6 +28,7 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.share
+    - back-to-top: false
   palette:
     - scheme: default
       primary: deep blue

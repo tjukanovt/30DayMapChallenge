@@ -1,11 +1,13 @@
 # Helpful resources
 
-## 🔵 Data 🗺
+## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
-	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/) .
+	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles  or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/).
+- [Overture Maps Foundation](https://overturemaps.org/download/) 
+	- OMF publishes global data extracts monthly which are a combination of OpenStreetMap and other open data sources.
 - [Natural Earth Data](https://www.naturalearthdata.com/)
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
@@ -22,10 +24,12 @@ You can use **what ever data you want.** But here are a few sources which could 
 	- Lidar point cloud and DEM data.
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [GIS data repositories spreadsheet by Karen Payne](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit#gid=47)
+- [Data is Plural](https://www.data-is-plural.com/)
+	- The best data newsletter out there with an awesome archive including also some very obscure datasets. 
 
-## 🔵 Tools 🔨🔧
+## Tools 🔨🔧
 
-Because the challenge is aimed to be open for everyone, the tools listed here will be *open source tools*. Still, **the challenge can be done with any kind of software** (or even without any software). Programming skills are not a requirement to do the maps.
+The challenge is open to any software, but here’s a list of popular open-source tools to consider. No programming skills are required. Or if you are a programmer, no design skills are required. 
 
  - [QGIS](https://www.qgis.org/en/site/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps.
@@ -37,6 +41,8 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Free and open source 3D creation suite. Check out the BlenderGIS extension.
  - [R packages for geospatial](https://www.r-project.org/)
 	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples.
+ - [Python packages for geospatial](https://python.org/)
+   - [geopandas](https://geopandas.org/), [xarray-spatial](https://xarray-spatial.org), [matplotlib](https://matplotlib.org/2.0.2/gallery.html), [geoplot](https://residentmario.github.io/geoplot/), [hvplot](https://hvplot.holoviz.org/reference/index.html) and [plotly](https://plotly.com/python/) to mention a few. 
  - [Mapshaper](https://mapshaper.org)
 	 - Useful for geospatial data processing in the browser such as file format conversion, map projection, feature simplification, filtering, clipping, merging etc. Can also be run [locally from the command line](https://github.com/mbloch/mapshaper).
  - [Vega-Lite](https://vega.github.io/vega-lite/)
@@ -47,11 +53,11 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 	 - Literate Visualization notebook environment optimised for specifying visualizations and documenting the design process. While not specific to cartography, can be a useful environment for exploring cartographic design.
  - [Observable](https://observablehq.com)
 	 - Reactive notebook environment for generation of visualization and cartographic output embedded in a textual narrative. Focus is on using [d3](https://d3js.org) for specifying visual output.
+	 
 
-## 🔵 Tutorials + helpful resources 📚
- 
- - If you want to make maps with QGIS, [this video](https://www.youtube.com/watch?v=kCnNWyl9qSE) is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
- - [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
- - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
- - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
- - [Blog post by Kenneth Field about the basics of mapmaking](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
+## Tutorials & Helpful Resources 📚
+If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
+- [Steven Bernard's QGIS Introduction](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
+- [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/en/)
+- [3D Landscape Tutorial by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
+- [Basics of Mapmaking by Kenneth Field](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20)
