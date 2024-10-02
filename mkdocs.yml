@@ -36,8 +36,6 @@ theme:
     text: Lato
     code: Roboto Mono
   favicon: imgs/favicon.ico
-  icon:
-    logo: imgs/30DMC_logo
 
 plugins:
   - search
