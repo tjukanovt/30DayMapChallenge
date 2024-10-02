@@ -4,20 +4,33 @@ on:
   push:
     branches:
       - main
-      - master
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      # Checkout the repository with full history (fetch-depth: 0)
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      
+      # Setup Python 3.x environment
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs>=1.2.3
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-click
-      - run: pip install pymdown-extensions
-      - run: pip install mkdocs-rss-plugin
-      - run: mkdocs gh-deploy --force
+      
+      # Install all the necessary dependencies in one step
+      - name: Install dependencies
+        run: |
+          pip install mkdocs>=1.2.3
+          pip install mkdocs-material
+          pip install mkdocs-click
+          pip install pymdown-extensions
+          pip install mkdocs-rss-plugin
+      
+      # Deploy the site using mkdocs
+      - name: Deploy with MkDocs
+        run: mkdocs gh-deploy --force

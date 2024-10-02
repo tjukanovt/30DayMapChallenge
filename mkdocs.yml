@@ -97,6 +97,7 @@ extra_css:
 
 ## Page tree
 nav:
+  - Home: index.md
   - Archive:
     - 2022 Challenge:
       - Portfolio collection: 2022/index.md
