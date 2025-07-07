@@ -1,7 +1,7 @@
 requests_oauthlib
 click
-mkdocs
-mkdocs-material
-mkdocs-click
-pymdown-extensions
-mkdocs-rss-plugin==0.13.0
+mkdocs>=1.6.1
+mkdocs-material>=9.6.15
+mkdocs-click>=0.9.0
+pymdown-extensions>=10.7
+mkdocs-rss-plugin>=1.17.3

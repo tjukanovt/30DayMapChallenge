@@ -102,7 +102,9 @@ nav:
   - Home: index.md
   - Archive:
     - 2024 Challenge:
-        - Portfolio collection: archive/2024/README.md
+        - Portfolio collection: 2024/index.md
+    - 2023 Challenge:
+        - Portfolio collection: 2023/index.md
     - 2022 Challenge:
       - Portfolio collection: 2022/index.md
       - Most-liked tweets:

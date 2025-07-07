@@ -12,24 +12,21 @@ jobs:
     steps:
       # Checkout the repository with full history (fetch-depth: 0)
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       
-      # Setup Python 3.x environment
+      # Setup Python 3.13 environment
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: 3.13
       
-      # Install all the necessary dependencies in one step
+      # Install dependencies from requirements file
       - name: Install dependencies
         run: |
-          pip install mkdocs>=1.2.3
-          pip install mkdocs-material
-          pip install mkdocs-click
-          pip install pymdown-extensions
-          pip install mkdocs-rss-plugin
+          python -m pip install --upgrade pip
+          pip install -r requirements-mkdocs.txt
       
       # Deploy the site using mkdocs
       - name: Deploy with MkDocs
