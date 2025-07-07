@@ -1,0 +1,21 @@
+{
+  "name": "30DayMapChallenge",
+  "short_name": "30DMC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "description": "Daily mapping challenge happening every November!",
+  "icons": [
+    {
+      "src": "imgs/favicon.ico",
+      "sizes": "32x32 48x48 64x64 128x128 256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "imgs/30DMC_logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
