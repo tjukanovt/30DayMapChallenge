@@ -146,8 +146,8 @@ table {
     border-left: .22rem solid #448aff;
 }
 .md-typeset .admonition.settings>.admonition-title, .md-typeset details.settings>.admonition-title, .md-typeset details.settings>summary {
-    border-bottom: .1rem solid rgba(236, 243, 255), .1);
-    background-color: rgba(236, 243, 255), .1);
+    border-bottom: .1rem solid rgba(236, 243, 255, 0.1);
+    background-color: rgba(236, 243, 255, 0.1);
 }
 .md-typeset .admonition.settings>.admonition-title:before, .md-typeset details.settings>.admonition-title:before, .md-typeset details.settings>summary:before {
     color: #448aff;
@@ -188,11 +188,18 @@ div.doc-contents:not(.first) {
 /*mod. altezza footer prev/next*/
 .md-footer__link {padding-bottom: .1rem!important; padding-top: .4rem!important; }
 
+/* Hide back to top button on mobile devices */
+@media screen and (max-width: 76.1875em) {
+  .md-top {
+    display: none !important;
+  }
+}
+
 /*base icona home*/
 .svg-inline--fa.fa-stack-2x { width: 1em!important;}
 
 /*menu mobile home home*/
-@media screen and (max-width: 76.1875em)
+@media screen and (max-width: 76.1875em) {
 .md-nav--primary .md-nav__title~.md-nav__list {
     background-color: var(--md-default-bg-color);
     box-shadow: 0 .05rem 0 var(--md-default-fg-color--lightest) inset;
@@ -207,6 +214,7 @@ div.doc-contents:not(.first) {
     margin: 0;
     padding: 0;
     text-align: left!important;
+}
 }
 /* Sfondo QGIS
 .md-main { background-image:url(../imgs/qsfondo_800.png)!important; background-repeat: no-repeat!important;  background-position: center center!important; background-size: 90%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background:  #efefef;}*/
