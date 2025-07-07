@@ -82,8 +82,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: material.extensions.emoji.twemoji
+      emoji_generator: material.extensions.emoji.to_svg
   - attr_list
   - def_list
   - abbr
@@ -101,6 +101,8 @@ extra_css:
 nav:
   - Home: index.md
   - Archive:
+    - 2024 Challenge:
+        - Portfolio collection: archive/2024/README.md
     - 2022 Challenge:
       - Portfolio collection: 2022/index.md
       - Most-liked tweets:
