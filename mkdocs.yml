@@ -81,9 +81,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tasklist:
       clickable_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: material.extensions.emoji.twemoji
-      emoji_generator: material.extensions.emoji.to_svg
+  # - pymdownx.emoji:  # Disabled due to Python 3.13 compatibility issues
+  #     emoji_index: material.extensions.emoji.twemoji
+  #     emoji_generator: material.extensions.emoji.to_svg
   - attr_list
   - def_list
   - abbr
