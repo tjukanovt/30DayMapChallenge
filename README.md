@@ -97,3 +97,9 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 <table>
 <p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
 </table>
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+You are free to use, modify, and distribute this work with attribution.
