@@ -101,6 +101,8 @@ extra_css:
 nav:
   - Home: index.md
   - Archive:
+    - 2025 Challenge:
+        - Portfolio collection: 2025/index.md
     - 2024 Challenge:
         - Portfolio collection: 2024/index.md
     - 2023 Challenge:
