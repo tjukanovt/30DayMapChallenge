@@ -4,7 +4,7 @@ The official repository for #30DayMapChallenge, a daily mapping challenge open t
 
 The challenge takes place every November, with 30 different mapping themes - one for each day of the month. Participants create maps based on these themes and share them on social media using the hashtag `#30DayMapChallenge`.
 
-![Themes for the maps. See more below.](../images/flyers/30dmc_2025.png)
+![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc_2025.png)
 
 | Date       | Name                  | Description                                                                                                                                                                                                                                                                           |
 |------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

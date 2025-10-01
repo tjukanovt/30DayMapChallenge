@@ -2,7 +2,7 @@
 
 The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone.
 
-![Themes for the maps. See more below.](./images/flyers/30dmc_2025.png)
+![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc_2025.png)
 
 | Date       | Name                  | Description                                                                                                                                                                                                                                                                           |
 |------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
