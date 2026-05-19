@@ -1,13 +1,13 @@
-# Community map galleries for the #30DayMapChallenge.
+# Community map collections for the #30DayMapChallenge.
 #
-# Want your gallery listed on https://30daymapchallenge.com/galleries/ ?
+# Want your collection listed on https://30daymapchallenge.com/galleries/ ?
 # Copy one entry below, fill in the fields, and open a pull request.
 # See CONTRIBUTING.md for other ways to submit.
 #
 # Fields:
 #   creator     - your name, team or handle           (required)
-#   link        - URL to the gallery / collection     (required)
-#   year        - challenge year the gallery covers   (required)
+#   link        - URL to the collection               (required)
+#   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
 - creator: Federica Gazzelloni
@@ -20,6 +20,26 @@
   year: 2025
   description: Collaborative challenge entries from students of the UPenn Weitzman MUSA program (2023-2025).
 
+- creator: Esri ArcGIS Pro team
+  link: https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/pro-30daymapchallenge
+  year: 2025
+  description: A blog post on the maps the Esri ArcGIS Pro team made for the 2025 challenge.
+
+- creator: Javier Ladino
+  link: https://javierladino.com/portfolio/%F0%9F%97%BA%EF%B8%8F-30-days-of-maps-30daymapchallenge-2025/
+  year: 2025
+  description: A personal portfolio of maps made for the 2025 challenge.
+
+- creator: kamapu
+  link: https://kamapu.net/blog/20251101-30-day-map-challenge/
+  year: 2025
+  description: Maps for the 2025 challenge, made mostly in R.
+
+- creator: Lisa Ho
+  link: https://github.com/Lisa-Ho/30-day-map-challenge
+  year: 2025
+  description: Maps from the challenge (2021-2025), made mostly in Python.
+
 - creator: Estonian Land Board
   link: https://geoportaal.maaamet.ee/eng/spatial-data/30daymapchallenge-2024-p953.html
   year: 2024
@@ -30,10 +50,45 @@
   year: 2024
   description: A blog showcase of challenge maps from the USC Libraries.
 
+- creator: QWAST-GIS
+  link: https://www.qwast-gis.com/l/30daymapchallenge-2024/
+  year: 2024
+  description: Maps for the 2024 challenge, shared across several social platforms.
+
+- creator: Jo Wood
+  link: https://observablehq.com/collection/@jwolondon/30-day-map-challenge-2024
+  year: 2024
+  description: Daily maps for the 2024 challenge, built with Observable Plot.
+
+- creator: Mapbox
+  link: https://www.mapbox.com/blog/highlights-from-the-2024-30-day-map-challenge
+  year: 2024
+  description: A blog post rounding up highlights from the 2024 challenge.
+
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
   year: 2023
   description: Data, code and visualizations for the challenge (2021 and 2023).
+
+- creator: Mirza Waleed
+  link: https://waleedgeo.com/gallery/30daymap-2023/
+  year: 2023
+  description: A gallery of maps made for the 2023 challenge.
+
+- creator: Digital Geography Lab
+  link: https://blogs.helsinki.fi/digital-geography/2023/12/07/dgls-map-gallery-for-30daymapchallenge-2023/
+  year: 2023
+  description: The University of Helsinki Digital Geography Lab's map gallery for the 2023 challenge.
+
+- creator: Andy Woodruff
+  link: https://andywoodruff.com/posts/2023/30-day-map-challenge/
+  year: 2023
+  description: A cartographer's set of maps made for the 2023 challenge.
+
+- creator: Peter Atwood
+  link: https://peteratwoodprojects.wordpress.com/portfolio/30daymapchallenge-2023/
+  year: 2023
+  description: A portfolio of maps made for the 2023 challenge.
 
 - creator: Petra Duriancikova
   link: https://github.com/petraduriancikova/30DayMapChallenge

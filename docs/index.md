@@ -12,7 +12,7 @@ The idea is to create maps based around different themes each day of November us
 
 ## Explore the maps 🗺️
 
-Every November mappers around the world share tens of thousands of maps. Browse the growing collection of community **[map galleries](galleries/index.md)** to get inspired — and [add your own](galleries/index.md) so others can find it too.
+Every November mappers around the world share tens of thousands of maps. Browse the growing list of community **[map collections](galleries/index.md)** to get inspired — and [add your own](galleries/index.md) so others can find it too.
 
 ## Data 🗺
 

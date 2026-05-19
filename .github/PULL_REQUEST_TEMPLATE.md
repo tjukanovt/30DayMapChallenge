@@ -1,6 +1,6 @@
 <!--
 Thanks for contributing to the #30DayMapChallenge!
-Adding a map gallery? Just edit galleries.yml — see CONTRIBUTING.md.
+Adding a map collection? Just edit galleries.yml — see CONTRIBUTING.md.
 -->
 
 ## What does this PR do?
@@ -9,6 +9,6 @@ Adding a map gallery? Just edit galleries.yml — see CONTRIBUTING.md.
 
 ## Checklist
 
-- [ ] If adding a gallery, I edited `galleries.yml` with `creator`, `link` and `year`
+- [ ] If adding a collection, I edited `galleries.yml` with `creator`, `link` and `year`
 - [ ] Links are public and work without a login
 - [ ] The `build` check passes

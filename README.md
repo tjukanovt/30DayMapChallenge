@@ -4,7 +4,7 @@ The official repository for #30DayMapChallenge, a daily mapping challenge open t
 
 The challenge takes place every November, with 30 different mapping themes — one for each day of the month. The 30 themes for the **2026 challenge** will be announced later this year. Themes from past challenges are kept in [`archive/`](archive/).
 
-**Browse community map galleries** on the [challenge website](https://30daymapchallenge.com/galleries/) to see maps from past challenges — and [add your own gallery](CONTRIBUTING.md).
+**Browse community map collections** on the [challenge website](https://30daymapchallenge.com/galleries/) to see maps from past challenges — and [add your own](CONTRIBUTING.md).
 
 The idea is to create maps based around different themes each day of November using the hashtag `#30DayMapChallenge`. You can prepare the maps beforehand, but the main idea is to publish maps on the dedicated days. Just include a picture of the map when you post to X/Instagram/Linkedin (or your preferred social media platforms) using the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine. See the *Code of Conduct* at the bottom of the page.
 
