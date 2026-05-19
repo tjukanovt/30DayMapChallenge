@@ -1,0 +1,51 @@
+# Community map galleries for the #30DayMapChallenge.
+#
+# Want your gallery listed on https://30daymapchallenge.com/galleries/ ?
+# Copy one entry below, fill in the fields, and open a pull request.
+# See CONTRIBUTING.md for other ways to submit.
+#
+# Fields:
+#   creator     - your name, team or handle           (required)
+#   link        - URL to the gallery / collection     (required)
+#   year        - challenge year the gallery covers   (required)
+#   description - one short sentence about it          (optional)
+
+- creator: Federica Gazzelloni
+  link: https://fgazzelloni.github.io/30DayMapChallenge/
+  year: 2025
+  description: A gallery of maps created for the 2025 challenge.
+
+- creator: UPenn Weitzman MUSA program
+  link: https://github.com/weitzman-musa/30DayMapChallenge
+  year: 2025
+  description: Collaborative challenge entries from students of the UPenn Weitzman MUSA program (2023-2025).
+
+- creator: Estonian Land Board
+  link: https://geoportaal.maaamet.ee/eng/spatial-data/30daymapchallenge-2024-p953.html
+  year: 2024
+  description: Daily maps published by the Estonian Land Board cartography team.
+
+- creator: University of South Carolina Libraries
+  link: https://digital.library.sc.edu/blogs/scholcomm/30daymapchallenge-2024/
+  year: 2024
+  description: A blog showcase of challenge maps from the USC Libraries.
+
+- creator: Blake R. Mills
+  link: https://github.com/BlakeRMills/30DayMapChallenge
+  year: 2023
+  description: Data, code and visualizations for the challenge (2021 and 2023).
+
+- creator: Petra Duriancikova
+  link: https://github.com/petraduriancikova/30DayMapChallenge
+  year: 2022
+  description: A complete set of maps for the 2022 challenge.
+
+- creator: Xavier Olive
+  link: https://github.com/xoolive/30DayMapChallenge
+  year: 2021
+  description: Daily maps and source code, made largely with Python.
+
+- creator: Alexandra Kapp
+  link: https://github.com/AlexandraKapp/30daymapchallenge
+  year: 2020
+  description: Maps and code from the 2020 challenge.

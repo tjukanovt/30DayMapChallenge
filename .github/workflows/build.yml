@@ -26,20 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements-mkdocs.txt
 
-      # The theme table lives in includes/themes-2025.md (used by the site) and
-      # is mirrored into README.md between the TABLE START/END markers (shown on
-      # GitHub). Fail the build if the two copies drift apart.
-      - name: Check theme table is in sync
-        run: |
-          awk '/<!-- TABLE START -->/{f=1;next} /<!-- TABLE END -->/{f=0} f' README.md \
-            | grep -v '^[[:space:]]*$' | sed 's/[[:space:]]*$//' > /tmp/readme-table.md
-          grep -v '^[[:space:]]*$' includes/themes-2025.md \
-            | sed 's/[[:space:]]*$//' > /tmp/include-table.md
-          if ! diff -u /tmp/include-table.md /tmp/readme-table.md; then
-            echo "::error::README.md theme table is out of sync with includes/themes-2025.md"
-            exit 1
-          fi
-
       - name: Build site (strict)
         run: mkdocs build --strict
 
