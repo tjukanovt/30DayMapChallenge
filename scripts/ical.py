@@ -35,14 +35,14 @@ END = "<!-- TABLE END -->"
 def _event(line: str, now: str) -> str:
 
     columns = [column.strip(" \t*`") for column in line.split('|')[1:-1]]
-    assert len(columns) >= 4
+    assert len(columns) >= 3 # Date | Name | Description
 
-    number = int(columns[0])
-    assert 1 <= number <= 30 # days in November
-    date = datetime(*[int(fragment) for fragment in columns[1].split('-')[::-1]])
-    summary = columns[2]
+    date = datetime(*[int(fragment) for fragment in columns[0].split('-')[::-1]])
+    assert date.month == 11 # November
+    assert 1 <= date.day <= 30
+    summary = columns[1]
     assert len(summary) > 0
-    description = columns[3]
+    description = columns[2]
     # assert len(description) > 0 # can be empty?
 
     return SUMMARY.format(

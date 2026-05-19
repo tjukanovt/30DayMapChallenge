@@ -4,6 +4,8 @@ The official repository for #30DayMapChallenge, a daily mapping challenge open t
 
 ![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc_2025.png)
 
+<!-- TABLE START -->
+
 | Date       | Name                  | Description                                                                                                                                                                                                                                                                           |
 |------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-11-2025 | Points                | Challenge Classic: Map with point data (e.g., individual locations, points of interest, clusters). Focus on effective symbolization and density visualization.                                    |
@@ -36,6 +38,8 @@ The official repository for #30DayMapChallenge, a daily mapping challenge open t
 | 28-11-2025 | Black                 | (Black Friday) Interpret the theme of Black. The map can be purely monochromatic, represent absence/darkness (e.g., light pollution), or relate to themes of consumption.                                     |
 | 29-11-2025 | Raster                | Challenge Classic: Map using raster data. Focus on satellite imagery, elevation models (DEMs), land cover, or pixel-based art.                                     |
 | 30-11-2025 | Makeover              | Take a map you made during the month or an older piece and redesign it. Focus on improving the aesthetics, clarity, or data communication.        |
+
+<!-- TABLE END -->
 
 The idea is to create maps based around different themes each day of November using the hashtag `#30DayMapChallenge`. You can prepare the maps beforehand, but the main idea is to publish maps on the dedicated days. Just include a picture of the map when you post to X/Instagram/Linkedin (or your preferred social media platforms) using the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine. See the *Code of Conduct* at the bottom of the page.
 
