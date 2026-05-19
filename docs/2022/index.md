@@ -1,5 +1,13 @@
 # 🔵 Maps from 2022
 
+!!! note "A snapshot from the Twitter/X era"
+    In its early years the challenge happened mainly on Twitter, and the
+    **Most-liked tweets** pages list the most-engaged posts for each day. As the
+    challenge has since spread across many platforms, this kind of engagement
+    statistic is no longer collected — these pages are kept purely as a
+    historical archive. For recent maps, browse the
+    [map galleries](../galleries/index.md).
+
 You can browse most popular tweets from the main panel or explore below individual collections.
 
 | Twitter account                                         | Portfolio link                                                                                                                                                                             |

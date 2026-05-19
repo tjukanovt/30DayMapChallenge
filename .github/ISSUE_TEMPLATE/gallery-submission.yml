@@ -1,0 +1,54 @@
+name: Add a map gallery
+description: Submit your #30DayMapChallenge map gallery to be listed on the website.
+title: "[Gallery] "
+labels: ["gallery"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing your maps! Fill in the details below and a maintainer
+        will add your gallery to https://30daymapchallenge.com/galleries/.
+
+        Comfortable with pull requests? Editing `galleries.yml` directly is even
+        faster — see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      description: Your name, team or handle.
+      placeholder: Jane Mapmaker
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Gallery link
+      description: Public URL to your collection of challenge maps.
+      placeholder: https://example.com/my-30daymapchallenge
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Challenge year
+      description: The year the gallery covers. For multi-year galleries, use the most recent.
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One short sentence about your gallery (optional).
+      placeholder: A collection of maps made with QGIS for the 2026 challenge.
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This links to my own work, or a collection I may share.
+          required: true
+        - label: The link is public and works without a login.
+          required: true

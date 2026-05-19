@@ -45,7 +45,7 @@ plugins:
   - search
   # - mkdocstrings
   # - autolinks
-  # - macros
+  - macros
   - rss:
       abstract_chars_count: 160
       date_from_meta:
@@ -103,9 +103,10 @@ extra_css:
 ## Page tree
 nav:
   - Home: index.md
+  - Map galleries: galleries/index.md
   - Archive:
     - 2025 Challenge:
-        - Portfolio collection: 2025/index.md
+        - Themes: 2025/index.md
     - 2024 Challenge:
         - Portfolio collection: 2024/index.md
     - 2023 Challenge:
