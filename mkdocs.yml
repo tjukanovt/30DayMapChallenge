@@ -87,7 +87,10 @@ markdown_extensions:
   - attr_list
   - def_list
   - abbr
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      check_paths: true
+      base_path:
+        - .
   - footnotes
 
 ## Custom theme additions
