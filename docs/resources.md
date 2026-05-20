@@ -5,7 +5,7 @@
 You can use **whatever data you want.** Here are a few sources which could help you to get started or give you new ideas.
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
-	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles  or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/).
+	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you are looking for easy ways to get an extract of the data, you can check [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/).
 - [Overture Maps Foundation](https://overturemaps.org/download/) 
 	- OMF publishes global data extracts monthly which are a combination of OpenStreetMap and other open data sources.
 - [Natural Earth Data](https://www.naturalearthdata.com/)
@@ -40,7 +40,7 @@ The challenge is open to any software, but here’s a list of popular open-sourc
  - [Blender](https://www.blender.org/)
 	 - Free and open source 3D creation suite. Check out the BlenderGIS extension.
  - [R packages for geospatial](https://www.r-project.org/)
-	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention few examples.
+	 - [sf](https://cran.r-project.org/web/packages/sf/index.html), [ggplot](https://ggplot2.tidyverse.org/), [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) and [rayshader](https://www.rayshader.com/) to mention a few examples.
  - [Python packages for geospatial](https://python.org/)
    - [geopandas](https://geopandas.org/), [xarray-spatial](https://xarray-spatial.org), [matplotlib](https://matplotlib.org/2.0.2/gallery.html), [geoplot](https://residentmario.github.io/geoplot/), [hvplot](https://hvplot.holoviz.org/reference/index.html) and [plotly](https://plotly.com/python/) to mention a few. 
  - [Mapshaper](https://mapshaper.org)
@@ -48,7 +48,7 @@ The challenge is open to any software, but here’s a list of popular open-sourc
  - [Vega-Lite](https://vega.github.io/vega-lite/)
 	 - Declarative visualization specification including [cartographic output](https://vega.github.io/vega-lite/examples/#maps-geographic-displays). Specifications can be written directly in JSON or via program language interfaces such as [altair](https://altair-viz.github.io) (Python) and [elm-vegalite](https://package.elm-lang.org/packages/gicentre/elm-vegalite/latest/VegaLite) (Elm). See, for example, this tutorial on using [OpenStreetMap with elm-vegalite](https://github.com/gicentre/litvis/blob/master/documents/tutorials/geoTutorials/openstreetmap.md)
  - [Vega](https://vega.github.io/vega/)
-	 - More flexible but lower-level declarative visualization specification including cartographic output. Specifications can be written directly in JSON or via program language interfaces such [elm-vega](https://package.elm-lang.org/packages/gicentre/elm-vega/latest/).
+	 - More flexible but lower-level declarative visualization specification including cartographic output. Specifications can be written directly in JSON or via program language interfaces such as [elm-vega](https://package.elm-lang.org/packages/gicentre/elm-vega/latest/).
  - [Litvis](https://github.com/gicentre/litvis)
 	 - Literate Visualization notebook environment optimised for specifying visualizations and documenting the design process. While not specific to cartography, can be a useful environment for exploring cartographic design.
  - [Observable](https://observablehq.com)
