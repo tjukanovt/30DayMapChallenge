@@ -1,5 +1,28 @@
 ## Daily social mapping project happening every November
 
+<div id="challenge-countdown" class="challenge-countdown" hidden aria-live="polite">
+  <div class="challenge-countdown__block" data-cd-block="themes">
+    <div class="challenge-countdown__label" data-cd-label>Themes announced in</div>
+    <div class="challenge-countdown__grid" data-cd-grid>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-days>--</span><span class="challenge-countdown__unit">days</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-hours>--</span><span class="challenge-countdown__unit">hours</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-minutes>--</span><span class="challenge-countdown__unit">minutes</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-seconds>--</span><span class="challenge-countdown__unit">seconds</span></div>
+    </div>
+    <div class="challenge-countdown__target" data-cd-target></div>
+  </div>
+  <div class="challenge-countdown__block" data-cd-block="challenge">
+    <div class="challenge-countdown__label" data-cd-label>Challenge starts in</div>
+    <div class="challenge-countdown__grid" data-cd-grid>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-days>--</span><span class="challenge-countdown__unit">days</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-hours>--</span><span class="challenge-countdown__unit">hours</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-minutes>--</span><span class="challenge-countdown__unit">minutes</span></div>
+      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-seconds>--</span><span class="challenge-countdown__unit">seconds</span></div>
+    </div>
+    <div class="challenge-countdown__target" data-cd-target></div>
+  </div>
+</div>
+
 The official repository for #30DayMapChallenge, a daily mapping challenge open to everyone.
 
 The challenge takes place every November, with 30 different mapping themes - one for each day of the month. Participants create maps based on these themes and share them on social media using the hashtag `#30DayMapChallenge`.
