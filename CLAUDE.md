@@ -74,12 +74,17 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
   `.github/PULL_REQUEST_TEMPLATE.md` support the contribution flow.
 - `includes/` — shared Markdown partials included via snippets (per-year theme tables).
 - `docs/` — the MkDocs site content.
-  - `docs/index.md` — site home page.
+  - `docs/index.md` — site home page. Hosts the countdown widget (see below).
   - `docs/galleries/index.md` — the unified Map collections page.
   - `docs/<year>/index.md` — per-year archive page (intro + that year's theme table).
   - `docs/2020/`, `docs/2021/` and `docs/2022/` also have `dayNN_*.md` files listing
     most-liked tweets per day — a historical Twitter/X-era archive, no longer updated.
-  - `docs/resources.md`, `docs/statistics.md`, `docs/404.md`, `docs/stylesheets/`, `docs/imgs/`.
+  - `docs/resources.md`, `docs/statistics.md`, `docs/404.md`, `docs/imgs/`.
+  - `docs/stylesheets/extra.js` — opens external links in a new tab and drives the
+    home-page countdown; `docs/stylesheets/gbextra.css` — site-wide custom styling.
+    Both are wired in via `extra_javascript` / `extra_css` in `mkdocs.yml`.
+  - `docs/manifest.webmanifest` and `docs/CNAME` — PWA manifest (referenced from
+    `extra.manifest` in `mkdocs.yml`) and the custom domain pin for GitHub Pages.
 - `mkdocs.yml` — site config and the **`nav` tree**, which is maintained by hand.
 - `archive/<year>/` — frozen snapshots of past years' `README.md` and `themes.ical`
   (includes `archive/2025/`).
@@ -95,3 +100,14 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
 - Collection entries go in `galleries.yml`, not into Markdown by hand.
 - Content is plain Markdown; the Material theme enables many `pymdownx` extensions
   (see `markdown_extensions` in `mkdocs.yml`) such as admonitions, task lists, and tabs.
+
+## Home-page countdown
+
+`docs/index.md` includes a `#challenge-countdown` block (initially `hidden`) with
+two sub-blocks: one for the **themes announcement** (1 October) and one for the
+**challenge start** (1 November). `docs/stylesheets/extra.js` populates both each
+second, switches the themes block to a "Now available" banner once 1 October has
+passed, and switches the challenge block to a "Day N of 30" banner during
+November. After 1 December it advances to the next year's milestones. The script
+re-runs on Material's instant-navigation page swaps via `window.document$`, so
+edits to the markup or labels must keep the `data-cd-*` hooks intact.
