@@ -1,4 +1,4 @@
-# Map collections 🗺️
+# Map collections
 
 Every November the #30DayMapChallenge community creates tens of thousands of
 maps. This page links to **map collections** — galleries, portfolios and

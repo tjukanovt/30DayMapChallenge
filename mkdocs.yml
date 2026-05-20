@@ -26,16 +26,31 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
+    - navigation.tracking
+    - navigation.instant
+    - content.tabs.link
     - search.suggest
     - search.share
+    - toc.follow
   back-to-top: false
   palette:
-    - scheme: default
-      primary: deep blue
-      accent: deep orange
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
-    text: Lato
-    code: Roboto Mono
+    text: Inter
+    code: JetBrains Mono
   favicon: imgs/favicon.ico
   logo: imgs/30DMC_logo.svg
   icon:

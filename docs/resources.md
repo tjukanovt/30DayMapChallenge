@@ -1,8 +1,8 @@
 # Helpful resources
 
-## Data 🗺
+## Data
 
-You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
+You can use **whatever data you want.** Here are a few sources which could help you to get started or give you new ideas.
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles  or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/).
@@ -27,7 +27,7 @@ You can use **what ever data you want.** But here are a few sources which could 
 - [Data is Plural](https://www.data-is-plural.com/)
 	- The best data newsletter out there with an awesome archive including also some very obscure datasets. 
 
-## Tools 🔨🔧
+## Tools
 
 The challenge is open to any software, but here’s a list of popular open-source tools to consider. No programming skills are required. Or if you are a programmer, no design skills are required. 
 
@@ -55,7 +55,7 @@ The challenge is open to any software, but here’s a list of popular open-sourc
 	 - Reactive notebook environment for generation of visualization and cartographic output embedded in a textual narrative. Focus is on using [d3](https://d3js.org) for specifying visual output.
 	 
 
-## Tutorials & Helpful Resources 📚
+## Tutorials & helpful resources
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
 - [Steven Bernard's QGIS Introduction](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/en/)
