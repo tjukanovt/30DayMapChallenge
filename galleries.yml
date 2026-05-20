@@ -9,6 +9,10 @@
 #   link        - URL to the collection               (required)
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
+- creator: Jyoti
+  link: https://geo-ti.github.io/portfolio/projects/map_ch_2025.html
+  year: 2025
+  description: A collection of maps and corresponding LinkedIn links created for the 2025 map challenge.
 
 - creator: Federica Gazzelloni
   link: https://fgazzelloni.github.io/30DayMapChallenge/
@@ -104,6 +108,11 @@
   link: https://geolytix.com/blog/30-day-map-challenge-2024/
   year: 2024
   description: A blog post rounding up Geolytix's maps for the 2024 challenge.
+
+- creator: Jyoti
+  link: https://geo-ti.github.io/portfolio/projects/map_ch_2023.html
+  year: 2023
+  description: A collection of maps and corresponding LinkedIn links created for the 2023 map challenge. 
 
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
