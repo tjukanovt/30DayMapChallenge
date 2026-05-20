@@ -41,7 +41,7 @@ Every November mappers around the world share tens of thousands of maps. Browse 
 
 ## Across the web
 
-Since 2019, the community has shared **more than 50,000 maps** under the hashtag, and the numbers keep growing each November. As the challenge has spread across more and more platforms, pinning down exact totals has become nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
+Since 2019, the community has shared **more than 50,000 maps** under the hashtag. As the challenge has spread across more and more platforms, pinning down exact totals has become nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
 
 Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
 
