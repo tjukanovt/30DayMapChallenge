@@ -40,6 +40,31 @@
   year: 2025
   description: Maps from the challenge (2021-2025), made mostly in Python.
 
+- creator: Sarah Bell
+  link: https://www.behance.net/gallery/240224395/30-Day-Map-Challenge-2025
+  year: 2025
+  description: A Behance gallery of maps made for the 2025 challenge.
+
+- creator: Andrew DC
+  link: https://www.andrewdc.co.nz/project/30-day-map-challenge-2025/
+  year: 2025
+  description: A project page showcasing maps from the 2025 challenge.
+
+- creator: Jere
+  link: https://jere.codes/galleries/30daymapchallenge
+  year: 2025
+  description: A personal gallery of maps from the 2025 challenge.
+
+- creator: Ordnance Survey
+  link: https://docs.os.uk/more-than-maps/geographic-data-visualisation/geodataviz-assets/30daymapchallenge
+  year: 2025
+  description: Ordnance Survey's GeoDataViz hub for the challenge, with maps spanning multiple years.
+
+- creator: Andy Kirk (Visualising Data)
+  link: https://visualisingdata.com/2026/02/explore-explain-s6e6-nicola-rennie-ansgar-wolsing/
+  year: 2025
+  description: An Explore Explain interview with Nicola Rennie and Ansgar Wolsing on their 2025 challenge maps.
+
 - creator: Estonian Land Board
   link: https://geoportaal.maaamet.ee/eng/spatial-data/30daymapchallenge-2024-p953.html
   year: 2024
@@ -65,6 +90,21 @@
   year: 2024
   description: A blog post rounding up highlights from the 2024 challenge.
 
+- creator: Fedir Gontsa
+  link: https://www.behance.net/gallery/213764649/My-30DayMapChallenge-2024
+  year: 2024
+  description: A Behance gallery of maps made for the 2024 challenge.
+
+- creator: Bluesky International
+  link: https://bluesky-world.com/2024/12/04/30-day-map-challenge-2024/
+  year: 2024
+  description: A blog post from UK aerial survey company Bluesky International on their 2024 challenge maps.
+
+- creator: Geolytix
+  link: https://geolytix.com/blog/30-day-map-challenge-2024/
+  year: 2024
+  description: A blog post rounding up Geolytix's maps for the 2024 challenge.
+
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
   year: 2023
@@ -89,6 +129,16 @@
   link: https://peteratwoodprojects.wordpress.com/portfolio/30daymapchallenge-2023/
   year: 2023
   description: A portfolio of maps made for the 2023 challenge.
+
+- creator: Fedir Gontsa
+  link: https://www.behance.net/gallery/185741351/My-30DayMapChallenge-2023
+  year: 2023
+  description: A Behance gallery of maps made for the 2023 challenge.
+
+- creator: Helen McKenzie
+  link: https://www.helenmakesmaps.com/post/30daymapchallenge-2023-diary
+  year: 2023
+  description: A diary of maps and notes from the 2023 challenge.
 
 - creator: Petra Duriancikova
   link: https://github.com/petraduriancikova/30DayMapChallenge
@@ -365,10 +415,6 @@
 
 - creator: "@MapsByAntonia"
   link: https://storymaps.arcgis.com/stories/017e8ca6a916491db71d8378676a8f27
-  year: 2021
-
-- creator: "@NearandDistant"
-  link: https://github.com/NearAndDistant/data_science_with_r/tree/main/30DayMapChallenge
   year: 2021
 
 - creator: "@OrdnanceSurvey"
