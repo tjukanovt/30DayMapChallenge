@@ -1,12 +1,14 @@
-# 🔵 Maps from 2021
+# 2021 Challenge
+
+The 2021 #30DayMapChallenge ran throughout November 2021. The 30 daily themes
+for that year are listed below.
+
+Looking for maps? Browse the [community map collections](../galleries/index.md)
+to see collections made for this and other years.
 
 !!! note "A snapshot from the Twitter/X era"
-    In its early years the challenge happened mainly on Twitter, and the
-    **Most-liked tweets** pages list the most-engaged posts for each day. As the
-    challenge has since spread across many platforms, this kind of engagement
-    statistic is no longer collected — these pages are kept purely as a
-    historical archive.
+    In its early years the challenge happened mainly on Twitter. The
+    **Most-liked tweets** pages in the navigation list the most-engaged posts
+    for each day — kept purely as a historical archive.
 
-The 2021 portfolio collections now live on the unified
-[Map galleries](../galleries/index.md) page, alongside galleries from every
-other year of the #30DayMapChallenge.
+--8<-- "includes/themes-2021.md"

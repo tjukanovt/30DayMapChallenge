@@ -1,13 +1,13 @@
 # Contributing
 
 Thanks for helping grow the #30DayMapChallenge! The most common contribution is
-**adding your map gallery** to the [galleries page](https://30daymapchallenge.com/galleries/).
+**adding your map collection** to the [Map collections page](https://30daymapchallenge.com/galleries/).
 
-## Add your map gallery
+## Add your map collection
 
-A "gallery" is any page where you've collected your challenge maps — a GitHub
-repo, a personal website, an ArcGIS StoryMap, an Observable collection, a blog,
-and so on. There are three ways to get yours listed:
+A collection is any page where you've gathered your challenge maps — a GitHub
+repo, a personal website, an ArcGIS StoryMap, an Observable collection, a blog
+or write-up, and so on. There are three ways to get yours listed:
 
 ### 1. Open a pull request (preferred)
 
@@ -18,7 +18,7 @@ and so on. There are three ways to get yours listed:
    - creator: Your Name
      link: https://example.com/my-30daymapchallenge
      year: 2026
-     description: One short sentence about your gallery.
+     description: One short sentence about your collection.
    ```
 
    - `creator`, `link` and `year` are required; `description` is optional.
@@ -29,7 +29,7 @@ and so on. There are three ways to get yours listed:
 ### 2. Open an issue
 
 Not comfortable with pull requests? Open a
-[gallery submission issue](https://github.com/tjukanovt/30DayMapChallenge/issues/new?template=gallery-submission.yml)
+[submission issue](https://github.com/tjukanovt/30DayMapChallenge/issues/new?template=gallery-submission.yml)
 with your details and a maintainer will add the entry for you.
 
 ### 3. Get in touch
@@ -40,8 +40,8 @@ linked from [30daymapchallenge.com](https://30daymapchallenge.com/).
 ## Guidelines
 
 - Link to **your own** work, or a collection you have permission to share.
-- One entry per gallery. If a gallery spans several years, pick the most recent
-  year and mention the range in the description.
+- One entry per collection. If a collection spans several years, pick the most
+  recent year and mention the range in the description.
 - Make sure the link is public and works without a login.
 
 ## Building the site locally

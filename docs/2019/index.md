@@ -1,5 +1,9 @@
-# 🔵 Maps from 2019
+# 2019 Challenge
 
-The 2019 portfolio collections now live on the unified
-[Map galleries](../galleries/index.md) page, alongside galleries from every
-other year of the #30DayMapChallenge.
+The first #30DayMapChallenge ran throughout November 2019. The 30 daily themes
+for that year are listed below.
+
+Looking for maps? Browse the [community map collections](../galleries/index.md)
+to see collections made for this and other years.
+
+--8<-- "includes/themes-2019.md"

@@ -1,12 +1,9 @@
-# 2023 Challenge Portfolio Collection
+# 2023 Challenge
 
-This page will contain the portfolio collection for the 2023 #30DayMapChallenge.
+The 2023 #30DayMapChallenge ran throughout November 2023. The 30 daily themes
+for that year are listed below.
 
-*Coming soon...*
+Looking for maps? Browse the [community map collections](../galleries/index.md)
+to see collections made for this and other years.
 
-The 2023 challenge featured themes like:
-- Points, Lines, Polygons
-- Hexagons, Raster, Vintage style
-- And many more exciting mapping challenges!
-
-Stay tuned for the complete portfolio collection. 
+--8<-- "includes/themes-2023.md"
