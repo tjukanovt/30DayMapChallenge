@@ -155,6 +155,21 @@
   year: 2024
   description: A postmortem blog post on Kenneth Wong's 2024 challenge maps.
 
+- creator: Soki Kimura
+  link: https://sokimura39.github.io/projects/30DayMapChallenge.html
+  year: 2024
+  description: A two-year archive (2023 in R, 2024 with Japan-focused interactive web maps), in English and Japanese.
+
+- creator: Stanley Förster
+  link: https://sfo.github.io/projects/30daymapchallenge/
+  year: 2024
+  description: Per-day blog posts with prose context for each map, built on a Jekyll site.
+
+- creator: NextGIS
+  link: https://nextgis.com/blog/30daymapchallenge-2024/
+  year: 2024
+  description: The NextGIS team's 2024 challenge maps, with urban, EV and wildfire themes.
+
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
   year: 2023
@@ -220,6 +235,31 @@
   year: 2023
   description: A blog post rounding up Geolytix's maps for the 2023 challenge.
 
+- creator: TRPA Map Makers
+  link: https://storymaps.arcgis.com/stories/1e5447b7817a41d385e3448629c32f1f
+  year: 2023
+  description: Tahoe Regional Planning Agency staff submissions packaged as an ArcGIS StoryMap.
+
+- creator: Stamen Design
+  link: https://stamen.com/another-30daymapchallenge/
+  year: 2023
+  description: A Stamen studio retrospective spotting trends across the 2023 challenge.
+
+- creator: Makina Corpus
+  link: https://makina-corpus.com/sig-cartograph/retour-30daymapchallenge-2023
+  year: 2023
+  description: A French-language Makina Corpus review of the 2023 challenge, with team favourites and stats.
+
+- creator: Mapas Milhaud
+  link: https://newsletter.mapasmilhaud.com/p/30daymapchallenge-los-cartografos
+  year: 2023
+  description: A Spanish-language newsletter introducing the 2023 challenge and highlighting notable cartographers.
+
+- creator: Arthur Bazolli
+  link: https://baarthur.github.io/posts/2023-11-05-mapchallenge/
+  year: 2023
+  description: A geospatial blog with daily updates from the 2023 challenge, with code and maps.
+
 - creator: Petra Duriancikova
   link: https://github.com/petraduriancikova/30DayMapChallenge
   year: 2022
@@ -255,6 +295,16 @@
   year: 2022
   description: The Aalto Geoinformatics group's "Thinking Spatially" blog post on their 2022 challenge maps.
 
+- creator: MIERUNE
+  link: https://dev.to/mierune/my-first-30daymapchallenge-1g0i
+  year: 2022
+  description: A Japanese GIS company's first-time participation in the 2022 challenge, written up on DEV.to.
+
+- creator: Nicola Rennie
+  link: https://nrennie.rbind.io/blog/30-day-map-challenge-2022/
+  year: 2022
+  description: A blog post on completing all 30 maps in 2022 under a self-imposed 15-minute-per-map limit.
+
 - creator: Xavier Olive
   link: https://github.com/xoolive/30DayMapChallenge
   year: 2021
@@ -265,10 +315,40 @@
   year: 2021
   description: Helen McKenzie's curated top picks from the 2021 challenge.
 
+- creator: Nicola Rennie
+  link: https://nrennie.rbind.io/blog/30-day-map-challenge-2021/
+  year: 2021
+  description: A detailed diary of Glasgow/Scotland-themed maps from the 2021 challenge, made in R.
+
+- creator: Articque (Les Artisans Cartographes)
+  link: https://www.articque.com/30daymapchallenge/
+  year: 2021
+  description: A French software vendor's themed 2021 challenge participation, with France-centric maps.
+
+- creator: Makina Corpus
+  link: https://makina-corpus.com/sig-webmapping/retour-30daymapchallenge
+  year: 2021
+  description: A French-language Makina Corpus retrospective of the 2021 challenge, with stats and favourites by theme.
+
+- creator: YLLI project (University of Helsinki)
+  link: https://blogs.helsinki.fi/geography-of-well-being-and-education/2021/12/15/ylli-hanke-osallistui-karttahaasteeseen/
+  year: 2021
+  description: A Finnish-language blog post on the YLLI research project's 2021 challenge maps of sports facilities.
+
 - creator: Alexandra Kapp
   link: https://github.com/AlexandraKapp/30daymapchallenge
   year: 2020
   description: Maps and code from the 2020 challenge.
+
+- creator: Cartographie numérique
+  link: https://cartonumerique.blogspot.com/2020/11/30DayMapChallenge-2020.html
+  year: 2020
+  description: A French-language blog post curating tweet-maps by theme from the 2020 challenge.
+
+- creator: Sébastien Rochette (StatnMap)
+  link: https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/
+  year: 2019
+  description: An R-blog tutorial series ("Building maps") on the first 30DayMapChallenge, using ggplot2 and tmap.
 
 # --- Entries migrated from the per-year portfolio collection pages ---
 
