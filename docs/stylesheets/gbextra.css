@@ -372,6 +372,110 @@ a.md-button:hover {
   letter-spacing: -0.02em;
 }
 
+/* ---------- Countdown --------------------------------------- */
+.challenge-countdown {
+  margin: 1.4em 0 2em;
+  padding: 1.1em 1.25em 1em;
+  border: 1px solid var(--site-rule);
+  border-left: 3px solid var(--site-accent);
+  border-radius: 4px;
+  background: var(--site-paper-soft);
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown {
+  background: #1a1f27;
+  border-color: #262b34;
+  border-left-color: var(--md-accent-fg-color);
+}
+
+.challenge-countdown__label {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--site-ink-soft);
+  margin-bottom: 0.6em;
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown__label {
+  color: #b8b7b0;
+}
+
+.challenge-countdown__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5em;
+}
+
+.challenge-countdown__cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5em 0.25em;
+  background: var(--site-paper);
+  border-radius: 3px;
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown__cell {
+  background: #14181f;
+}
+
+.challenge-countdown__value {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.9rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.1;
+  color: var(--site-ink);
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown__value {
+  color: #f4f4ef;
+}
+
+.challenge-countdown__unit {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--site-ink-soft);
+  margin-top: 0.25em;
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown__unit {
+  color: #b8b7b0;
+}
+
+.challenge-countdown__target {
+  margin-top: 0.7em;
+  font-size: 0.72rem;
+  color: var(--site-ink-soft);
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown__target {
+  color: #b8b7b0;
+}
+
+.challenge-countdown--live .challenge-countdown__grid {
+  grid-template-columns: 1fr;
+}
+
+.challenge-countdown--live .challenge-countdown__value {
+  font-size: 1.5rem;
+  color: var(--site-accent);
+}
+
+[data-md-color-scheme="slate"] .challenge-countdown--live .challenge-countdown__value {
+  color: var(--md-accent-fg-color);
+}
+
+@media screen and (max-width: 30em) {
+  .challenge-countdown__value { font-size: 1.5rem; }
+}
+
 /* ---------- Responsive tweaks ------------------------------- */
 @media screen and (max-width: 76.1875em) {
   .md-top { display: none !important; }
