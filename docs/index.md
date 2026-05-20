@@ -33,11 +33,34 @@ The official home of #30DayMapChallenge, a daily mapping challenge open to every
 
 You can prepare maps in advance, but the spirit of the challenge is to publish one on each themed day. Post a picture of your map to X, Instagram, LinkedIn or any platform you prefer with the hashtag — no sign-up needed. There are no restrictions on the tools, data or technologies you use, and fewer than 30 maps is also fine. Please follow the **Code of Conduct** below.
 
-For data sources, software and tutorials, see the [Mapping resources](resources.md) page. For totals and trends from past years, see [Statistics](statistics.md).
+For data sources, software and tutorials, see the [Mapping resources](resources.md) page.
 
 ## Explore the maps
 
 Every November mappers around the world share tens of thousands of maps. Browse the growing list of community **[map collections](galleries/index.md)** to get inspired — and [add your own](galleries/index.md) so others can find it too.
+
+## Across the web
+
+Since 2019, the community has shared **more than 50,000 maps** under the hashtag. As the challenge has spread across more and more platforms, pinning down exact totals has become nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
+
+Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
+
+<div class="hashtag-feed__chips" markdown="0">
+  <a class="hashtag-chip" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">Bluesky</a>
+  <a class="hashtag-chip" href="https://mapstodon.space/tags/30DayMapChallenge" target="_blank" rel="noopener">Mastodon</a>
+  <a class="hashtag-chip" href="https://www.threads.com/search?q=%2330DayMapChallenge&serp_type=tags" target="_blank" rel="noopener">Threads</a>
+  <a class="hashtag-chip" href="https://x.com/hashtag/30DayMapChallenge" target="_blank" rel="noopener">X</a>
+  <a class="hashtag-chip" href="https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge" target="_blank" rel="noopener">LinkedIn</a>
+  <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
+</div>
+
+<div id="hashtag-preview" class="hashtag-preview" hidden aria-label="Recent #30DayMapChallenge posts on Bluesky">
+  <div class="hashtag-preview__header">
+    <span class="hashtag-preview__label">Latest on Bluesky</span>
+    <a class="hashtag-preview__more" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">See more →</a>
+  </div>
+  <div class="hashtag-preview__grid" data-hashtag-grid></div>
+</div>
 
 ## Code of Conduct
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
