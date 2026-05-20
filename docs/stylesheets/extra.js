@@ -7,19 +7,23 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    }
 }
 
-// Countdown to the next #30DayMapChallenge (every November).
+// Countdown to the next #30DayMapChallenge.
+// Two milestones: 1 October (themes announced) and 1 November (challenge starts).
 (function () {
   var timerId = null;
 
-  function nextChallengeWindow(now) {
+  function milestonesFor(now) {
     var year = now.getFullYear();
-    var start = new Date(year, 10, 1, 0, 0, 0, 0);   // 1 November, local time
-    var end   = new Date(year, 11, 1, 0, 0, 0, 0);   // 1 December, local time
+    var themes    = new Date(year, 9, 1, 0, 0, 0, 0);   // 1 October
+    var challenge = new Date(year, 10, 1, 0, 0, 0, 0);  // 1 November
+    var end       = new Date(year, 11, 1, 0, 0, 0, 0);  // 1 December
     if (now >= end) {
-      start = new Date(year + 1, 10, 1, 0, 0, 0, 0);
-      end   = new Date(year + 1, 11, 1, 0, 0, 0, 0);
+      year += 1;
+      themes    = new Date(year, 9, 1, 0, 0, 0, 0);
+      challenge = new Date(year, 10, 1, 0, 0, 0, 0);
+      end       = new Date(year, 11, 1, 0, 0, 0, 0);
     }
-    return { start: start, end: end, live: now >= start && now < end };
+    return { year: year, themes: themes, challenge: challenge, end: end };
   }
 
   function formatDate(d) {
@@ -32,47 +36,77 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     }
   }
 
+  function pad(n) { return String(n).padStart(2, "0"); }
+
+  function renderCountdown(block, target) {
+    var now = new Date();
+    var diff = Math.max(0, target - now);
+    var total = Math.floor(diff / 1000);
+    var days = Math.floor(total / 86400);
+    var hours = Math.floor((total % 86400) / 3600);
+    var minutes = Math.floor((total % 3600) / 60);
+    var seconds = total % 60;
+
+    block.classList.remove("challenge-countdown__block--done", "challenge-countdown__block--banner");
+    var grid = block.querySelector("[data-cd-grid]");
+    if (grid) {
+      grid.innerHTML =
+        '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + days + '</span><span class="challenge-countdown__unit">days</span></div>' +
+        '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + pad(hours) + '</span><span class="challenge-countdown__unit">hours</span></div>' +
+        '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + pad(minutes) + '</span><span class="challenge-countdown__unit">minutes</span></div>' +
+        '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + pad(seconds) + '</span><span class="challenge-countdown__unit">seconds</span></div>';
+    }
+  }
+
+  function renderBanner(block, text) {
+    block.classList.add("challenge-countdown__block--banner");
+    var grid = block.querySelector("[data-cd-grid]");
+    if (grid) {
+      grid.innerHTML = '<span class="challenge-countdown__value">' + text + '</span>';
+    }
+  }
+
+  function setLabel(block, text) {
+    var el = block.querySelector("[data-cd-label]");
+    if (el) el.textContent = text;
+  }
+
+  function setNote(block, text) {
+    var el = block.querySelector("[data-cd-target]");
+    if (el) el.textContent = text;
+  }
+
   function render(root) {
     var now = new Date();
-    var win = nextChallengeWindow(now);
-    var target = win.live ? win.end : win.start;
-    var diff = Math.max(0, target - now);
+    var m = milestonesFor(now);
+    var themesBlock = root.querySelector('[data-cd-block="themes"]');
+    var challengeBlock = root.querySelector('[data-cd-block="challenge"]');
+    if (!themesBlock || !challengeBlock) return;
 
-    var totalSeconds = Math.floor(diff / 1000);
-    var days = Math.floor(totalSeconds / 86400);
-    var hours = Math.floor((totalSeconds % 86400) / 3600);
-    var minutes = Math.floor((totalSeconds % 3600) / 60);
-    var seconds = totalSeconds % 60;
-
-    var label = root.querySelector(".challenge-countdown__label");
-    var note  = root.querySelector("[data-cd-target]");
-    var d = root.querySelector("[data-cd-days]");
-    var h = root.querySelector("[data-cd-hours]");
-    var m = root.querySelector("[data-cd-minutes]");
-    var s = root.querySelector("[data-cd-seconds]");
-
-    if (win.live) {
-      root.classList.add("challenge-countdown--live");
-      if (label) label.textContent = "The #30DayMapChallenge is live!";
-      if (d) d.parentElement.style.display = "none";
-      if (h) h.parentElement.style.display = "none";
-      if (m) m.parentElement.style.display = "none";
-      if (s) {
-        s.parentElement.style.display = "";
-        s.textContent = "Day " + (Math.floor((now - win.start) / 86400000) + 1) + " of 30";
-        var unit = s.parentElement.querySelector(".challenge-countdown__unit");
-        if (unit) unit.textContent = "happening now";
-      }
-      if (note) note.textContent = "Share your maps with #30DayMapChallenge through " + formatDate(new Date(win.end - 1));
+    // Themes block
+    if (now < m.themes) {
+      setLabel(themesBlock, "Themes announced in");
+      renderCountdown(themesBlock, m.themes);
+      setNote(themesBlock, formatDate(m.themes));
     } else {
-      root.classList.remove("challenge-countdown--live");
-      if (label) label.textContent = "Next challenge starts in";
-      if (d) d.textContent = days;
-      if (h) h.textContent = String(hours).padStart(2, "0");
-      if (m) m.textContent = String(minutes).padStart(2, "0");
-      if (s) s.textContent = String(seconds).padStart(2, "0");
-      if (note) note.textContent = "Kicks off " + formatDate(win.start);
+      themesBlock.classList.add("challenge-countdown__block--done");
+      setLabel(themesBlock, "Themes for " + m.year);
+      renderBanner(themesBlock, "Now available");
+      setNote(themesBlock, "Released " + formatDate(m.themes));
     }
+
+    // Challenge block
+    if (now < m.challenge) {
+      setLabel(challengeBlock, "Challenge starts in");
+      renderCountdown(challengeBlock, m.challenge);
+      setNote(challengeBlock, formatDate(m.challenge));
+    } else if (now < m.end) {
+      var day = Math.floor((now - m.challenge) / 86400000) + 1;
+      setLabel(challengeBlock, "#30DayMapChallenge is live");
+      renderBanner(challengeBlock, "Day " + day + " of 30");
+      setNote(challengeBlock, "Runs through " + formatDate(new Date(m.end - 1)));
+    }
+
     root.hidden = false;
   }
 
