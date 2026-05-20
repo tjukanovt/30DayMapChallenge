@@ -33,7 +33,7 @@ The official home of #30DayMapChallenge, a daily mapping challenge open to every
 
 You can prepare maps in advance, but the spirit of the challenge is to publish one on each themed day. Post a picture of your map to X, Instagram, LinkedIn or any platform you prefer with the hashtag — no sign-up needed. There are no restrictions on the tools, data or technologies you use, and fewer than 30 maps is also fine. Please follow the **Code of Conduct** below.
 
-For data sources, software and tutorials, see the [Mapping resources](resources.md) page. For totals and trends from past years, see [Statistics](statistics.md).
+For data sources, software and tutorials, see the [Mapping resources](resources.md) page.
 
 ## Explore the maps
 
@@ -41,7 +41,9 @@ Every November mappers around the world share tens of thousands of maps. Browse 
 
 ## Across the web
 
-The challenge lives on many platforms. Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
+Since 2019, the community has shared **more than 50,000 maps** under the hashtag, with peaks of **9,000+ maps** and **1,200+ mappers** in a single November (2021). Gathering exact totals across so many platforms has proven nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
+
+Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
 
 <div class="hashtag-feed__chips" markdown="0">
   <a class="hashtag-chip" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">Bluesky</a>

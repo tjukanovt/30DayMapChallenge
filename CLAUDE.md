@@ -79,9 +79,11 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
   - `docs/<year>/index.md` — per-year archive page (intro + that year's theme table).
   - `docs/2020/`, `docs/2021/` and `docs/2022/` also have `dayNN_*.md` files listing
     most-liked tweets per day — a historical Twitter/X-era archive, no longer updated.
-  - `docs/resources.md`, `docs/statistics.md`, `docs/404.md`, `docs/imgs/`.
-  - `docs/stylesheets/extra.js` — opens external links in a new tab and drives the
-    home-page countdown; `docs/stylesheets/gbextra.css` — site-wide custom styling.
+  - `docs/resources.md`, `docs/404.md`, `docs/imgs/`.
+  - `docs/stylesheets/extra.js` — opens external links in a new tab, drives the
+    home-page countdown, and pulls a small recent-Bluesky preview into the
+    "Across the web" section on the home page; `docs/stylesheets/gbextra.css`
+    — site-wide custom styling.
     Both are wired in via `extra_javascript` / `extra_css` in `mkdocs.yml`.
   - `docs/manifest.webmanifest` and `docs/CNAME` — PWA manifest (referenced from
     `extra.manifest` in `mkdocs.yml`) and the custom domain pin for GitHub Pages.
