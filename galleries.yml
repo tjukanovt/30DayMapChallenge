@@ -65,6 +65,36 @@
   year: 2025
   description: An Explore Explain interview with Nicola Rennie and Ansgar Wolsing on their 2025 challenge maps.
 
+- creator: Mapbox
+  link: https://www.mapbox.com/30daymapchallenge
+  year: 2025
+  description: A landing page rounding up maps from the Mapbox community for the 2025 challenge.
+
+- creator: Esri StoryScape
+  link: https://storyscape-esriwhere.hub.arcgis.com/pages/2025-30-day-map-challenge
+  year: 2025
+  description: An Esri StoryScape hub gathering 2025 challenge maps from across the Esri community.
+
+- creator: Milan Janosov
+  link: https://milanjanosov.substack.com/p/30-day-map-challenge-2025-directors-c00
+  year: 2025
+  description: A "Director's Cut" Substack recap of the 2025 challenge with accompanying Python tutorials.
+
+- creator: Doug Greenfield (Map of the Week)
+  link: https://mapoftheweek.substack.com/p/30-day-map-challenge-2025
+  year: 2025
+  description: A Substack series walking through the 2025 challenge in batches of days.
+
+- creator: Marco Hernandez
+  link: https://mhinfographics.com/2025/11/15/infofails-30-days-map-challenge/
+  year: 2025
+  description: A reflection on participating in the 2025 challenge for the first time.
+
+- creator: Cadence (City Science)
+  link: https://cadence.cityscience.com/blog/30-day-map-challenge/
+  year: 2025
+  description: The City Science Cadence team's blog post on their 2025 challenge maps.
+
 - creator: Estonian Land Board
   link: https://geoportaal.maaamet.ee/eng/spatial-data/30daymapchallenge-2024-p953.html
   year: 2024
@@ -105,6 +135,26 @@
   year: 2024
   description: A blog post rounding up Geolytix's maps for the 2024 challenge.
 
+- creator: Jean-Marc Viglino
+  link: https://viglino.github.io/MapChallenge2024/
+  year: 2024
+  description: An OpenLayers-based gallery of maps made for the 2024 challenge.
+
+- creator: Sterna Paradisaea
+  link: https://sternaparadisaea.net/30-day-map-challenge/
+  year: 2024
+  description: Polar-themed maps made in QGIS with QGreenland and QAntarctica for the 2024 challenge.
+
+- creator: Glenn Kong
+  link: https://towardsdatascience.com/30daymapchallenge-2024-d1c80e037dd6/
+  year: 2024
+  description: A Towards Data Science write-up of 30 maps and the tools used to make them.
+
+- creator: Kenneth Wong
+  link: https://mappyurbanist.com/blog/2025-02-map-challenge-2024/
+  year: 2024
+  description: A postmortem blog post on Kenneth Wong's 2024 challenge maps.
+
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
   year: 2023
@@ -140,15 +190,80 @@
   year: 2023
   description: A diary of maps and notes from the 2023 challenge.
 
+- creator: Bryan R. Vallejo
+  link: https://towardsdatascience.com/my-30-day-map-challenge-2023-20a700d970e1/
+  year: 2023
+  description: A Towards Data Science overview of selected map topics and tools from the 2023 challenge.
+
+- creator: Ordnance Survey
+  link: https://www.ordnancesurvey.co.uk/blog/2023-30-day-map-challenge
+  year: 2023
+  description: A blog post showcasing Ordnance Survey's 3D virtual exhibition of 2023 challenge maps.
+
+- creator: NextGIS
+  link: https://nextgis.com/blog/30daymapchallenge-2023/
+  year: 2023
+  description: The NextGIS team's first time joining the challenge.
+
+- creator: Inside Numbers
+  link: https://inside-numbers.com/portfolio-items/30-day-map-challenge-2023
+  year: 2023
+  description: A portfolio of maps made for the 2023 challenge, mostly in Python.
+
+- creator: Jon Carlson
+  link: https://jcarlson.page/portfolio/30daymapchallenge-2023/
+  year: 2023
+  description: A personal portfolio of maps made for the 2023 challenge using QGIS, Blender and OpenStreetMap.
+
+- creator: Geolytix
+  link: https://geolytix.com/blog/30-day-map-challenge-2023/
+  year: 2023
+  description: A blog post rounding up Geolytix's maps for the 2023 challenge.
+
 - creator: Petra Duriancikova
   link: https://github.com/petraduriancikova/30DayMapChallenge
   year: 2022
   description: A complete set of maps for the 2022 challenge.
 
+- creator: Stamen Design
+  link: https://stamen.com/30daymapchallenge-2022/
+  year: 2022
+  description: The Stamen team's blog post on their 2022 challenge maps.
+
+- creator: Geolytix
+  link: https://geolytix.com/blog/30-day-map-challenge-2022/
+  year: 2022
+  description: A blog post rounding up Geolytix's maps for the 2022 challenge.
+
+- creator: Kenneth Wong
+  link: https://mappyurbanist.com/blog/2023-01-map-challenge-2022/
+  year: 2022
+  description: A postmortem blog post on Kenneth Wong's 2022 challenge maps.
+
+- creator: Digital Geography Lab
+  link: https://blogs.helsinki.fi/digital-geography/2023/10/26/digital-geography-lab-in-30daymapchallenge-2022-1/
+  year: 2022
+  description: The University of Helsinki Digital Geography Lab's recap of their 2022 challenge maps.
+
+- creator: TomTom Developer Relations
+  link: https://developer.tomtom.com/blog/spotlight/30daymapchallenge-2022-inspiration/
+  year: 2022
+  description: A TomTom developer blog round-up of inspiring 2022 challenge maps.
+
+- creator: Aalto University Geoinformatics
+  link: https://ourblogs.aalto.fi/thinking-spatially/30daymapchallenge-30-days-30-maps
+  year: 2022
+  description: The Aalto Geoinformatics group's "Thinking Spatially" blog post on their 2022 challenge maps.
+
 - creator: Xavier Olive
   link: https://github.com/xoolive/30DayMapChallenge
   year: 2021
   description: Daily maps and source code, made largely with Python.
+
+- creator: Helen McKenzie
+  link: https://www.helenmakesmaps.com/post/30daymapchallenge-2021-top-picks
+  year: 2021
+  description: Helen McKenzie's curated top picks from the 2021 challenge.
 
 - creator: Alexandra Kapp
   link: https://github.com/AlexandraKapp/30daymapchallenge
