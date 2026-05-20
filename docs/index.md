@@ -39,6 +39,27 @@ For data sources, software and tutorials, see the [Mapping resources](resources.
 
 Every November mappers around the world share tens of thousands of maps. Browse the growing list of community **[map collections](galleries/index.md)** to get inspired — and [add your own](galleries/index.md) so others can find it too.
 
+## Across the web
+
+The challenge lives on many platforms. Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
+
+<div class="hashtag-feed__chips" markdown="0">
+  <a class="hashtag-chip" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">Bluesky</a>
+  <a class="hashtag-chip" href="https://mapstodon.space/tags/30DayMapChallenge" target="_blank" rel="noopener">Mastodon</a>
+  <a class="hashtag-chip" href="https://www.threads.com/search?q=%2330DayMapChallenge&serp_type=tags" target="_blank" rel="noopener">Threads</a>
+  <a class="hashtag-chip" href="https://x.com/hashtag/30DayMapChallenge" target="_blank" rel="noopener">X</a>
+  <a class="hashtag-chip" href="https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge" target="_blank" rel="noopener">LinkedIn</a>
+  <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
+</div>
+
+<div id="hashtag-preview" class="hashtag-preview" hidden aria-label="Recent #30DayMapChallenge posts on Bluesky">
+  <div class="hashtag-preview__header">
+    <span class="hashtag-preview__label">Latest on Bluesky</span>
+    <a class="hashtag-preview__more" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">See more →</a>
+  </div>
+  <div class="hashtag-preview__grid" data-hashtag-grid></div>
+</div>
+
 ## Code of Conduct
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
 
