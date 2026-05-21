@@ -15,6 +15,22 @@ extra:
   social:
     - icon: fontawesome/solid/house
       link: https://github.com/tjukanovt/30DayMapChallenge
+  analytics:
+    provider: google
+    property: G-Z3RZNVKSNS
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to measure how visitors use the site so we can make it
+      better. With your consent you help us understand what is most useful.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false
+    actions:
+      - accept
+      - reject
+      - manage
 
 # Configuration
 theme:
