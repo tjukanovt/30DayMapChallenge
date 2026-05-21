@@ -15,6 +15,11 @@
   year: 2025
   description: A gallery of maps created for the 2025 challenge.
 
+- creator: Jyoti
+  link: https://geo-ti.github.io/portfolio/projects/map_ch_2025.html
+  year: 2025
+  description: A collection of maps with corresponding LinkedIn links, made for the 2025 challenge.
+
 - creator: UPenn Weitzman MUSA program
   link: https://github.com/weitzman-musa/30DayMapChallenge
   year: 2025
@@ -175,6 +180,11 @@
   year: 2023
   description: Data, code and visualizations for the challenge (2021 and 2023).
 
+- creator: Jyoti
+  link: https://geo-ti.github.io/portfolio/projects/map_ch_2023.html
+  year: 2023
+  description: A collection of maps with corresponding LinkedIn links, made for the 2023 challenge.
+
 - creator: Mirza Waleed
   link: https://waleedgeo.com/gallery/30daymap-2023/
   year: 2023
@@ -304,6 +314,11 @@
   link: https://nrennie.rbind.io/blog/30-day-map-challenge-2022/
   year: 2022
   description: A blog post on completing all 30 maps in 2022 under a self-imposed 15-minute-per-map limit.
+
+- creator: osgav
+  link: https://osgav.run/blog/30daymapchallenge-2022.html
+  year: 2022
+  description: A blog post walking through osgav's maps for the 2022 challenge.
 
 - creator: Xavier Olive
   link: https://github.com/xoolive/30DayMapChallenge
