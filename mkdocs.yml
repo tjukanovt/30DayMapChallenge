@@ -17,9 +17,7 @@ extra:
       link: https://github.com/tjukanovt/30DayMapChallenge
   analytics:
     provider: google
-    # ID is supplied via the GOOGLE_ANALYTICS_KEY env var so it stays out of the
-    # repo and only fires on builds where it is set (e.g. the production deploy).
-    property: !ENV [GOOGLE_ANALYTICS_KEY, ""]
+    property: G-Z3RZNVKSNS
   consent:
     title: Cookie consent
     description: >-
