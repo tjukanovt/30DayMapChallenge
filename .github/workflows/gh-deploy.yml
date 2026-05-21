@@ -30,4 +30,6 @@ jobs:
       
       # Deploy the site using mkdocs
       - name: Deploy with MkDocs
+        env:
+          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
         run: mkdocs gh-deploy --force
