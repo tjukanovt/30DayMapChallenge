@@ -26,7 +26,9 @@ extra:
     cookies:
       analytics:
         name: Google Analytics
-        checked: false
+        # Checked by default so the "Accept" button grants analytics; Material's
+        # Accept submits the current checkbox state, so an unchecked box = denied.
+        checked: true
     actions:
       - accept
       - reject
