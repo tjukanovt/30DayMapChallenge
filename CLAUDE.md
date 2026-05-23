@@ -42,8 +42,11 @@ The **Map collections** page (`docs/galleries/index.md`, still served at the
 - `galleries.yml` (repo root) holds the collection entries — a flat YAML list of
   `creator` / `link` / `year` / `description`. This is the file contributors edit.
 - `main.py` (repo root) is the `mkdocs-macros` module: its `define_env` loads
-  `galleries.yml` and exposes it as the Jinja variable `galleries`.
-- `docs/galleries/index.md` renders the list with a Jinja loop, grouped by year.
+  `galleries.yml` and exposes it as the Jinja variable `galleries`, plus a
+  `sort_creators` filter that orders entries by visible name (case-insensitive,
+  ignoring a leading `@` so handles don't all clump at the top).
+- `docs/galleries/index.md` renders the list with a Jinja loop, grouped by year
+  and ordered with `sort_creators`.
 - `mkdocs-macros` is enabled in `mkdocs.yml` under `plugins`. It renders Jinja on
   **all** pages; if a page ever needs literal `{{`/`{%`, add `render_macros: false`
   to its front matter.
@@ -66,8 +69,11 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
 
 ## Repository structure
 
-- `README.md` — the GitHub landing page; the data sources / tools / code of
-  conduct content (and the theme table, when a year is live).
+- `README.md` — a minimal GitHub landing page: what the challenge is, pointers to
+  the website (collections, resources), the Code of Conduct, and contributing. It
+  deliberately does **not** duplicate the site's data/tools/tutorials lists (those
+  live in `docs/resources.md`). The theme table is added here, between the
+  `<!-- TABLE START -->` / `<!-- TABLE END -->` markers, when a year is live.
 - `galleries.yml` — community map collection entries (see "Map collections" above).
 - `main.py` — `mkdocs-macros` module that feeds `galleries.yml` to the docs.
 - `CONTRIBUTING.md` — how to add a collection; `.github/ISSUE_TEMPLATE/` and

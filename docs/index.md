@@ -1,6 +1,6 @@
 ## Daily social mapping project happening every November
 
-<div id="challenge-countdown" class="challenge-countdown" hidden aria-live="polite">
+<div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
     <div class="challenge-countdown__label" data-cd-label>Themes announced in</div>
     <div class="challenge-countdown__grid" data-cd-grid>
@@ -66,6 +66,7 @@ Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
 
 But keep in mind a few things:
+
 - All maps you publish have to be **your original work**. Don't steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
@@ -77,6 +78,5 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 ## Merchandise
 
 [Get your official #30DayMapChallenge stickers from Redbubble.](https://www.redbubble.com/people/MapChallenge/shop)
-<table>
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
-</table>
+
+<p align="center"><a href="https://www.redbubble.com/people/MapChallenge/shop"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400" alt="#30DayMapChallenge sticker"></a></p>
