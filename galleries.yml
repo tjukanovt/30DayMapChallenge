@@ -10,6 +10,16 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: IGN - Institut National de Géographie et d'Information Forestière
+  link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
+  year: 2025
+  description: A gallery of maps created by a bunch of IGN volunteers in 2025
+
+- creator: IGN - Institut National de Géographie et d'Information Forestière
+  link: https://www.ign.fr/mag/30-cartes-pour-voir-le-territoire-autrement
+  year: 2024
+  description: A gallery of maps created by a bunch of IGN volunteers in 2024
+
 - creator: Federica Gazzelloni
   link: https://fgazzelloni.github.io/30DayMapChallenge/
   year: 2025
