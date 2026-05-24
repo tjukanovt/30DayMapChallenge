@@ -86,9 +86,8 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
   - `docs/2020/`, `docs/2021/` and `docs/2022/` also have `dayNN_*.md` files listing
     most-liked tweets per day — a historical Twitter/X-era archive, no longer updated.
   - `docs/resources.md`, `docs/404.md`, `docs/imgs/`.
-  - `docs/stylesheets/extra.js` — opens external links in a new tab, drives the
-    home-page countdown, and pulls a small recent-Bluesky preview into the
-    "Across the web" section on the home page; `docs/stylesheets/gbextra.css`
+  - `docs/stylesheets/extra.js` — opens external links in a new tab and drives
+    the home-page countdown; `docs/stylesheets/gbextra.css`
     — site-wide custom styling.
     Both are wired in via `extra_javascript` / `extra_css` in `mkdocs.yml`.
   - `docs/manifest.webmanifest` and `docs/CNAME` — PWA manifest (referenced from
@@ -113,8 +112,9 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
 
 `docs/index.md` includes a `#challenge-countdown` block (initially `hidden`) with
 two sub-blocks: one for the **themes announcement** (1 October) and one for the
-**challenge start** (1 November). `docs/stylesheets/extra.js` populates both each
-second, switches the themes block to a "Now available" banner once 1 October has
+**challenge start** (1 November). Each block shows a **days** and **hours**
+countdown (no minutes/seconds). `docs/stylesheets/extra.js` refreshes both once a
+minute, switches the themes block to a "Now available" banner once 1 October has
 passed, and switches the challenge block to a "Day N of 30" banner during
 November. After 1 December it advances to the next year's milestones. The script
 re-runs on Material's instant-navigation page swaps via `window.document$`, so

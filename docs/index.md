@@ -1,13 +1,17 @@
 ## Daily social mapping project happening every November
 
+The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
+
+!!! info "Themes for 2026"
+    The 30 themes for the 2026 challenge will be announced later this year.
+    Themes from past challenges are kept in the **Archive** section.
+
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
     <div class="challenge-countdown__label" data-cd-label>Themes announced in</div>
     <div class="challenge-countdown__grid" data-cd-grid>
       <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-days>--</span><span class="challenge-countdown__unit">days</span></div>
       <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-hours>--</span><span class="challenge-countdown__unit">hours</span></div>
-      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-minutes>--</span><span class="challenge-countdown__unit">minutes</span></div>
-      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-seconds>--</span><span class="challenge-countdown__unit">seconds</span></div>
     </div>
     <div class="challenge-countdown__target" data-cd-target></div>
   </div>
@@ -16,18 +20,10 @@
     <div class="challenge-countdown__grid" data-cd-grid>
       <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-days>--</span><span class="challenge-countdown__unit">days</span></div>
       <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-hours>--</span><span class="challenge-countdown__unit">hours</span></div>
-      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-minutes>--</span><span class="challenge-countdown__unit">minutes</span></div>
-      <div class="challenge-countdown__cell"><span class="challenge-countdown__value" data-cd-seconds>--</span><span class="challenge-countdown__unit">seconds</span></div>
     </div>
     <div class="challenge-countdown__target" data-cd-target></div>
   </div>
 </div>
-
-The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
-
-!!! info "Themes for 2026"
-    The 30 themes for the 2026 challenge will be announced later this year.
-    Themes from past challenges are kept in the **Archive** section.
 
 ## How it works
 
@@ -52,14 +48,6 @@ Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
   <a class="hashtag-chip" href="https://x.com/hashtag/30DayMapChallenge" target="_blank" rel="noopener">X</a>
   <a class="hashtag-chip" href="https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge" target="_blank" rel="noopener">LinkedIn</a>
   <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
-</div>
-
-<div id="hashtag-preview" class="hashtag-preview" hidden aria-label="Recent #30DayMapChallenge posts on Bluesky">
-  <div class="hashtag-preview__header">
-    <span class="hashtag-preview__label">Latest on Bluesky</span>
-    <a class="hashtag-preview__more" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">See more →</a>
-  </div>
-  <div class="hashtag-preview__grid" data-hashtag-grid></div>
 </div>
 
 ## Code of Conduct
