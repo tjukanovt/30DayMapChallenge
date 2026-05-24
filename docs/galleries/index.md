@@ -18,7 +18,7 @@ maps in one place.
 {% for year in galleries | map(attribute='year') | unique | sort | reverse %}
 ## {{ year }}
 
-{% for g in galleries | selectattr('year', 'equalto', year) | sort(attribute='creator') %}
+{% for g in galleries | selectattr('year', 'equalto', year) | sort_creators %}
 - **[{{ g.creator }}]({{ g.link }})**{% if g.description %} — {{ g.description }}{% endif %}
 {% endfor %}
 {% endfor %}
