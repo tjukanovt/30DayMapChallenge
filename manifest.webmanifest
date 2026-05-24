@@ -3,8 +3,8 @@
   "short_name": "30DMC",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1976d2",
+  "background_color": "#fafaf7",
+  "theme_color": "#1f2937",
   "description": "Daily mapping challenge happening every November!",
   "icons": [
     {
