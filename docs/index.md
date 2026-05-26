@@ -31,6 +31,23 @@ You can prepare maps in advance, but the spirit of the challenge is to publish o
 
 For data sources, software and tutorials, see the [Mapping resources](resources.md) page.
 
+## Many ways to take part
+
+People approach the challenge in very different ways, and that variety is part of what makes it work:
+
+- **A data and coding exercise** — many participants use the 30 themes as a structured way to learn a new language, library or geospatial workflow.
+- **A creative and artistic journey** — for others, it's purely about cartographic craft and developing a personal style.
+- **An excuse to try something new** — a new tool, a new dataset or a new technique you've been meaning to explore.
+- **A team effort** — some companies and organisations split the 30 maps between colleagues and publish them from a shared account.
+
+All of these are great. Doing 30 maps is genuinely hard, and the challenge is not meant to burn anyone out — five maps, or one map, is already a win.
+
+## Why take part
+
+- **It opens doors.** The challenge has helped many mapmakers find new work and land new jobs, including the challenge's founder and several of his colleagues.
+- **It's a great way to grow.** Whether you are brand new to mapping or a seasoned expert, the themes push you to learn something and develop your craft.
+- **The hashtag is democratic.** No sign-up and no gatekeeping — any map has the same potential to go viral and reach a global audience.
+
 ## Explore the maps
 
 Every November mappers around the world share tens of thousands of maps. Browse the growing list of community **[map collections](galleries/index.md)** to get inspired — and [add your own](galleries/index.md) so others can find it too.
@@ -62,6 +79,10 @@ But keep in mind a few things:
 - **Don't be an asshole**. Don't harass or steal from others.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
+
+## Get in touch
+
+For questions, partnership ideas or anything else that doesn't fit a GitHub issue, email [info@30daymapchallenge.com](mailto:info@30daymapchallenge.com).
 
 ## Merchandise
 

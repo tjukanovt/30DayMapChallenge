@@ -34,8 +34,9 @@ with your details and a maintainer will add the entry for you.
 
 ### 3. Get in touch
 
-If GitHub isn't your thing, reach out via
-[Topi's contact form](https://tjukanov.org/contact) or through the
+If GitHub isn't your thing, email
+[info@30daymapchallenge.com](mailto:info@30daymapchallenge.com), use
+[Topi's contact form](https://tjukanov.org/contact) or reach out through the
 challenge's social channels linked from
 [30daymapchallenge.com](https://30daymapchallenge.com/).
 
