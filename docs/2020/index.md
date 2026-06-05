@@ -1,3 +1,9 @@
+---
+description: >-
+  The full list of 30 daily themes from the 2020 #30DayMapChallenge, the global
+  community mapping project held every November.
+---
+
 # 2020 Challenge
 
 The 2020 #30DayMapChallenge ran throughout November 2020. The 30 daily themes

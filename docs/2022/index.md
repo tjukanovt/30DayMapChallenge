@@ -1,3 +1,9 @@
+---
+description: >-
+  The full list of 30 daily themes from the 2022 #30DayMapChallenge, the global
+  community mapping project held every November.
+---
+
 # 2022 Challenge
 
 The 2022 #30DayMapChallenge ran throughout November 2022. The 30 daily themes

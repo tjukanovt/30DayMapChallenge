@@ -1,4 +1,10 @@
-## Daily social mapping project happening every November
+---
+description: >-
+  The official home of #30DayMapChallenge — a free daily mapping challenge held
+  every November. Make one map a day for 30 themed days and share it with the world.
+---
+
+# Daily social mapping project happening every November
 
 The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
 
