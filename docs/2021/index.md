@@ -1,3 +1,9 @@
+---
+description: >-
+  The full list of 30 daily themes from the 2021 #30DayMapChallenge, the global
+  community mapping project held every November.
+---
+
 # 2021 Challenge
 
 The 2021 #30DayMapChallenge ran throughout November 2021. The 30 daily themes

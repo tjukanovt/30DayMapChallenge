@@ -1,3 +1,9 @@
+---
+description: >-
+  Data sources, software, tools and tutorials to help you create maps for the
+  #30DayMapChallenge — whatever your skill level.
+---
+
 # Helpful resources
 
 ## Data

@@ -1,3 +1,9 @@
+---
+description: >-
+  The full list of 30 daily themes from the 2024 #30DayMapChallenge, the global
+  community mapping project held every November.
+---
+
 # 2024 Challenge
 
 The 2024 #30DayMapChallenge ran throughout November 2024. The 30 daily themes

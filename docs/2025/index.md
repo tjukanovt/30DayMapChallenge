@@ -1,3 +1,9 @@
+---
+description: >-
+  The full list of 30 daily themes from the 2025 #30DayMapChallenge, the global
+  community mapping project held every November.
+---
+
 # 2025 Challenge
 
 The 2025 #30DayMapChallenge ran throughout November 2025. The 30 daily themes
