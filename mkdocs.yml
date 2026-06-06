@@ -95,6 +95,23 @@ plugins:
   # - mkdocstrings
   # - autolinks
   - macros
+  # "Notes" section, built with Material's built-in blog plugin.
+  # New posts: drop a Markdown file into docs/notes/posts/ with the front
+  # matter documented in the sample post. URLs read /notes/YYYY/MM/DD/slug/.
+  - blog:
+      blog_dir: notes
+      blog_toc: true
+      post_url_format: "{date}/{slug}"
+      post_url_date_format: yyyy/MM/dd
+      post_date_format: long
+      authors: false           # no per-author pages; not requested
+      pagination_per_page: 20   # generous, so a few posts stay on one page
+      categories_allowed:       # fixed set, no sprawling auto-generated list
+        - Recap
+        - Announcement
+        - Community maps
+  # The global RSS feed below (match_path ".*") already includes Notes posts,
+  # so readers can subscribe without a separate per-section feed.
   - rss:
       abstract_chars_count: 160
       date_from_meta:
@@ -261,3 +278,4 @@ nav:
     - "2019": 2019/index.md
 
   - Mapping resources: resources.md
+  - Notes: notes/index.md
