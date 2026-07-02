@@ -34,7 +34,7 @@ You can use whatever data you like. These open, global sources are a good place 
 - [OpenTopography](https://opentopography.org/) — lidar point clouds and global DEMs for when you need terrain.
 - [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) — cloud-hosted environmental and satellite data, STAC-native so it's easy to query.
 - [Copernicus Browser](https://browser.dataspace.copernicus.eu/) — free Sentinel satellite imagery straight from ESA, browseable in the page.
-- [Kontur Population](https://www.kontur.io/portfolio/population-dataset/) — a recent global population grid on H3 hexagons that drops straight into a map.
+- [Kontur Population](https://www.kontur.io/portfolio/population-dataset/) — a global population grid on H3 hexagons that drops straight into a map.
 
 For local and national data, these directories cover most countries.
 
@@ -57,7 +57,7 @@ Closed-source tools — ArcGIS, Mapbox Studio, Aurora, Affinity Designer, Illust
 - [Blender](https://www.blender.org/) — full 3D suite; add [BlenderGIS](https://github.com/domlysz/BlenderGIS) to bring spatial data in.
 - [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) — a tiny renderer that turns a heightmap into striking 3D terrain.
 - [Inkscape](https://inkscape.org/) — open-source vector editor for finishing and laying out a map.
-- [Scribus](https://www.scribus.net/) — open-source page layout for when a map becomes a poster or print piece. Prefer Affinity Designer, Illustrator or Figma for the finishing touches? They work just as well.
+- [Scribus](https://www.scribus.net/) — open-source page layout for when a map becomes a poster or print piece.
 
 For interactive web maps:
 
@@ -71,7 +71,7 @@ For interactive web maps:
 
 A curated set — short on padding, all free.
 
-### Getting started
+### First steps
 
 - [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/) — where most people start with QGIS. Covers the basics through to PyQGIS scripting.
 - [Klas Karlson's QGIS playlist](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_) — calm, friendly video walkthroughs. Pairs nicely with the Gandhi tutorials.
@@ -103,12 +103,10 @@ A curated set — short on padding, all free.
 
 ## Maps without a computer
 
-Plenty of brilliant #30DayMapChallenge entries never touch a screen. Pen, watercolour, embroidery, Lego, ceramics, baking — if you can shape it, you can map with it. It comes back as a theme most years (2020's *Map not made with GIS software*, 2021's *Map made without using a computer*, 2022's *A map without a computer*, 2024's *Pen & paper*, 2025's *Analog*), and the results are reliably some of the most loved maps of the month.
+Plenty of brilliant #30DayMapChallenge entries never touch a screen. Pen, watercolour, embroidery, Lego, ceramics, baking — if you can shape it, you can map with it. It comes back as a theme most years (2020's *Map not made with GIS software*, 2021's *Map made without using a computer*, 2022's *A map without a computer*, 2023's *Analog map*, 2024's *Pen & paper*, 2025's *Analog*), and the results are reliably some of the most loved maps of the month.
 
 Browse the most-loved hand-made entries from past years:
 
 - [2022 · Day 17 — A map without a computer](2022/day17_A_map_without_a_computer.md)
 - [2021 · Day 15 — Map made without using a computer](2021/day15_Map_made_without_using_a_computer.md)
 - [2020 · Day 12 — Map not made with GIS software](2020/day12_Map_not_made_with_GIS_software.md)
-
-The "tools" here are whatever you have to hand: pencil, watercolour, fabric, embroidery thread, Lego, ceramics, cross-stitch, beads, paper cutting — and plenty more nobody's tried yet.
