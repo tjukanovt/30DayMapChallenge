@@ -6,6 +6,8 @@ Every November, participants make one map a day for 30 days — each based on a 
 
 > **🌍 [30daymapchallenge.com](https://30daymapchallenge.com)** — themes, community map collections and mapping resources, all in one place.
 
+For announcements and highlights, follow the official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/).
+
 The 30 themes for the **2026 challenge** will be announced later this year. Themes from past challenges are kept in [`archive/`](archive/).
 
 ## Explore the maps

@@ -18,7 +18,7 @@ You can use **whatever data you want.** Here are a few sources which could help 
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
 	- The site contains a categorised list of links to over 500 sites providing freely available geographic datasets - all ready for loading into a Geographic Information System.
-- [OS OpenData](https://www.ordnancesurvey.co.uk/opendatadownload/products.html)
+- [OS OpenData](https://osdatahub.os.uk/downloads/open)
 	- Ordnance Survey Open Data for Great Britain. Includes general topographic map data at a range of scales; useful thematic data such as greenspace, terrain, roads and rivers; postcode and place name georeferencing.
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 	- Interesting datasets from around the world.
@@ -62,7 +62,10 @@ The challenge is open to any software, but here’s a list of popular open-sourc
 	 
 
 ## Tutorials & helpful resources
-If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
+
+Great starting points whether you're new to QGIS or to mapmaking in general:
+
+- [Klas Karlsson's QGIS videos](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
 - [Steven Bernard's QGIS Introduction](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/en/)
 - [3D Landscape Tutorial by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
