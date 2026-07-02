@@ -18,7 +18,7 @@ You can use **whatever data you want.** Here are a few sources which could help 
 	- Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 - [Free GIS Data](https://freegisdata.rtwilson.com/)
 	- The site contains a categorised list of links to over 500 sites providing freely available geographic datasets - all ready for loading into a Geographic Information System.
-- [OS OpenData](https://www.ordnancesurvey.co.uk/opendatadownload/products.html)
+- [OS OpenData](https://osdatahub.os.uk/downloads/open)
 	- Ordnance Survey Open Data for Great Britain. Includes general topographic map data at a range of scales; useful thematic data such as greenspace, terrain, roads and rivers; postcode and place name georeferencing.
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 	- Interesting datasets from around the world.
@@ -37,7 +37,7 @@ You can use **whatever data you want.** Here are a few sources which could help 
 
 The challenge is open to any software, but here’s a list of popular open-source tools to consider. No programming skills are required. Or if you are a programmer, no design skills are required. 
 
- - [QGIS](https://www.qgis.org/en/site/)
+ - [QGIS](https://www.qgis.org/)
 	 - A Free and Open Source Geographic Information System. A desktop software that allows you to read/write multiple data formats and output (mainly static) maps.
  - [Kepler](https://kepler.gl/)
 	 - Open source geospatial analysis tool for large-scale data sets and for interactive maps.
@@ -62,7 +62,9 @@ The challenge is open to any software, but here’s a list of popular open-sourc
 	 
 
 ## Tutorials & helpful resources
-If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
+
+If you want to make maps with QGIS, the video tutorials by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_) are a great starting point. Here are a few more helpful resources:
+
 - [Steven Bernard's QGIS Introduction](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/en/)
 - [3D Landscape Tutorial by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)

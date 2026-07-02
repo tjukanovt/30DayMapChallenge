@@ -10,7 +10,9 @@ The official home of #30DayMapChallenge, a daily mapping challenge open to every
 
 !!! info "Themes for 2026"
     The 30 themes for the 2026 challenge will be announced later this year.
-    Themes from past challenges are kept in the **Archive** section.
+    Follow the challenge's [official LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/)
+    to hear the news first. Themes from past challenges are kept in the
+    **Archive** section.
 
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
@@ -45,14 +47,16 @@ Every November mappers around the world share tens of thousands of maps. Browse 
 
 Since 2019, the community has shared **more than 50,000 maps** under the hashtag. As the challenge has spread across more and more platforms, pinning down exact totals has become nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
 
-Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
+For official news and announcements, follow the
+**[30DayMapChallenge page on LinkedIn](https://www.linkedin.com/company/30daymapchallenge/)**.
+And follow the `#30DayMapChallenge` hashtag wherever you already hang out:
 
 <div class="hashtag-feed__chips" markdown="0">
   <a class="hashtag-chip" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">Bluesky</a>
   <a class="hashtag-chip" href="https://mapstodon.space/tags/30DayMapChallenge" target="_blank" rel="noopener">Mastodon</a>
   <a class="hashtag-chip" href="https://www.threads.com/search?q=%2330DayMapChallenge&serp_type=tags" target="_blank" rel="noopener">Threads</a>
   <a class="hashtag-chip" href="https://x.com/hashtag/30DayMapChallenge" target="_blank" rel="noopener">X</a>
-  <a class="hashtag-chip" href="https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge" target="_blank" rel="noopener">LinkedIn</a>
+  <a class="hashtag-chip" href="https://www.linkedin.com/company/30daymapchallenge/" target="_blank" rel="noopener">LinkedIn</a>
   <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
 </div>
 
