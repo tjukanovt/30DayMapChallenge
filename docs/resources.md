@@ -82,7 +82,7 @@ A curated set — short on padding, all free.
 
 - [Geocomputation with R](https://r.geocompx.org/) by Lovelace, Nowosad & Muenchow (2nd ed., 2025) — the book to grab if you're doing spatial in R. Free online, regularly updated.
 - [Geocomputation with Python](https://py.geocompx.org/) by Dorman, Graser, Nowosad & Lovelace (2025) — Python sibling of the above. Also free online.
-- [Milos Makes Maps](https://www.youtube.com/@milosmakesmaps) — Milos Popovic's YouTube channel. The place for rayshader, 3D maps, and creative cartography in R.
+- [Milos Makes Maps](https://www.youtube.com/@milos-makes-maps) — Milos Popovic's YouTube channel. The place for rayshader, 3D maps, and creative cartography in R.
 - [Anita Graser's blog](https://anitagraser.com/) — long-running, gets technical. Strong on QGIS, Python (movingpandas), and movement data.
 - [Mapbox documentation](https://docs.mapbox.com/) — well-written tutorials and examples for web maps. The product is closed-source, but most of what you learn transfers to MapLibre, the open-source fork.
 
@@ -94,12 +94,12 @@ A curated set — short on padding, all free.
 
 ### Conference talks
 
-- [NACIS talks on YouTube](https://www.youtube.com/@nacis) — the North American Cartographic Information Society. Cartographic design, storytelling, the craft side of maps.
-- [FOSS4G talks on YouTube](https://www.youtube.com/c/FOSS4G) — recordings from the annual Free and Open Source Software for Geospatial conference. Strong on tooling, QGIS, PostGIS, MapLibre, data pipelines.
+- [NACIS talks on YouTube](https://www.youtube.com/@NACISmaps) — the North American Cartographic Information Society. Cartographic design, storytelling, the craft side of maps.
+- [FOSS4G talks on YouTube](https://www.youtube.com/@FOSS4G) — recordings from the annual Free and Open Source Software for Geospatial conference. Strong on tooling, QGIS, PostGIS, MapLibre, data pipelines.
 
 ### Annual companion
 
-- [30DayMapChallenge Resource Guide](https://karomapper.substack.com/) by Karolína Lehotská — refreshed each November with that year's picks.
+- [30DayMapChallenge Resource Guide](https://karomapper.substack.com/archive) by Karolína Lehotská — refreshed each November with that year's picks; look for the latest guide in the archive.
 
 ## Maps without a computer
 
