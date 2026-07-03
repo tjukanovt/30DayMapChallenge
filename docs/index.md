@@ -56,6 +56,13 @@ Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
   <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
 </div>
 
+There's also an official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/)
+for announcements and occasional highlights — but the hashtag is where the
+challenge happens, on whichever platform you prefer.
+
+Questions, ideas or anything else? Reach out at
+[info@30daymapchallenge.com](mailto:info@30daymapchallenge.com).
+
 ## Code of Conduct
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
 

@@ -22,6 +22,9 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://mapstodon.space/tags/30DayMapChallenge
       name: "#30DayMapChallenge on Mastodon"
+    - icon: fontawesome/brands/threads
+      link: https://www.threads.com/search?q=%2330DayMapChallenge&serp_type=tags
+      name: "#30DayMapChallenge on Threads"
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/hashtag/30DayMapChallenge
       name: "#30DayMapChallenge on X"
@@ -29,8 +32,14 @@ extra:
       link: https://www.instagram.com/explore/tags/30daymapchallenge/
       name: "#30DayMapChallenge on Instagram"
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge
-      name: "#30DayMapChallenge on LinkedIn"
+      link: https://www.linkedin.com/company/30daymapchallenge/
+      name: 30DayMapChallenge on LinkedIn (official page)
+    - icon: fontawesome/solid/square-rss
+      link: https://30daymapchallenge.com/feed_rss_created.xml
+      name: RSS feed
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@30daymapchallenge.com
+      name: Email the organisers
   analytics:
     provider: google
     property: G-Z3RZNVKSNS
