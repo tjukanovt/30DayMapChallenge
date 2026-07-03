@@ -10,9 +10,10 @@ draft: false              # set true to hide while editing
 The #30DayMapChallenge now has an official LinkedIn page:
 **[linkedin.com/company/30daymapchallenge](https://www.linkedin.com/company/30daymapchallenge/)**.
 
-Follow it for announcements — like the 2026 themes later this year — and
-highlights from the community. And of course, keep an eye on the
-[`#30DayMapChallenge` hashtag](https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge)
-too, where a large share of the challenge maps are shared every November.
+To be clear: the challenge is **not moving to LinkedIn**. It stays what it has
+always been — a platform-agnostic, hashtag-driven challenge. Make your maps and
+share them wherever you like with `#30DayMapChallenge`; that's still the heart
+of it all. The page is simply an extra channel for announcements (like the 2026
+themes later this year) and occasional highlights from the community.
 
 <!-- more -->

@@ -45,10 +45,7 @@ Every November mappers around the world share tens of thousands of maps. Browse 
 
 Since 2019, the community has shared **more than 50,000 maps** under the hashtag. As the challenge has spread across more and more platforms, pinning down exact totals has become nearly impossible — deeper community-maintained stats live in [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
 
-For announcements and highlights straight from the organisers, follow the
-official **[30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/)**.
-
-You can also follow the `#30DayMapChallenge` hashtag wherever you already hang out:
+Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
 
 <div class="hashtag-feed__chips" markdown="0">
   <a class="hashtag-chip" href="https://bsky.app/hashtag/30DayMapChallenge" target="_blank" rel="noopener">Bluesky</a>
@@ -58,6 +55,10 @@ You can also follow the `#30DayMapChallenge` hashtag wherever you already hang o
   <a class="hashtag-chip" href="https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge" target="_blank" rel="noopener">LinkedIn</a>
   <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
 </div>
+
+There's also an official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/)
+for announcements and occasional highlights — but the hashtag is where the
+challenge happens, on whichever platform you prefer.
 
 ## Code of Conduct
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
