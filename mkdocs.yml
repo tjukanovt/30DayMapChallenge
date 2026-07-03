@@ -37,6 +37,9 @@ extra:
     - icon: fontawesome/solid/square-rss
       link: https://30daymapchallenge.com/feed_rss_created.xml
       name: RSS feed
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@30daymapchallenge.com
+      name: Email the organisers
   analytics:
     provider: google
     property: G-Z3RZNVKSNS
