@@ -125,6 +125,11 @@
   year: 2025
   description: A gallery of maps made for the 2023 and 2025 challenges.
 
+- creator: bordoray
+  link: https://bordoray.github.io/30-day-map-challenge/2025/
+  year: 2025
+  description: #30DayJLPTMapChallenge, 30 maps that feature a japanese words
+
 - creator: Estonian Land Board
   link: https://geoportaal.maaamet.ee/eng/spatial-data/30daymapchallenge-2024-p953.html
   year: 2024
@@ -199,6 +204,11 @@
   link: https://nextgis.com/blog/30daymapchallenge-2024/
   year: 2024
   description: The NextGIS team's 2024 challenge maps, with urban, EV and wildfire themes.
+
+- creator: bordoray
+  link: https://bordoray.github.io/30-day-map-challenge/2024/
+  year: 2024
+  description: Guess a unique place through 30 maps as a hint.
 
 - creator: Blake R. Mills
   link: https://github.com/BlakeRMills/30DayMapChallenge
@@ -295,6 +305,16 @@
   year: 2023
   description: A geospatial blog with daily updates from the 2023 challenge, with code and maps.
 
+- creator: bordoray
+  link: https://bordoray.github.io/30-day-map-challenge/2023/
+  year: 2023
+  description: 30 maps have been made as a quizz you can play.
+
+- creator: MIERUNE
+  link: https://note.com/mierune/n/n247ccda48a45
+  year: 2023
+  description: A Japanese GIS company's 2nd participation, written up on note.
+  
 - creator: Petra Duriancikova
   link: https://github.com/petraduriancikova/30DayMapChallenge
   year: 2022
@@ -331,9 +351,9 @@
   description: The Aalto Geoinformatics group's "Thinking Spatially" blog post on their 2022 challenge maps.
 
 - creator: MIERUNE
-  link: https://dev.to/mierune/my-first-30daymapchallenge-1g0i
+  link: https://note.com/mierune/n/ne96b8e56aa25
   year: 2022
-  description: A Japanese GIS company's first-time participation in the 2022 challenge, written up on DEV.to.
+  description: A Japanese GIS company's first-time participation in the 2022 challenge, written up on note.
 
 - creator: Nicola Rennie
   link: https://nrennie.rbind.io/blog/30-day-map-challenge-2022/
@@ -424,9 +444,10 @@
   link: https://les-artisans-cartographes.fr/30daymapchallenge_2022/
   year: 2022
 
-- creator: "@bordoray"
+- creator: "bordoray"
   link: https://bordoray.github.io/30-day-map-challenge/2022/
   year: 2022
+  description: First challenge made with QGIS, Maplibre, CAD and clay
 
 - creator: "@coughlinmaps"
   link: https://thomascoughlin.myportfolio.com/30daymapchallenge-2022
