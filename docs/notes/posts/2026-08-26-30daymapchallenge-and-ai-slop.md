@@ -9,7 +9,12 @@ draft: false              # set true to hide while editing
 # #30DayMapChallenge and AI slop
 
 Over the last year software development has gone through a total revolution. AI
-tools have changed the way software is written. Design and the broader creative
+tools have changed the way software is written, and the scale of it shows in the
+numbers. GitHub's latest [Octoverse report](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)
+counted 43.2 million pull requests merged per month on average, up 23% year over
+year, and [close to a billion commits pushed](https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/),
+up 25.1%. The Copilot coding agent on its own authored more than a million pull
+requests in five months. Design and the broader creative
 domain have also experienced a shockwave through the rise of LLMs and generative
 AI. Of course this has been happening for a few years already, but I feel like
 the last year has been the most dramatic so far. This has made me think about
@@ -18,6 +23,14 @@ between design and tech. My biggest fear has been that the number of maps
 created will dramatically increase but the quality will go down, and the whole
 hashtag will become a synonym for low quality AI map slop. But let's take a deep
 breath and an analytical approach to what this could mean for the challenge.
+
+![A deliberately terrible AI-generated world map titled "Wrold Map (2026)", with
+garbled labels including "New Yrok City", "Londun, Franc-many" printed twice,
+"Sahara Rainforest", "Mt. Everestt Rainge (14ft)" and a scale bar reading
+"7 killometers".](../../imgs/bad-ai-map.png)
+
+*I made a bad AI map so you don't have to. Seeing my social media feed full of
+maps like this is my biggest fear.*
 
 <!-- more -->
 
@@ -73,11 +86,10 @@ following steps:
     *Image via [Bad AI Maps, Part 1](https://mapoftheweek.blogspot.com/2026/03/bad-ai-maps-part-1.html),
     Map of the Week.*
 
-    There is also a bigger question underneath the accuracy one.
-    [On Sin](https://somethingaboutmaps.wordpress.com/2026/07/19/on-sin/), over
-    on the somethingaboutmaps blog, is a marvellous piece on the ethics of
-    cartography, and I would highly recommend that everyone taking part in the
-    challenge reads it.
+    There is also a bigger question underneath the accuracy one. Daniel
+    Huffman's [On Sin](https://somethingaboutmaps.wordpress.com/2026/07/19/on-sin/)
+    is a marvellous piece on the ethics of cartography, and I would highly
+    recommend that everyone taking part in the challenge reads it.
 
 4. **Polishing and publishing.** Ask for critical feedback on your final work. I
    also feel like AI will boost the creation of interactive maps, which have been
