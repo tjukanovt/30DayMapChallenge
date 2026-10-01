@@ -380,6 +380,10 @@ a.md-button:hover {
   margin: 2.6em 0 2em;
 }
 
+.challenge-countdown[hidden] {
+  display: none;
+}
+
 .challenge-countdown__block {
   padding: 1.1em 1.1em 1em;
   border: 1px solid var(--site-rule);
