@@ -8,6 +8,7 @@ Update ical-file from markdown table in README.md
 from datetime import datetime
 from pytz import UTC
 from random import randint
+import re
 
 HEADER = """BEGIN:VCALENDAR
 VERSION:2.0
@@ -42,7 +43,7 @@ def _event(line: str, now: str) -> str:
     assert 1 <= date.day <= 30
     summary = columns[1]
     assert len(summary) > 0
-    description = columns[2]
+    description = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'\1 (\2)', columns[2]) # Markdown links to plain text
     # assert len(description) > 0 # can be empty?
 
     return SUMMARY.format(

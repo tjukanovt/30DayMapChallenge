@@ -9,8 +9,12 @@ description: >-
 The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
 
 !!! info "Themes for 2026"
-    The 30 themes for the 2026 challenge will be announced later this year.
-    Themes from past challenges are kept in the **Archive** section.
+    The 30 themes for the 2026 challenge are out. See the full list on the
+    [2026 themes](2026/index.md) page. Themes from past challenges are kept
+    in the **Archive** section.
+
+    The 2026 challenge is supported by [Mapbox](https://www.mapbox.com/). As
+    always, you're free to use any tools and data you like.
 
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
@@ -71,7 +75,7 @@ But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don't steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
-- Be mindful in how you use AI tooling. If you generate all of your maps with generative AI tools, where's the fun? This is not a prompt engineering challenge.
+- Be smart with AI tools. They can genuinely help your mapmaking, but if you generate all your maps straight from a prompt, where's the fun? Day 10 (Prompting only) is the exception: that's the one day to see how far prompting alone gets you. Whatever you use, be open about how you made it.
 - **Don't be an asshole**. Don't harass or steal from others.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
