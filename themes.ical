@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tjukanovt//30DayMapChallenge//EN
+ATTENDEE:MAILTO:do-not@send-email.xyz
+X-WR-CALNAME:30DayMapChallenge
+BEGIN:VEVENT
+SUMMARY:Points
+DTSTART;VALUE=DATE:20261101
+UID:d70e8@30DayMapChallenge
+DESCRIPTION:A map challenge classic. Map with points.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lines
+DTSTART;VALUE=DATE:20261102
+UID:29758@30DayMapChallenge
+DESCRIPTION:A map challenge classic. Map with lines.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polygons
+DTSTART;VALUE=DATE:20261103
+UID:f9d85@30DayMapChallenge
+DESCRIPTION:A map challenge classic. Map with polygons.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clusters
+DTSTART;VALUE=DATE:20261104
+UID:5b768@30DayMapChallenge
+DESCRIPTION:Clusters of something. Hotspots, groups, things that gather together.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senses: Sight
+DTSTART;VALUE=DATE:20261105
+UID:d5e3d@30DayMapChallenge
+DESCRIPTION:How do you see something? Maybe map a viewshed?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vintage
+DTSTART;VALUE=DATE:20261106
+UID:ab3bf@30DayMapChallenge
+DESCRIPTION:Spin up your time machine and do a map which looks like a historical map, or maybe the theme itself should be vintage.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 minute map
+DTSTART;VALUE=DATE:20261107
+UID:01547@30DayMapChallenge
+DESCRIPTION:You have no more than 10 minutes to complete this map.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utopia
+DTSTART;VALUE=DATE:20261108
+UID:8e077@30DayMapChallenge
+DESCRIPTION:A map of something which could be.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban-rural
+DTSTART;VALUE=DATE:20261109
+UID:031cf@30DayMapChallenge
+DESCRIPTION:Urban or rural. Cities and countryside.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prompting only
+DTSTART;VALUE=DATE:20261110
+UID:23e77@30DayMapChallenge
+DESCRIPTION:For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senses: Sound
+DTSTART;VALUE=DATE:20261111
+UID:6d092@30DayMapChallenge
+DESCRIPTION:How do you hear something? How do you map a soundscape? Noise pollution mapped?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power
+DTSTART;VALUE=DATE:20261112
+UID:94cb5@30DayMapChallenge
+DESCRIPTION:Power as in nuclear power? Or physical power or influence? Power grid on a map? Read this the way you want, like every other prompt.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interactions
+DTSTART;VALUE=DATE:20261113
+UID:05ff2@30DayMapChallenge
+DESCRIPTION:Interactions between things, or maybe the result would be an interactive map?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borgesian map
+DTSTART;VALUE=DATE:20261114
+UID:a7cdf@30DayMapChallenge
+DESCRIPTION:A map so detailed it becomes the territory. Inspired by Borges' On Exactitude in Science.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside out
+DTSTART;VALUE=DATE:20261115
+UID:15d23@30DayMapChallenge
+DESCRIPTION:Inside out, upside down. Something on this map is not quite right.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collaborative map
+DTSTART;VALUE=DATE:20261116
+UID:1d6ab@30DayMapChallenge
+DESCRIPTION:Do a map with a friend, colleague or a stranger. AI doesn't count as a friend :)
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Light & dark
+DTSTART;VALUE=DATE:20261117
+UID:8972a@30DayMapChallenge
+DESCRIPTION:Play with visual effects. What can you map with just light and shadows?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NULL
+DTSTART;VALUE=DATE:20261118
+UID:969ea@30DayMapChallenge
+DESCRIPTION:
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senses: Smell
+DTSTART;VALUE=DATE:20261119
+UID:eeb49@30DayMapChallenge
+DESCRIPTION:How do you map things which your nose can sense? What does a smelly map look like?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexagons
+DTSTART;VALUE=DATE:20261120
+UID:ee023@30DayMapChallenge
+DESCRIPTION:Hexagons, the good old bestagons.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenStreetMap
+DTSTART;VALUE=DATE:20261121
+UID:7aa2e@30DayMapChallenge
+DESCRIPTION:The awesome data source for mapping. You can also use this day to edit OSM.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projections
+DTSTART;VALUE=DATE:20261122
+UID:1c9d3@30DayMapChallenge
+DESCRIPTION:The different ways of representing a globe on a flat surface. What does your favourite map projection say about you?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senses: Taste
+DTSTART;VALUE=DATE:20261123
+UID:2db23@30DayMapChallenge
+DESCRIPTION:Food, drink or something else which you can taste.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network
+DTSTART;VALUE=DATE:20261124
+UID:fd8bc@30DayMapChallenge
+DESCRIPTION:Route network, transit network, human network or something completely different.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Is this a map?
+DTSTART;VALUE=DATE:20261125
+UID:fabe8@30DayMapChallenge
+DESCRIPTION:Stretch the limits of maps and blend your map with an artwork or some creative data visualization. When does something become a map and when does it stop being one?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water
+DTSTART;VALUE=DATE:20261126
+UID:98d5c@30DayMapChallenge
+DESCRIPTION:About 71% of the Earth's surface. That wet thing, you know?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New tool
+DTSTART;VALUE=DATE:20261127
+UID:d250b@30DayMapChallenge
+DESCRIPTION:The challenge has always been about learning things. Try out a new tool in your mapmaking workflow.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senses: Feeling
+DTSTART;VALUE=DATE:20261128
+UID:1c195@30DayMapChallenge
+DESCRIPTION:The most abstract of the senses series. How would you map a feeling?
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raster
+DTSTART;VALUE=DATE:20261129
+UID:2c836@30DayMapChallenge
+DESCRIPTION:Do something cool with pixels.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pen & paper
+DTSTART;VALUE=DATE:20261130
+UID:610da@30DayMapChallenge
+DESCRIPTION:Time to wrap up the challenge by closing your laptop for a while and going back to basics. Do an analogue map with pen and paper.
+LAST-MODIFIED;VALUE=DATE-TIME:20261001T192911Z
+LOCATION:The Internet
+ORGANIZER;CN="30DayMapChallenge":MAILTO:do-not@send-email.xyz
+URL:https://github.com/tjukanovt/30DayMapChallenge
+END:VEVENT
+END:VCALENDAR

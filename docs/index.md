@@ -9,8 +9,9 @@ description: >-
 The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
 
 !!! info "Themes for 2026"
-    The 30 themes for the 2026 challenge will be announced later this year.
-    Themes from past challenges are kept in the **Archive** section.
+    The 30 themes for the 2026 challenge are out. See the full list on the
+    [2026 themes](2026/index.md) page. Themes from past challenges are kept
+    in the **Archive** section.
 
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
