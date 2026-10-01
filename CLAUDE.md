@@ -114,8 +114,15 @@ markers (it expects exactly 30 rows); run it with `python scripts/ical.py`
 two sub-blocks: one for the **themes announcement** (1 October) and one for the
 **challenge start** (1 November). Each block shows a **days** and **hours**
 countdown (no minutes/seconds). `docs/stylesheets/extra.js` refreshes both once a
-minute, switches the themes block to a "Now available" banner once 1 October has
-passed, and switches the challenge block to a "Day N of 30" banner during
-November. After 1 December it advances to the next year's milestones. The script
-re-runs on Material's instant-navigation page swaps via `window.document$`, so
-edits to the markup or labels must keep the `data-cd-*` hooks intact.
+minute while counting down. From 1 October until the challenge ends (1 December)
+the countdown is hidden, because the home page leads with that year's themes
+section (flyer from `docs/imgs/` plus the `includes/themes-<year>.md` table).
+After 1 December it reappears, counting down to the next year's milestones. The
+script re-runs on Material's instant-navigation page swaps via `window.document$`,
+so edits to the markup or labels must keep the `data-cd-*` hooks intact.
+`gbextra.css` has a `.challenge-countdown[hidden]` rule, needed because the
+block's `display: grid` would otherwise override the `hidden` attribute.
+
+When a new year's themes go live, update the home page's themes section (heading,
+flyer image in `docs/imgs/`, and snippet include) alongside the steps in "Theme
+tables" above.

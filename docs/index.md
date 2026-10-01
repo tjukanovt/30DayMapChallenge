@@ -8,14 +8,6 @@ description: >-
 
 The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
 
-!!! info "Themes for 2026"
-    The 30 themes for the 2026 challenge are out. See the full list on the
-    [2026 themes](2026/index.md) page. Themes from past challenges are kept
-    in the **Archive** section.
-
-    The 2026 challenge is supported by [Mapbox](https://www.mapbox.com/). As
-    always, you're free to use any tools and data you like.
-
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
     <div class="challenge-countdown__label" data-cd-label>Themes announced in</div>
@@ -34,6 +26,18 @@ The official home of #30DayMapChallenge, a daily mapping challenge open to every
     <div class="challenge-countdown__target" data-cd-target></div>
   </div>
 </div>
+
+## 2026 themes
+
+The 2026 challenge runs from 1 to 30 November. Here are the 30 daily themes.
+Themes from past challenges are kept in the **Archive** section.
+
+The 2026 challenge is supported by [Mapbox](https://www.mapbox.com/). As
+always, you're free to use any tools and data you like.
+
+![The 30 themes for #30DayMapChallenge 2026](imgs/30dmc_2026.png)
+
+--8<-- "includes/themes-2026.md"
 
 ## How it works
 

@@ -9,6 +9,8 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
 
 // Countdown to the next #30DayMapChallenge.
 // Two milestones: 1 October (themes announced) and 1 November (challenge starts).
+// Hidden from the themes announcement until the challenge ends (1 December),
+// when the home page shows the themes instead.
 (function () {
   var timerId = null;
 
@@ -45,20 +47,11 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     var days = Math.floor(total / 86400);
     var hours = Math.floor((total % 86400) / 3600);
 
-    block.classList.remove("challenge-countdown__block--done", "challenge-countdown__block--banner");
     var grid = block.querySelector("[data-cd-grid]");
     if (grid) {
       grid.innerHTML =
         '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + days + '</span><span class="challenge-countdown__unit">days</span></div>' +
         '<div class="challenge-countdown__cell"><span class="challenge-countdown__value">' + pad(hours) + '</span><span class="challenge-countdown__unit">hours</span></div>';
-    }
-  }
-
-  function renderBanner(block, text) {
-    block.classList.add("challenge-countdown__block--banner");
-    var grid = block.querySelector("[data-cd-grid]");
-    if (grid) {
-      grid.innerHTML = '<span class="challenge-countdown__value">' + text + '</span>';
     }
   }
 
@@ -79,29 +72,19 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     var challengeBlock = root.querySelector('[data-cd-block="challenge"]');
     if (!themesBlock || !challengeBlock) return;
 
-    // Themes block
-    if (now < m.themes) {
-      setLabel(themesBlock, "Themes announced in");
-      renderCountdown(themesBlock, m.themes);
-      setNote(themesBlock, formatDate(m.themes));
-    } else {
-      themesBlock.classList.add("challenge-countdown__block--done");
-      setLabel(themesBlock, "Themes for " + m.year);
-      renderBanner(themesBlock, "Now available");
-      setNote(themesBlock, "Released " + formatDate(m.themes));
+    // Themes are out: hide the countdown until the challenge is over.
+    if (now >= m.themes) {
+      root.hidden = true;
+      return;
     }
 
-    // Challenge block
-    if (now < m.challenge) {
-      setLabel(challengeBlock, "Challenge starts in");
-      renderCountdown(challengeBlock, m.challenge);
-      setNote(challengeBlock, formatDate(m.challenge));
-    } else if (now < m.end) {
-      var day = Math.floor((now - m.challenge) / 86400000) + 1;
-      setLabel(challengeBlock, "#30DayMapChallenge is live");
-      renderBanner(challengeBlock, "Day " + day + " of 30");
-      setNote(challengeBlock, "Runs through " + formatDate(new Date(m.end - 1)));
-    }
+    setLabel(themesBlock, "Themes announced in");
+    renderCountdown(themesBlock, m.themes);
+    setNote(themesBlock, formatDate(m.themes));
+
+    setLabel(challengeBlock, "Challenge starts in");
+    renderCountdown(challengeBlock, m.challenge);
+    setNote(challengeBlock, formatDate(m.challenge));
 
     root.hidden = false;
   }
