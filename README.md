@@ -10,6 +10,8 @@ The 30 themes for the **2026 challenge** are listed below and on [30daymapchalle
 
 ## 2026 themes
 
+![The 30 themes for #30DayMapChallenge 2026. Full list below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc_2026.png)
+
 <!-- TABLE START -->
 
 | Date       | Name              | Description                                                                                                                                                          |
