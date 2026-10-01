@@ -29,7 +29,7 @@ The 30 themes for the **2026 challenge** are listed below and on [30daymapchalle
 | 11-11-2026 | Senses: Sound     | How do you hear something? How do you map a soundscape? Noise pollution mapped?                                                                                      |
 | 12-11-2026 | Power             | Power as in nuclear power? Or physical power or influence? Power grid on a map? Read this the way you want, like every other prompt.                                 |
 | 13-11-2026 | Interactions      | Interactions between things, or maybe the result would be an interactive map?                                                                                        |
-| 14-11-2026 | Borgesian map     | A map so detailed it becomes the territory. Inspired by Borges' On Exactitude in Science.                                                                            |
+| 14-11-2026 | Borgesian map     | A map so detailed it becomes the territory. Inspired by Borges' [On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science).                  |
 | 15-11-2026 | Inside out        | Inside out, upside down. Something on this map is not quite right.                                                                                                   |
 | 16-11-2026 | Collaborative map | Do a map with a friend, colleague or a stranger. AI doesn't count as a friend :)                                                                                     |
 | 17-11-2026 | Light & dark      | Play with visual effects. What can you map with just light and shadows?                                                                                              |
@@ -37,7 +37,7 @@ The 30 themes for the **2026 challenge** are listed below and on [30daymapchalle
 | 19-11-2026 | Senses: Smell     | How do you map things which your nose can sense? What does a smelly map look like?                                                                                   |
 | 20-11-2026 | Hexagons          | Hexagons, the good old bestagons.                                                                                                                                    |
 | 21-11-2026 | OpenStreetMap     | The awesome data source for mapping. You can also use this day to edit OSM.                                                                                          |
-| 22-11-2026 | Projections       | The different ways of representing a globe on a flat surface. What does your favourite map projection say about you?                                                 |
+| 22-11-2026 | Projections       | The different ways of representing a globe on a flat surface. What does [your favourite map projection](https://xkcd.com/977/) say about you?                        |
 | 23-11-2026 | Senses: Taste     | Food, drink or something else which you can taste.                                                                                                                   |
 | 24-11-2026 | Network           | Route network, transit network, human network or something completely different.                                                                                     |
 | 25-11-2026 | Is this a map?    | Stretch the limits of maps and blend your map with an artwork or some creative data visualization. When does something become a map and when does it stop being one? |
@@ -72,7 +72,7 @@ But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don't steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
-- Be mindful in how you use AI tooling. If you generate all of your maps with generative AI tools, where's the fun? This is not a prompt engineering challenge.
+- Be smart with AI tools. They can genuinely help your mapmaking, but if you generate all your maps straight from a prompt, where's the fun? Day 10 (Prompting only) is the exception: that's the one day to see how far prompting alone gets you. Whatever you use, be open about how you made it.
 - **Don't be an asshole**. Don't harass or steal from others.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
