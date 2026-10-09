@@ -140,6 +140,10 @@
   year: 2024
   description: A blog showcase of challenge maps from the USC Libraries.
 
+- creator: Kate Berg
+  link: https://www.pokateomaps.com/portfolio-collections/cartography/30daymapchallenge2021-1
+  year: 2024
+
 - creator: QWAST-GIS
   link: https://www.qwast-gis.com/l/30daymapchallenge-2024/
   year: 2024
@@ -549,10 +553,6 @@
   link: https://twitter.com/oh_sk/status/1600170903781769219
   year: 2022
 
-- creator: "@pokateo_"
-  link: https://www.pokateomaps.com/30daymapchallenge22
-  year: 2022
-
 - creator: "@professorkao"
   link: https://public.tableau.com/app/profile/dennis.kao/viz/30DayMapChallenge2022SumUp/Dashboard1
   year: 2022
@@ -785,8 +785,8 @@
   link: https://github.com/nrennie/30DayMapChallenge/tree/main/2021
   year: 2021
 
-- creator: "@pokateo_"
-  link: https://storymaps.arcgis.com/stories/2f0e8ede2ac5422a80f7cd2e53989724
+- creator: Kate Berg
+  link: https://www.pokateomaps.com/portfolio-collections/cartography/30daymapchallenge2021
   year: 2021
 
 - creator: "@positium"
@@ -838,7 +838,7 @@
   year: 2020
 
 - creator: Kate Berg
-  link: https://storymaps.arcgis.com/stories/ed9246cfadbf46a2a1c4175dba8515f1
+  link: https://www.pokateomaps.com/portfolio-collections/cartography/30daymapchallenge2020
   year: 2020
 
 - creator: Aurelien Chaumet
