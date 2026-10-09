@@ -22,17 +22,17 @@ New to this? Pick a starting point that matches how you like to work.
 You can use whatever data you like. These open, global sources are a good place to start.
 
 - [OpenStreetMap](https://www.openstreetmap.org/) — the community-built map of the world; grab extracts via [Geofabrik](https://www.geofabrik.de/data/download.html) or [Overpass turbo](https://overpass-turbo.eu/).
-- [Overture Maps](https://overturemaps.org/) — monthly global extracts blending OSM with other open data, cleaned and with stable IDs.
+- [Overture Maps](https://overturemaps.org/) — monthly global extracts that combine OpenStreetMap with other open data sources.
 - [Natural Earth](https://www.naturalearthdata.com/) — public-domain vector and raster at small scales; the quickest route to a clean world map.
 - [Humanitarian Data Exchange (HDX)](https://data.humdata.org/) — thousands of country-level datasets on population, health, infrastructure and crises.
 - [OpenTopography](https://opentopography.org/) — lidar point clouds and global DEMs for when you need terrain.
 - [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) — cloud-hosted environmental and satellite data, STAC-native so it's easy to query.
 - [Copernicus Browser](https://browser.dataspace.copernicus.eu/) — free Sentinel satellite imagery straight from ESA, browseable in the page.
-- [Kontur Population](https://www.kontur.io/portfolio/population-dataset/) — a recent global population grid on H3 hexagons that drops straight into a map.
+- [Kontur Population](https://data.humdata.org/dataset/kontur-population-dataset) — global population on 400 m H3 hexagons, handy for density maps. The latest release is from November 2023.
 
 For local and national data, these directories cover most countries.
 
-- [Karen Payne's open data inventory](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit) — a huge, regularly updated spreadsheet of open geospatial portals worldwide.
+- [Karen Payne's open data inventory](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit) — a spreadsheet of open GIS data repositories from around the world.
 - [Free GIS Data](https://freegisdata.rtwilson.com/) by Robin Wilson — 500+ categorised links to freely available datasets.
 - [Data is Plural](https://www.data-is-plural.com/) by Jeremy Singer-Vine — a weekly newsletter of interesting datasets; broader than spatial, consistently excellent.
 
@@ -41,7 +41,7 @@ For local and national data, these directories cover most countries.
 Closed-source tools — ArcGIS, Mapbox Studio, Aurora, Affinity Designer, Illustrator — are all welcome in the challenge. This list leans open-source (with a couple of generous free tiers) so anyone can take part without paying for a licence.
 
 - [Felt](https://felt.com/) — browser-based, collaborative mapmaking with a generous free tier; nothing to install.
-- [Datawrapper](https://www.datawrapper.de/) — fast charts and maps, a newsroom favourite for clean output in minutes.
+- [Datawrapper](https://www.datawrapper.de/) — fast chart and map maker, a journalist favourite.
 - [geojson.io](https://geojson.io/) — draw or tweak a quick GeoJSON in the browser, no account needed.
 - [QGIS](https://qgis.org/) — the open-source desktop GIS; pair it with the [QGIS Training Manual](https://docs.qgis.org/latest/en/docs/training_manual/).
 - [R](https://www.r-project.org/) — [sf](https://r-spatial.github.io/sf/), [tmap](https://r-tmap.github.io/tmap/), [ggplot2](https://ggplot2.tidyverse.org/) and [rayshader](https://www.rayshader.com/) make a full cartography toolkit.
@@ -49,9 +49,11 @@ Closed-source tools — ArcGIS, Mapbox Studio, Aurora, Affinity Designer, Illust
 - [Observable](https://observablehq.com/) / [D3](https://d3js.org/) — reactive notebooks for bespoke, code-driven cartography in the browser.
 - [Mapshaper](https://mapshaper.org/) — still the easiest way to simplify, clip and convert vector data.
 - [Blender](https://www.blender.org/) — full 3D suite; add [BlenderGIS](https://github.com/domlysz/BlenderGIS) to bring spatial data in.
-- [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) — a tiny renderer that turns a heightmap into striking 3D terrain.
+- [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) — not really a GIS tool, but it makes some striking 3D visualisations.
 - [Inkscape](https://inkscape.org/) — open-source vector editor for finishing and laying out a map.
-- [Scribus](https://www.scribus.net/) — open-source page layout for when a map becomes a poster or print piece. Prefer Affinity Designer, Illustrator or Figma for the finishing touches? They work just as well.
+- [Scribus](https://www.scribus.net/) — open-source page layout for posters and print.
+
+Prefer Affinity Designer, Illustrator or Figma for finishing? They work just as well.
 
 For interactive web maps:
 
@@ -68,7 +70,7 @@ A curated set — short on padding, all free.
 ### Getting started
 
 - [QGIS Tutorials by Ujaval Gandhi](https://www.qgistutorials.com/) — where most people start with QGIS. Covers the basics through to PyQGIS scripting.
-- [Klas Karlson's QGIS playlist](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_) — calm, friendly video walkthroughs. Pairs nicely with the Gandhi tutorials.
+- [Klas Karlsson's QGIS playlist](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_) — calm, friendly video walkthroughs. Pairs nicely with the Gandhi tutorials.
 - [Mapschool](https://mapschool.io/) by Tom MacWright — a gentle, free intro to what maps actually are. Short read, good background.
 - [So you want to make a map](https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20) by Kenneth Field — a good short read on the fundamentals of map design.
 
@@ -93,13 +95,13 @@ A curated set — short on padding, all free.
 
 ### Annual companion
 
-- [30DayMapChallenge Resource Guide](https://karomapper.substack.com/) by Karolína Lehotská — refreshed each November with that year's picks.
+- [30DayMapChallenge Resource Guide](https://karomapper.substack.com/) by Karolína Lehotská — her favourite links, tools and tips for the challenge. The latest edition is from 2025.
 
 ## Maps without a computer
 
-Plenty of brilliant #30DayMapChallenge entries never touch a screen. Pen, watercolour, embroidery, Lego, ceramics, baking — if you can shape it, you can map with it. It comes back as a theme most years (2020's *Map not made with GIS software*, 2021's *Map made without using a computer*, 2022's *A map without a computer*, 2024's *Pen & paper*, 2025's *Analog*), and the results are reliably some of the most loved maps of the month.
+Plenty of brilliant #30DayMapChallenge entries never touch a screen. Pen, watercolour, embroidery, Lego, ceramics, baking — if you can shape it, you can map with it. It has been a theme every year since 2020: *Map not made with GIS software* (2020), *Map made without using a computer* (2021), *A map without a computer* (2022), *Analog map* (2023), *Pen & paper* (2024) and *Analog* (2025).
 
-Browse the most-loved hand-made entries from past years:
+The archive keeps the most-liked entries from the first three of those:
 
 - [2022 · Day 17 — A map without a computer](2022/day17_A_map_without_a_computer.md)
 - [2021 · Day 15 — Map made without using a computer](2021/day15_Map_made_without_using_a_computer.md)
