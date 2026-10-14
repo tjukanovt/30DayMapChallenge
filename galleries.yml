@@ -20,6 +20,11 @@
   year: 2024
   description: A gallery of maps created by a bunch of IGN volunteers in 2024
 
+  - creator: Mapcreator
+  link: https://mapcreator.io/30-day-map-challenge-mapcreator/
+  year: 2025
+  description: The Mapcreator team's projects and takeaways from the 30 Day Map challenge.
+
 - creator: Federica Gazzelloni
   link: https://fgazzelloni.github.io/30DayMapChallenge/
   year: 2025
