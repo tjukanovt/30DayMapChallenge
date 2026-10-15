@@ -27,7 +27,8 @@ the challenge is still not a competition.
 ## What Mapbox gets
 
 Visibility. Mapbox gets a spot on the website, with links to their gallery and
-to sign up for their tools. That's the deal, and I think it's a fair one. Mapbox
+to sign up for their tools, plus a mention on the flyer and in the main social
+media posts of the challenge. That's the deal, and I think it's a fair one. Mapbox
 has been part of the mapmaking community for a long time, and they've collected
 maps from earlier challenges on their own site. Putting their name on something
 that so many mapmakers care about is a real contribution, and I'm grateful for
