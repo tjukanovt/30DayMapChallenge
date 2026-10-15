@@ -39,8 +39,11 @@ The challenge has grown into something that takes real time and some money to
 keep running: the website, the domain, the yearly flyer, moderation, answering
 emails, and a lot of evenings in October and November. The sponsorship helps
 cover the costs and the effort behind all that, so the challenge can stay free
-and independent of any single platform. I'm not going to share numbers, but the
-money goes into running the challenge and nothing else.
+and open to everyone. I'm not going to share numbers, and to be honest, it's not
+a fortune. Some of it covers the running costs, and the rest compensates for the
+time I put in. What I'm really hoping for is that it opens up new options for
+growing the challenge in the coming years. I want to invest more in it, and
+until now that hasn't really been possible.
 
 ## Next year
 
