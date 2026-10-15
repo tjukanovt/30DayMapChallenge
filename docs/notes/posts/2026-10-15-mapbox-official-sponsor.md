@@ -8,10 +8,10 @@ draft: true               # set true to hide while editing
 
 # Mapbox is the official sponsor of the 2026 challenge
 
-This year's #30DayMapChallenge has an official sponsor: Mapbox. You'll see them
-on the front page of the website from now on. Before anything else, a
-disclosure: I work at Mapbox. I'd rather you hear that from me than find it out
-yourself.
+This year's #30DayMapChallenge has an official sponsor: Mapbox. It's the first
+time in the history of the challenge that it has one, and you'll see Mapbox on
+the front page of the website from now on. For full transparency, I also work at
+Mapbox.
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ yourself.
 Not much, and that's on purpose. The themes are the ones I announced on 1
 October, and Mapbox had no say in them. The challenge stays exactly what it has
 always been: open to everyone, free, and tool-agnostic. Use QGIS, R, Python,
-Mapbox, a spreadsheet or a pen. Nobody needs to use Mapbox products, and nobody
+Mapbox, a spreadsheet or a pen. Nobody needs to use any specific product, and nobody
 will get more attention for doing so. The Code of Conduct stays as it is, and
 the challenge is still not a competition.
 
@@ -36,11 +36,10 @@ it.
 ## Why I'm doing this
 
 The challenge has grown into something that takes real time and some money to
-keep running: the website, the domain, the yearly flyer, moderation, answering
-emails, and a lot of evenings in October and November. The sponsorship helps
-cover the costs and the effort behind all that, so the challenge can stay free
-and open to everyone. I'm not going to share numbers, and to be honest, it's not
-a fortune. Some of it covers the running costs, and the rest compensates for the
+keep running, from the domain and the website to moderation, answering emails
+and a lot of evenings in October and November. The sponsorship helps cover the
+costs and the effort behind all that, so the challenge can stay free and open to
+everyone. Some of it covers the running costs, and the rest compensates for the
 time I put in. What I'm really hoping for is that it opens up new options for
 growing the challenge in the coming years. I want to invest more in it, and
 until now that hasn't really been possible.
