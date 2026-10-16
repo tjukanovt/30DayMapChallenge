@@ -77,6 +77,10 @@ But keep in mind a few things:
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
 
+## Official sponsor
+
+The 2026 challenge is sponsored by [Mapbox](https://www.mapbox.com/). The sponsorship supports the challenge and gives Mapbox visibility in the community. It has no influence on the themes, and you are free to use any tools and data you like. More on [the website](https://30daymapchallenge.com/#official-sponsor).
+
 ## Merchandise
 
 [Get your official #30DayMapChallenge stickers from Redbubble.](https://www.redbubble.com/people/MapChallenge/shop)
