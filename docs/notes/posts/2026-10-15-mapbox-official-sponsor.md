@@ -1,9 +1,9 @@
 ---
-date: 2026-10-15          # post date, controls ordering
+date: 2026-10-16          # post date, controls ordering
 slug: mapbox-official-sponsor
 categories:
   - Announcement          # one of: Recap, Announcement, Community maps
-draft: true               # set true to hide while editing
+draft: false               # set true to hide while editing
 ---
 
 # Mapbox is the official sponsor of the 2026 challenge
