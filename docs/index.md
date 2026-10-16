@@ -86,8 +86,7 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 
 ## Official sponsor
 
-<!-- TODO: add the Mapbox logo (black for light mode, white for dark mode) once the
-files are in docs/imgs/. Brand rules: wordmark + icon together, black or white only. -->
+<p><a href="https://www.mapbox.com/" rel="sponsored noopener"><img src="imgs/mapbox-logo-black.svg#only-light" alt="Mapbox" width="180"><img src="imgs/mapbox-logo-white.svg#only-dark" alt="Mapbox" width="180"></a></p>
 
 <p><a href="https://www.mapbox.com/" rel="sponsored noopener"><strong>Mapbox</strong></a> is the official sponsor of the 2026 challenge. Mapbox provides location infrastructure for developers, from interactive maps and data visualizations to navigation, search and AI agents that understand the physical world. <a href="https://account.mapbox.com/auth/signup/?page=/30daymapchallenge&amp;utm_source=mapbox.com&amp;utm_medium=website&amp;utm_campaign=30daymapchallenge_2026&amp;utm_content=signup_cta" rel="sponsored noopener">Get started without a credit card</a> or explore the <a href="https://www.mapbox.com/gallery?utm_source=mapbox.com&amp;utm_medium=website&amp;utm_campaign=30daymapchallenge_2026&amp;utm_content=gallery_link" rel="sponsored noopener">Mapbox gallery</a>.</p>
 
