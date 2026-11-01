@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: Jonathan Westberry
+  link: https://jonathan-westberry.com/maps/30daymapchallenge-2026/
+  year: 2026
+  description: Maps made for the 2026 challenge, added through November.
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
