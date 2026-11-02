@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: Antonis Kazoulidis
+  link: https://portfolio.kazoulidis.com/projects/30-day-map-challenge/2026
+  year: 2026
+  description: Maps for the 2026 challenge from my GIS portfolio, mostly about Greece.
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
