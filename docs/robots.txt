@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://30daymapchallenge.com/sitemap.xml

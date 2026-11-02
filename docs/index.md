@@ -1,10 +1,12 @@
-## Daily social mapping project happening every November
+---
+description: >-
+  The official home of #30DayMapChallenge — a free daily mapping challenge held
+  every November. Make one map a day for 30 themed days and share it with the world.
+---
+
+# Daily social mapping project happening every November
 
 The official home of #30DayMapChallenge, a daily mapping challenge open to everyone. Every November, participants create one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`.
-
-!!! info "Themes for 2026"
-    The 30 themes for the 2026 challenge will be announced later this year.
-    Themes from past challenges are kept in the **Archive** section.
 
 <div id="challenge-countdown" class="challenge-countdown" hidden>
   <div class="challenge-countdown__block" data-cd-block="themes">
@@ -24,6 +26,18 @@ The official home of #30DayMapChallenge, a daily mapping challenge open to every
     <div class="challenge-countdown__target" data-cd-target></div>
   </div>
 </div>
+
+## 2026 themes
+
+The 2026 challenge runs from 1 to 30 November. Here are the 30 daily themes.
+Themes from past challenges are kept in the **Archive** section.
+
+The 2026 challenge is sponsored by [Mapbox](#official-sponsor). As always,
+you're free to use any tools and data you like.
+
+![The 30 themes for #30DayMapChallenge 2026](imgs/30dmc_2026.png)
+
+--8<-- "includes/themes-2026.md"
 
 ## How it works
 
@@ -50,6 +64,13 @@ Follow the `#30DayMapChallenge` hashtag wherever you already hang out:
   <a class="hashtag-chip" href="https://www.instagram.com/explore/tags/30daymapchallenge/" target="_blank" rel="noopener">Instagram</a>
 </div>
 
+There's also an official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/)
+for announcements and occasional highlights — but the hashtag is where the
+challenge happens, on whichever platform you prefer.
+
+Questions, ideas or anything else? Reach out at
+[info@30daymapchallenge.com](mailto:info@30daymapchallenge.com).
+
 ## Code of Conduct
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
 
@@ -58,10 +79,18 @@ But keep in mind a few things:
 - All maps you publish have to be **your original work**. Don't steal content from others.
 - Give **credit to the original data source** whenever possible.
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
-- Be mindful in how you use AI tooling. If you generate all of your maps with generative AI tools, where's the fun? This is not a prompt engineering challenge.
+- Be smart with AI tools. They can genuinely help your mapmaking, but if you generate all your maps straight from a prompt, where's the fun? Day 10 (Prompting only) is the exception: that's the one day to see how far prompting alone gets you. Whatever you use, be open about how you made it.
 - **Don't be an asshole**. Don't harass or steal from others.
 
 Inspiration for the challenge came from [Inktober](https://inktober.com/) and [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday).
+
+## Official sponsor
+
+<p><a href="https://www.mapbox.com/" rel="sponsored noopener"><img src="imgs/mapbox-logo-black.svg#only-light" alt="Mapbox" width="180"><img src="imgs/mapbox-logo-white.svg#only-dark" alt="Mapbox" width="180"></a></p>
+
+<p><a href="https://www.mapbox.com/" rel="sponsored noopener"><strong>Mapbox</strong></a> is the official sponsor of the 2026 challenge. Mapbox provides location infrastructure for developers, from interactive maps and data visualizations to navigation, search and AI agents that understand the physical world. <a href="https://account.mapbox.com/auth/signup/?page=/30daymapchallenge&amp;utm_source=mapbox.com&amp;utm_medium=website&amp;utm_campaign=30daymapchallenge_2026&amp;utm_content=signup_cta" rel="sponsored noopener">Get started without a credit card</a> or explore the <a href="https://www.mapbox.com/gallery?utm_source=mapbox.com&amp;utm_medium=website&amp;utm_campaign=30daymapchallenge_2026&amp;utm_content=gallery_link" rel="sponsored noopener">Mapbox gallery</a>.</p>
+
+Read what the sponsorship means for the challenge in [this note](notes/index.md).
 
 ## Merchandise
 

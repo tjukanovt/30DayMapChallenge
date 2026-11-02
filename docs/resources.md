@@ -1,3 +1,9 @@
+---
+description: >-
+  Data sources, software, tools and tutorials to help you create maps for the
+  #30DayMapChallenge — whatever your skill level.
+---
+
 # Mapping resources
 
 People come at the #30DayMapChallenge from every direction — writing code, clicking through a GIS, pushing pixels in a design tool, or drawing with pen and paper. The resources below serve all of those. It's a challenge about creativity, not technical skill.

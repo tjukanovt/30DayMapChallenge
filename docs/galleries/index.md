@@ -1,3 +1,9 @@
+---
+description: >-
+  Browse community galleries, portfolios and write-ups of #30DayMapChallenge maps
+  from 2019 onwards — and add your own collection so others can find it.
+---
+
 # Map collections
 
 Every November the #30DayMapChallenge community creates tens of thousands of

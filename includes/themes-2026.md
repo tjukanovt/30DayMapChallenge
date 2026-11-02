@@ -1,0 +1,32 @@
+| Date       | Name              | Description                                                                                                                                                          |
+|------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-11-2026 | Points            | A map challenge classic. Map with points.                                                                                                                            |
+| 02-11-2026 | Lines             | A map challenge classic. Map with lines.                                                                                                                             |
+| 03-11-2026 | Polygons          | A map challenge classic. Map with polygons.                                                                                                                          |
+| 04-11-2026 | Clusters          | Clusters of something. Hotspots, groups, things that gather together.                                                                                                |
+| 05-11-2026 | Senses: Sight     | How do you see something? Maybe map a viewshed?                                                                                                                      |
+| 06-11-2026 | Vintage           | Spin up your time machine and do a map which looks like a historical map, or maybe the theme itself should be vintage.                                               |
+| 07-11-2026 | 10 minute map     | You have no more than 10 minutes to complete this map.                                                                                                               |
+| 08-11-2026 | Utopia            | A map of something which could be.                                                                                                                                   |
+| 09-11-2026 | Urban-rural       | Urban or rural. Cities and countryside.                                                                                                                              |
+| 10-11-2026 | Prompting only    | For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line.                                         |
+| 11-11-2026 | Senses: Sound     | How do you hear something? How do you map a soundscape? Noise pollution mapped?                                                                                      |
+| 12-11-2026 | Power             | Power as in nuclear power? Or physical power or influence? Power grid on a map? Read this the way you want, like every other prompt.                                 |
+| 13-11-2026 | Interactions      | Interactions between things, or maybe the result would be an interactive map?                                                                                        |
+| 14-11-2026 | Borgesian map     | A map so detailed it becomes the territory. Inspired by Borges' [On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science).                  |
+| 15-11-2026 | Inside out        | Inside out, upside down. Something on this map is not quite right.                                                                                                   |
+| 16-11-2026 | Collaborative map | Do a map with a friend, colleague or a stranger. AI doesn't count as a friend :)                                                                                     |
+| 17-11-2026 | Light & dark      | Play with visual effects. What can you map with just light and shadows?                                                                                              |
+| 18-11-2026 | NULL              |                                                                                                                                                                      |
+| 19-11-2026 | Senses: Smell     | How do you map things which your nose can sense? What does a smelly map look like?                                                                                   |
+| 20-11-2026 | Hexagons          | Hexagons, the good old bestagons.                                                                                                                                    |
+| 21-11-2026 | OpenStreetMap     | The awesome data source for mapping. You can also use this day to edit OSM.                                                                                          |
+| 22-11-2026 | Projections       | The different ways of representing a globe on a flat surface. What does [your favourite map projection](https://xkcd.com/977/) say about you?                        |
+| 23-11-2026 | Senses: Taste     | Food, drink or something else which you can taste.                                                                                                                   |
+| 24-11-2026 | Network           | Route network, transit network, human network or something completely different.                                                                                     |
+| 25-11-2026 | Is this a map?    | Stretch the limits of maps and blend your map with an artwork or some creative data visualization. When does something become a map and when does it stop being one? |
+| 26-11-2026 | Water             | About 71% of the Earth's surface. That wet thing, you know?                                                                                                          |
+| 27-11-2026 | New tool          | The challenge has always been about learning things. Try out a new tool in your mapmaking workflow.                                                                  |
+| 28-11-2026 | Senses: Feeling   | The most abstract of the senses series. How would you map a feeling?                                                                                                 |
+| 29-11-2026 | Raster            | Do something cool with pixels.                                                                                                                                       |
+| 30-11-2026 | Pen & paper       | Time to wrap up the challenge by closing your laptop for a while and going back to basics. Do an analogue map with pen and paper.                                    |
