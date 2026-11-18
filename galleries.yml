@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: squidmaps
+  link: https://mapchallengegallery.squidmaps.io/
+  year: 2026
+  description: A community gallery of 2026 challenge maps, collected automatically from public Bluesky and Mastodon posts and browsable by day and theme.
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
