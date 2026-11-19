@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: Jon Chong
+  link: https://sf.whatsupin.ai/?view=map
+  year: 2026
+  description: Live Maps of upcoming events in SF and other cities, from many publicly available sites
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
