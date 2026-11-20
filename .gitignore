@@ -73,3 +73,8 @@ yarn-error.log*
 # Backup files
 *.bak
 *.backup 
+.Rproj.user
+
+# Heavy files
+Day21_OSM/data/*.tif
+Day21_OSM/data/*.gpkg
