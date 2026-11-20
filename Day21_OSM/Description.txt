@@ -1,0 +1,14 @@
+#Day21 - OSM : Lelystad's functional trees by YoonJi Kim
+
+**Content Description**
+Lelystad is an infamous city for its shortsighted planning centered on modernist values.
+When the placement of trees are observed, it becomes visible how the one value overpowered everything else: efficiency.
+In a city such as Lelystad where cars and trains race through, trees become tools to block noise. 
+The fact that roads and railways that are placed in higher grounds are not flanked by trees supports this hypothesis.
+Trees that diverge from roads seem to occupy parking spaces, playgrounds, and parks; where their role is to provide shades for humans.
+The natural conditions such as slope, waterways, and orientation are secondary these human-centered function.
+In Lelystad, trees are planned rather than planted.
+
+**Process Description**
+The first step was to import OSM Data. My initial attempt was to work with silicate dataset which were introduced in the orientation lecture, but the main obstacle for that was CRS Reprojection. After struggling a while, I decided to go back to the familiar sf. Then I assigned Z values to road segments by extracting them from AHN(Actueel Hoogtebestand Nederland) raster data and color-coded the lines based on this value. Only segments that had maxspeed values were filtered and these values were reclassified, which were differentiated into different linetypes. The last step was to overlap it with point data representing trees, slope map extracted from the AHN raster, and other OSM data such as water and railway to provide the reader with more context and information.
+The AHN raster data was too heavy, thus excluded from push: the tiles are M_20DN2, M_20DZ2, M_20GN1, M_20GN2, M_20GZ1, M_20GZ2, M_26BN1, M_26BN2, M_26EN1.
