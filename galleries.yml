@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: GIS Specialist
+  link: https://gisspecialist.it/30daymapchallenge2026/gallery/
+  year: 2026
+  description: 30 maps of Veneto, Italy and the world, made with QGIS and Python.
+  
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
