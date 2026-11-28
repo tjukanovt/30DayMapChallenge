@@ -10,6 +10,11 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: Xiao Cui
+  link: https://666xiao666.github.io/30DayMapChallenge2026_XC/Map30Day_2026_collection.html
+  year: 2026
+  description: A personal map collection for 30DayMapChallenge 2026
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
