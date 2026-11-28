@@ -10,6 +10,16 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+- creator: Florent RICHARD
+  link: https://florentrichard.codeberg.page/30daymapchallenge/2026.html
+  year: 2026
+  description: A gallery of maps created by Florent RICHARD in 2026, originally posted on Mastodon
+
+- creator: Florent RICHARD
+  link: https://florentrichard.codeberg.page/30daymapchallenge/2025.html
+  year: 2025
+  description: A gallery of maps created by Florent RICHARD in 2025, originally posted on Mastodon
+
 - creator: IGN - Institut National de Géographie et d'Information Forestière
   link: https://www.ign.fr/mag/30DayMapChallenge-30-jours-30-cartes-pour-celebrer-la-creativite-cartographique
   year: 2025
